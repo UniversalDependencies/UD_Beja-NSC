@@ -12,7 +12,7 @@
 7	kʷiɖ	_	VERB	V2	VerbClass=2	10	parataxis	_	GE= V2|Gloss= disappear|ReportedSpeech=Yes|Times= 2092, 2231|TokenType=Stem
 8	-ja	_	PRON	TAM,PNG	Aspect=Pfv|Gender=Masc|Number=Sing|Person=3	7	nsubj:aff	_	GE= -PFV,3SG,M|RX= -TAM,PNG|Times= 2231, 2370|TokenType=Aff
 9	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	10	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 2370, 2509|TokenType=Aff
-10	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX=V1,IRG|Times= 2509, 2648|TokenType=Stem
+10	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX=V1,IRG|Times= 2509, 2648|TokenType=Stem
 11	//	_	PUNCT	PUNCT	_	10	punct	_	GE= PUNCT|RX=PUNCT|Times= 2648, 2926
 
 # sent_id = BEJ_MV_NARR_01_shelter_006-014
@@ -35,14 +35,14 @@
 14	-a	_	SCONJ	CVB	VerbForm=Conv	13	mark:aff	_	GE= -CVB,MNR|Times= 6006, 6152|TokenType=Aff
 15	/	_	PUNCT	PUNCT	_	13	punct	_	GE= PUNCT|RX=PUNCT|Times= 6152, 6713
 16	a-	_	PRON	PNG	Number=Sing|Person=1	17	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 6713, 6799|TokenType=Aff
-17	dif	_	VERB	V1	Aspect=Prf|VerbClass=1	24	advcl	_	GE= PFV|Gloss= leave|RX=V1|Times= 6799, 6885|TokenType=Stem
+17	dif	_	VERB	V1	Aspect=Perf|VerbClass=1	24	advcl	_	GE= PFV|Gloss= leave|RX=V1|Times= 6799, 6885|TokenType=Stem
 18	=hoːb	_	SCONJ	CONJ	_	17	mark	_	GE= =CONJ|Gloss= =when|Times= 6885, 6972|TokenType=Clit
 19	//	_	PUNCT	PUNCT	_	17	punct	_	GE= PUNCT|RX=PUNCT|Times= 6972, 7232
 20	biri	_	NOUN	N	Gender=Masc	24	nsubj	_	Gloss= rain|RX= N,M|Times= 7232, 7478|TokenType=Stem
 21	dh	_	ADP	POSTP	_	24	iobj	_	GE= DIR|RX=POSTP|Times= 7478, 7601|TokenType=Stem
 22	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	20	nmod:poss	_	GE= =POSS,1SG,ACC|RX= =PRO|Times= 7601, 7724|TokenType=Clit
 23	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	24	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 7724, 7847|TokenType=Aff
-24	jaːm	_	VERB	V1	Aspect=Prf|VerbClass=1	0	root	_	GE= INT,PFV|Gloss= rain|RX=V1,DER|Times= 7847, 7970|TokenType=Stem
+24	jaːm	_	VERB	V1	Aspect=Perf|VerbClass=1	0	root	_	GE= INT,PFV|Gloss= rain|RX=V1,DER|Times= 7847, 7970|TokenType=Stem
 25	//	_	PUNCT	PUNCT	_	24	punct	_	GE= PUNCT|RX=PUNCT|Times= 7970, 9063
 
 # sent_id = BEJ_MV_NARR_01_shelter_015-024
@@ -64,15 +64,15 @@
 13	geːb	_	ADP	POSTP	_	11	case	_	Gloss= beside|RX= POSTP|Times= 12552, 12836|TokenType=Stem
 14	//	_	PUNCT	PUNCT	_	11	punct	_	GE= PUNCT|RX=PUNCT|Times= 12836, 13350
 15	kirra	_	VERB	V1	VerbClass=1	22	acl:relcl	_	GE= V1|Gloss= cover|Times= 13350, 13477|TokenType=Stem
-16	-jaː	_	SCONJ	CVB	Aspect=Prf|VerbForm=Conv	15	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 13477, 13604|TokenType=Aff
+16	-jaː	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	15	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 13477, 13604|TokenType=Aff
 17	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	15	det	_	GE= =INDF,M,ACC|RX= =DET|Times= 13604, 13732|TokenType=Clit
 18	iː-	_	PRON	PNG	_	15	nsubj:aff	_	GE= 3-|RX= PNG-|Times= 13732, 13859|TokenType=Aff
-19	ktiː	_	AUX	AUX	Aspect=Prf	15	aux	_	GE= AOR|Gloss= become|RX=AUX,PRF|Times= 13859, 13987|TokenType=Stem
+19	ktiː	_	AUX	AUX	Aspect=Perf	15	aux	_	GE= AOR|Gloss= become|RX=AUX,PRF|Times= 13859, 13987|TokenType=Stem
 20	-na	_	PRON	PNG	Number=Plur	15	nsubj:aff	_	GE= -PL|RX= -PNG|Times= 13987, 14115|TokenType=Aff
 21	i=	_	DET	DET	Definite=Def|Gender=Masc	22	det	_	GE= DEF,M=|RX= DET=|Times= 14115, 14306|TokenType=Clit
 22	bʔaɖ	_	NOUN	N	Gender=Masc	24	nsubj	_	Gloss= mat|RX= N,M|Times= 14306, 14497|TokenType=Stem
 23	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	24	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 14497, 14592|TokenType=Aff
-24	sini	_	VERB	V1	Aspect=Prf|VerbClass=1	34	advcl	_	GE= PFV|Gloss= wait|RX=V1|Times= 14592, 14688|TokenType=Stem
+24	sini	_	VERB	V1	Aspect=Perf|VerbClass=1	34	advcl	_	GE= PFV|Gloss= wait|RX=V1|Times= 14592, 14688|TokenType=Stem
 25	=joː	_	PRON	PRO	Number=Sing|Person=1	24	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 14688, 14784|TokenType=Clit
 26	=hoːb	_	SCONJ	CONJ	_	24	mark	_	GE= =CONJ|Gloss= =when|Times= 14784, 14880|TokenType=Clit
 27	/	_	PUNCT	PUNCT	_	24	punct	_	GE= PUNCT|RX=PUNCT|Times= 14880, 16106
@@ -82,9 +82,9 @@
 31	whiː	_	ADP	POSTP	_	29	case	_	Gloss= under|RX= POSTP|Times= 16431, 16756|TokenType=Stem
 32	/	_	PUNCT	PUNCT	_	29	punct	_	GE= PUNCT|RX=PUNCT|Times= 16756, 17082
 33	a-	_	PRON	PNG	Number=Sing|Person=1	34	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 17082, 17217|TokenType=Aff
-34	sʔa	_	VERB	V1	Aspect=Prf|VerbClass=1|Voice=Mid	36	parataxis	_	GE= MID,PFV|Gloss= sit|ReportedSpeech=Yes|RX=V1,DER|Times= 17217, 17352|TokenType=Stem
+34	sʔa	_	VERB	V1	Aspect=Perf|VerbClass=1|Voice=Mid	36	parataxis	_	GE= MID,PFV|Gloss= sit|ReportedSpeech=Yes|RX=V1,DER|Times= 17217, 17352|TokenType=Stem
 35	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	36	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 17352, 17487|TokenType=Aff
-36	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX=V1,IRG|Times= 17487, 17623|TokenType=Stem
+36	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX=V1,IRG|Times= 17487, 17623|TokenType=Stem
 37	//	_	PUNCT	PUNCT	_	36	punct	_	GE= PUNCT|RX=PUNCT|Times= 17623, 18153
 
 # sent_id = BEJ_MV_NARR_01_shelter_025-033
@@ -106,13 +106,13 @@
 13	na	_	SCONJ	CONJ	_	16	obj	_	Gloss= thing|RX= CONJ|Times= 20867, 20970|TokenType=Stem
 14	/	_	PUNCT	PUNCT	_	13	punct	_	GE= PUNCT|RX=PUNCT|Times= 20970, 21408
 15	a-	_	PRON	PNG	Number=Sing|Person=1	16	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 21408, 21532|TokenType=Aff
-16	kan	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1|Voice=Mid	20	parataxis:mod	_	GE= MID,PFV|Gloss= know|RX=V1,DER,IRG|Times= 21532, 21657|TokenType=Stem
+16	kan	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1|Voice=Mid	20	parataxis:mod	_	GE= MID,PFV|Gloss= know|RX=V1,DER,IRG|Times= 21532, 21657|TokenType=Stem
 17	/	_	PUNCT	PUNCT	_	16	punct	_	GE= PUNCT|RX=PUNCT|Times= 21657, 22569
 18	hoːj	_	PRON	PRO	Case=Abl	20	iobj	_	GE= ABL,3|RX=PRO|Times= 22569, 22777|TokenType=Stem
 19	a-	_	PRON	PNG	Number=Sing|Person=1	20	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 22777, 22881|TokenType=Aff
-20	moːk	_	VERB	V1	Aspect=Prf|VerbClass=1	22	parataxis	_	GE= INT,PFV|Gloss= take_shelter|ReportedSpeech=Yes|RX=V1,DER|Times= 22881, 22986|TokenType=Stem
+20	moːk	_	VERB	V1	Aspect=Perf|VerbClass=1	22	parataxis	_	GE= INT,PFV|Gloss= take_shelter|ReportedSpeech=Yes|RX=V1,DER|Times= 22881, 22986|TokenType=Stem
 21	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	22	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 22986, 23090|TokenType=Aff
-22	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX=V1,IRG|Times= 23090, 23195|TokenType=Stem
+22	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX=V1,IRG|Times= 23090, 23195|TokenType=Stem
 23	//	_	PUNCT	PUNCT	_	22	punct	_	GE= PUNCT|RX=PUNCT|Times= 23195, 23859
 
 # sent_id = BEJ_MV_NARR_01_shelter_034-039
@@ -131,15 +131,15 @@
 10	/	_	PUNCT	PUNCT	_	9	punct	_	GE= PUNCT|RX=PUNCT|Times= 25449, 26008
 11	diːseːt	_	ADV	ADV	_	12	advmod	_	Gloss= slowly|RX= ADV|Times= 26008, 26503|TokenType=Stem
 12	ʔit	_	VERB	V2	VerbClass=2	18	advcl	_	GE= V2|Gloss= fall_asleep|Times= 26503, 26626|TokenType=Stem
-13	-ja	_	PRON	TAM,PNG	Aspect=Prf|Gender=Masc|Number=Sing|Person=3	12	nsubj:aff	_	GE= -PFV,3SG,M|RX= -TAM,PNG|Times= 26626, 26750|TokenType=Aff
+13	-ja	_	PRON	TAM,PNG	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	12	nsubj:aff	_	GE= -PFV,3SG,M|RX= -TAM,PNG|Times= 26626, 26750|TokenType=Aff
 14	-n	_	X	NP	_	12	dep:aff	_	GE= -L|Times= 26750, 26874|TokenType=Aff
 15	=hoːb	_	SCONJ	CONJ	_	12	mark	_	GE= =CONJ|Gloss= =when|Times= 26874, 26998|TokenType=Clit
 16	//	_	PUNCT	PUNCT	_	12	punct	_	GE= PUNCT|RX=PUNCT|Times= 26998, 28033
 17	tak	_	NOUN	N	Gender=Masc	18	nsubj	_	Gloss= man|RX= SBJ,N,M|Times= 28033, 28250|TokenType=Stem
-18	eːja	_	VERB	V2,IRG	Aspect=Prf|Gender=Masc|Number=Sing|Person=3|VerbClass=2	21	parataxis	_	GE= PFV,3SG,M|Gloss= come|ReportedSpeech=Yes|RX=V2,IRG|Times= 28250, 28359|TokenType=Stem
+18	eːja	_	VERB	V2,IRG	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbClass=2	21	parataxis	_	GE= PFV,3SG,M|Gloss= come|ReportedSpeech=Yes|RX=V2,IRG|Times= 28250, 28359|TokenType=Stem
 19	=heːb	_	PRON	PRO	Number=Sing|Person=1	18	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 28359, 28468|TokenType=Clit
 20	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	21	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 28468, 28577|TokenType=Aff
-21	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX=V1,IRG|Times= 28577, 28686|TokenType=Stem
+21	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX=V1,IRG|Times= 28577, 28686|TokenType=Stem
 22	//	_	PUNCT	PUNCT	_	21	punct	_	GE= PUNCT|RX=PUNCT|Times= 28686, 30643
 
 # sent_id = BEJ_MV_NARR_01_shelter_040-042
@@ -150,17 +150,17 @@
 2	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	1	det	_	GE= =INDF,M,ACC|RX= =DET|Times= 30859, 31075|TokenType=Clit
 3	hoːsoː	_	PRON	PRO	Case=Abl	4	dep:comp	_	GE= ABL,3|RX=PRO|Times= 31075, 31507|TokenType=Stem
 4	ʃʔag	_	VERB	V1	VerbClass=1	0	root	_	GE= V1|Gloss= carry_on_shoulder|Times= 31507, 31615|TokenType=Stem
-5	-aː	_	SCONJ	CVB	Aspect=Prf|VerbForm=Conv	4	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 31615, 31723|TokenType=Aff
+5	-aː	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	4	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 31615, 31723|TokenType=Aff
 6	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	4	det	_	GE= =INDF,M,ACC|RX= =DET|Times= 31723, 31831|TokenType=Clit
 7	=u	_	AUX	N,COP	Number=Sing|Person=3|VerbType=Cop	4	cop	_	GE= =COP,3SG|RX= =PRED,N|Times= 31831, 31939|TokenType=Clit
 8	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	det	_	GE= DEF,SG,M,NOM=|RX= DET=|Times= 31939, 32155|TokenType=Clit
 9	tak	_	NOUN	N	Gender=Masc	4	dislocated:subj	_	Gloss= man|RX= SBJ,N,M|Times= 32155, 32371|TokenType=Stem
 10	//	_	PUNCT	PUNCT	_	4	punct	_	GE= PUNCT|RX=PUNCT|Times= 32371, 32803
 11	ʔasal	_	VERB	V2	VerbClass=2	1	acl:relcl	_	GE= V2|Gloss= grill|Times= 32803, 32937|TokenType=Stem
-12	-aː	_	SCONJ	CVB	Aspect=Prf|VerbForm=Conv	11	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 32937, 33071|TokenType=Aff
+12	-aː	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	11	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 32937, 33071|TokenType=Aff
 13	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	11	det	_	GE= =INDF,M,ACC|RX= =DET|Times= 33071, 33206|TokenType=Clit
 14	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	11	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 33206, 33340|TokenType=Aff
-15	kti	_	AUX	AUX	Aspect=Prf	11	cop	_	GE= AOR|Gloss= become|RX=AUX,PRF|Times= 33340, 33474|TokenType=Stem
+15	kti	_	AUX	AUX	Aspect=Perf	11	cop	_	GE= AOR|Gloss= become|RX=AUX,PRF|Times= 33340, 33474|TokenType=Stem
 16	=jeːb	_	SCONJ	CONJ	Gender=Masc|Number=Sing	11	mark	_	GE= =REL,SG,M|RX= =CONJ|Times= 33474, 33609|TokenType=Clit
 17	/	_	PUNCT	PUNCT	_	4	punct	_	GE= PUNCT|RX=PUNCT|Times= 33609, 35009
 
@@ -178,14 +178,14 @@
 8	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	9	det	_	GE= DEF,SG,M=|RX= DET=|Times= 36736, 36853|TokenType=Clit
 9	hi	_	NOUN	N	_	4	obj	_	Gloss= lamb|RX= N|Times= 36853, 36971|TokenType=Stem
 10	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	11	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 36971, 37030|TokenType=Aff
-11	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	18	advcl	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 37030, 37089|TokenType=Stem
+11	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	18	advcl	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 37030, 37089|TokenType=Stem
 12	=oː	_	PRON	PRO	Number=Sing|Person=1	11	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 37089, 37148|TokenType=Clit
 13	=hoːb	_	SCONJ	CONJ	_	11	mark	_	Gloss= =when|RX= =CONJ|Times= 37148, 37207|TokenType=Clit
 14	//	_	PUNCT	PUNCT	_	11	punct	_	GE= PUNCT|RX= PUNCT|Times= 37207, 37443
 15	ajwa	_	PART	PTCL	_	18	parataxis	_	Gloss= yes|ReportedSpeech=Yes|RX= PTCL|Times= 37443, 37774|TokenType=Stem
 16	/	_	PUNCT	PUNCT	_	15	punct	_	GE= PUNCT|RX= PUNCT|Times= 37774, 38105
 17	a-	_	PRON	PNG	Number=Sing|Person=1	18	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 38105, 38239|TokenType=Aff
-18	di	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 38239, 38373|TokenType=Stem
+18	di	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 38239, 38373|TokenType=Stem
 19	=t	_	CCONJ	CCONJ	_	18	cc	_	GE= =COORD|RX= CCONJ|Times= 38373, 38507|TokenType=Clit
 
 # sent_id = BEJ_MV_NARR_01_shelter_048-050
@@ -196,15 +196,15 @@
 2	his	_	NOUN	N	Gender=Masc	4	obj	_	Gloss= voice|RX= N,M|Times= 38641, 38775|TokenType=Stem
 3	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	2	nmod:poss	_	GE= =POSS,1SG,ACC|RX= =PRO|Times= 38775, 38910|TokenType=Clit
 4	gajjar	_	VERB	V2	VerbClass=2	9	dep:conj	_	Gloss= change|RX= V2|Times= 38910, 39044|TokenType=Stem
-5	-an	_	PRON	TAM,PNG	Aspect=Prf|Number=Sing|Person=1	4	nsubj:aff	_	GE= -PFV,1SG|RX= -TAM,PNG|Times= 39044, 39178|TokenType=Aff
+5	-an	_	PRON	TAM,PNG	Aspect=Perf|Number=Sing|Person=1	4	nsubj:aff	_	GE= -PFV,1SG|RX= -TAM,PNG|Times= 39044, 39178|TokenType=Aff
 6	=t	_	CCONJ	CCONJ	_	4	cc	_	GE= =COORD|RX= CCONJ|Times= 39178, 39312|TokenType=Clit
 7	/	_	PUNCT	PUNCT	_	4	punct	_	GE= PUNCT|RX= PUNCT|Times= 39312, 39715
 8	hoːj	_	PRON	PRO	Case=Abl	9	iobj	_	GE= ABL,3|RX= PRO|Times= 39715, 40053|TokenType=Stem
 9	sallam	_	VERB	V2	VerbClass=2	13	parataxis	_	Gloss= give|ReportedSpeech=Yes|RX= V2|Times= 40053, 40165|TokenType=Stem
 10	-am	_	AUX	V2	VerbClass=2|Voice=Mid	9	aux:aff	_	GE= -MID|RX= -V2,DER|Times= 40165, 40278|TokenType=Aff
-11	-an	_	PRON	TAM,PNG	Aspect=Prf|Number=Sing|Person=1	9	nsubj:aff	_	GE= -PFV,1SG|RX= -TAM,PNG|Times= 40278, 40391|TokenType=Aff
+11	-an	_	PRON	TAM,PNG	Aspect=Perf|Number=Sing|Person=1	9	nsubj:aff	_	GE= -PFV,1SG|RX= -TAM,PNG|Times= 40278, 40391|TokenType=Aff
 12	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	13	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 40391, 40560|TokenType=Aff
-13	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 40560, 40729|TokenType=Stem
+13	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 40560, 40729|TokenType=Stem
 14	//	_	PUNCT	PUNCT	_	13	punct	_	GE= PUNCT|RX= PUNCT|Times= 40729, 42616
 
 # sent_id = BEJ_MV_NARR_01_shelter_051-054
@@ -216,13 +216,13 @@
 3	iːjʔaː	_	NOUN	N	Gender=Fem|Number=Plur	1	nmod	_	Gloss= milk|RX= N,PL,F|Times= 43034, 43243|TokenType=Stem
 4	=t	_	DET	DET	Definite=Ind|Gender=Fem	3	det	_	GE= =INDF,F|RX= =DET|Times= 43243, 43452|TokenType=Clit
 5	tib	_	VERB	V1	VerbClass=1	1	acl:relcl	_	Gloss= fill|RX= V1|Times= 43452, 43591|TokenType=Stem
-6	-aː	_	SCONJ	CVB	Aspect=Prf|VerbForm=Conv	5	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 43591, 43730|TokenType=Aff
+6	-aː	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	5	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 43591, 43730|TokenType=Aff
 7	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	5	det	_	GE= =INDF,M,ACC|RX= =DET|Times= 43730, 43870|TokenType=Clit
 8	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	5	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 43870, 44009|TokenType=Aff
-9	kti	_	AUX	AUX	Aspect=Prf	5	aux	_	GE= AOR|Gloss= become|RX= AUX,PRF|Times= 44009, 44148|TokenType=Stem
+9	kti	_	AUX	AUX	Aspect=Perf	5	aux	_	GE= AOR|Gloss= become|RX= AUX,PRF|Times= 44009, 44148|TokenType=Stem
 10	=jeːt	_	SCONJ	CONJ	Gender=Fem	5	mark	_	GE= =REL,F|RX= =CONJ|Times= 44148, 44288|TokenType=Clit
 11	sallam	_	VERB	V2	VerbClass=2	17	dep:conj	_	Gloss= give|RX= V2|Times= 44288, 44392|TokenType=Stem
-12	-ja	_	PRON	TAM,PNG	Aspect=Prf|Gender=Masc|Number=Sing|Person=3	11	nsubj:aff	_	GE= -PFV,3SG,M|RX= -TAM,PNG|Times= 44392, 44497|TokenType=Aff
+12	-ja	_	PRON	TAM,PNG	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	11	nsubj:aff	_	GE= -PFV,3SG,M|RX= -TAM,PNG|Times= 44392, 44497|TokenType=Aff
 13	=ajt	_	CCONJ	CONJ	_	11	cc	_	GE= =CSL|RX= =CONJ|Times= 44497, 44601|TokenType=Clit
 14	=heːb	_	PRON	PRO	Number=Sing|Person=1	11	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 44601, 44706|TokenType=Clit
 15	//	_	PUNCT	PUNCT	_	11	punct	_	GE= PUNCT|RX= PUNCT|Times= 44706, 45124
@@ -231,16 +231,16 @@
 18	-i	_	PRON	TAM,PNG	Gender=Fem|Mood=Imp|Number=Sing	17	nsubj:aff	_	GE= -IMP,SG,F|RX= -TAM,PNG|Times= 45512, 45609|TokenType=Aff
 19	-n	_	AUX	SUFX	_	17	aux:aff	_	GE= -EMPH|RX= -SUFX|Times= 45609, 45707|TokenType=Aff
 20	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	21	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 45707, 45780|TokenType=Aff
-21	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	30	advcl	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 45780, 45853|TokenType=Stem
+21	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	30	advcl	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 45780, 45853|TokenType=Stem
 22	=oː	_	PRON	PRO	Number=Sing|Person=1	21	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 45853, 45926|TokenType=Clit
 23	=hoːb	_	SCONJ	CONJ	_	21	mark	_	Gloss= =when|RX= =CONJ|Times= 45926, 45999|TokenType=Clit
 24	//	_	PUNCT	PUNCT	_	21	punct	_	GE= PUNCT|RX= PUNCT|Times= 45999, 46291
 25	hoːj	_	PRON	PRO	Case=Abl	26	iobj	_	GE= ABL,3|RX= PRO|Times= 46291, 46614|TokenType=Stem
 26	sallam	_	VERB	V2	VerbClass=2	30	parataxis	_	Gloss= give|ReportedSpeech=Yes|RX= V2|Times= 46614, 46722|TokenType=Stem
 27	-am	_	AUX	V2	VerbClass=2|Voice=Mid	26	aux:aff	_	GE= -MID|RX= -V2,DER|Times= 46722, 46830|TokenType=Aff
-28	-an	_	PRON	TAM,PNG	Aspect=Prf|Number=Sing|Person=1	26	nsubj:aff	_	GE= -PFV,1SG|RX= -TAM,PNG|Times= 46830, 46938|TokenType=Aff
+28	-an	_	PRON	TAM,PNG	Aspect=Perf|Number=Sing|Person=1	26	nsubj:aff	_	GE= -PFV,1SG|RX= -TAM,PNG|Times= 46830, 46938|TokenType=Aff
 29	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	30	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 46938, 47100|TokenType=Aff
-30	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 47100, 47262|TokenType=Stem
+30	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 47100, 47262|TokenType=Stem
 31	//	_	PUNCT	PUNCT	_	30	punct	_	GE= PUNCT|RX= PUNCT|Times= 47262, 48704
 
 # sent_id = BEJ_MV_NARR_01_shelter_055-060
@@ -265,7 +265,7 @@
 16	-i	_	PRON	TAM,PNG	Gender=Fem|Mood=Imp|Number=Sing	15	nsubj:aff	_	GE= -IMP,SG,F|RX= -TAM,PNG|Times= 52981, 53077|TokenType=Aff
 17	-n	_	AUX	SUFX	_	15	aux:aff	_	GE= -EMPH|RX= -SUFX|Times= 53077, 53173|TokenType=Aff
 18	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	19	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 53173, 53244|TokenType=Aff
-19	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	28	advcl	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 53244, 53316|TokenType=Stem
+19	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	28	advcl	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 53244, 53316|TokenType=Stem
 20	=oː	_	PRON	PRO	Number=Sing|Person=1	19	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 53316, 53388|TokenType=Clit
 21	=hoːb	_	SCONJ	CONJ	_	19	mark	_	Gloss= =when|RX= =CONJ|Times= 53388, 53460|TokenType=Clit
 22	//	_	PUNCT	PUNCT	_	19	punct	_	GE= PUNCT|RX= PUNCT|Times= 53460, 53748
@@ -274,7 +274,7 @@
 25	-am	_	AUX	V2	VerbClass=2|Voice=Mid	24	aux:aff	_	GE= -MID|RX= -V2,DER|Times= 54151, 54252|TokenType=Aff
 26	-an	_	PRON	TAM,PNG	Aspect=Pfv|Number=Sing|Person=1	24	nsubj:aff	_	GE= -PFV,1SG|RX= -TAM,PNG|Times= 54252, 54353|TokenType=Aff
 27	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	28	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 54353, 54504|TokenType=Aff
-28	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 54504, 54656|TokenType=Stem
+28	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 54504, 54656|TokenType=Stem
 29	//	_	PUNCT	PUNCT	_	28	punct	_	GE= PUNCT|RX= PUNCT|Times= 54656, 56172
 
 # sent_id = BEJ_MV_NARR_01_shelter_061-064
@@ -301,7 +301,7 @@
 3	-i	_	PRON	TAM,PNG	Gender=Fem|Mood=Imp|Number=Sing	2	nsubj:aff	_	GE= -IMP,SG,F|RX= -TAM,PNG|Times= 59075, 59164|TokenType=Aff
 4	-n	_	AUX	SUFX	_	2	aux:aff	_	GE= -EMPH|RX= -SUFX|Times= 59164, 59254|TokenType=Aff
 5	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	6	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 59254, 59321|TokenType=Aff
-6	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	11	advcl	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 59321, 59388|TokenType=Stem
+6	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	11	advcl	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 59321, 59388|TokenType=Stem
 7	=oː	_	PRON	PRO	Number=Sing|Person=1	6	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 59388, 59455|TokenType=Clit
 8	=hoːb	_	SCONJ	CONJ	_	6	mark	_	Gloss= =when|RX= =CONJ|Times= 59455, 59522|TokenType=Clit
 9	/	_	PUNCT	PUNCT	_	6	punct	_	GE= PUNCT|RX= PUNCT|Times= 59522, 59790
@@ -318,13 +318,13 @@
 20	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	21	det	_	GE= DEF,SG,F,ACC=|RX= DET=|Times= 62068, 62292|TokenType=Clit
 21	ʃa	_	NOUN	N	Gender=Fem	25	obj	_	Gloss= meat|RX= N,F|Times= 62292, 62517|TokenType=Stem
 22	kitʔ	_	VERB	V1	VerbClass=1	25	cop	_	Gloss= cut|RX= V1|Times= 62517, 62666|TokenType=Stem
-23	-a	_	SCONJ	CVB	Aspect=Prf|VerbForm=Conv	25	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 62666, 62816|TokenType=Aff
+23	-a	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	25	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 62666, 62816|TokenType=Aff
 24	=t	_	DET	DET	Definite=Ind|Gender=Fem	25	det	_	GE= =INDF,F|RX= =DET|Times= 62816, 62966|TokenType=Clit
 25	tam	_	VERB	V2	VerbClass=2	0	root	_	Gloss= eat|RX= V2|Times= 62966, 63115|TokenType=Stem
-26	-a	_	SCONJ	CVB	Aspect=Prf|VerbForm=Conv	25	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 63115, 63264|TokenType=Aff
+26	-a	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	25	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 63115, 63264|TokenType=Aff
 27	=t	_	DET	DET	Definite=Ind|Gender=Fem	25	det	_	GE= =INDF,F|RX= =DET|Times= 63264, 63414|TokenType=Clit
 28	ni-	_	PRON	PNG	Number=Plur|Person=1	25	nsubj:aff	_	GE= 1PL-|RX= PNG-|Times= 63414, 63638|TokenType=Aff
-29	ki	_	AUX	AUX	Aspect=Prf	25	aux	_	GE= PFV|Gloss= become|RX= AUX,PRF|Times= 63638, 63863|TokenType=Stem
+29	ki	_	AUX	AUX	Aspect=Perf	25	aux	_	GE= PFV|Gloss= become|RX= AUX,PRF|Times= 63638, 63863|TokenType=Stem
 30	/	_	PUNCT	PUNCT	_	25	punct	_	GE= PUNCT|RX= PUNCT|Times= 63863, 65384
 
 # sent_id = BEJ_MV_NARR_01_shelter_071-075
@@ -333,23 +333,23 @@
 # tokenized_text = uːn uːtak / doːr han kanaːji kiːki / titakat hiːsheːbaːjt //
 1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	GE= PROX,SG,M,NOM|RX= DEM|Times= 65384, 65579|TokenType=Stem
 2	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	det	_	GE= DEF,SG,M,NOM=|RX= DET=|Times= 65579, 65676|TokenType=Clit
-3	tak	_	NOUN	N	Gender=Masc	16	nsubj	_	Gloss= man|RX= SBJ,N,M|Times= 65676, 65774|TokenType=Stem
+3	tak	_	NOUN	N	Gender=Masc	7	nsubj	_	Gloss= man|RX= SBJ,N,M|Times= 65676, 65774|TokenType=Stem
 4	/	_	PUNCT	PUNCT	_	3	punct	_	GE= PUNCT|RX= PUNCT|Times= 65774, 66284
-5	doːr	_	NOUN	N	Gender=Masc	16	obl:mod	_	Gloss= time|RX= N,M|Times= 66284, 66611|TokenType=Stem
+5	doːr	_	NOUN	N	Gender=Masc	7	obl:mod	_	Gloss= time|RX= N,M|Times= 66284, 66611|TokenType=Stem
 6	han	_	PART	PTCL	_	5	advmod:fixed	_	Gloss= also|RX= PTCL,FOC|Times= 66611, 66939|TokenType=Stem
-7	kan	_	VERB	V1,IRG	VerbClass=1|Voice=Mid	16	aux	_	GE= MID|Gloss= know|RX= V1,DER,IRG|Times= 66939, 67048|TokenType=Stem
-8	-aː	_	SCONJ	CVB	Aspect=Prf|VerbForm=Conv	16	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 67048, 67157|TokenType=Aff
-9	=ji	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	16	obj:aff	_	GE= =POSS,1SG,ACC|RX= =PRO|Times= 67157, 67266|TokenType=Clit
-10	ki=	_	PART	PTCL,NEG	Aspect=Imp|Polarity=Neg	16	advmod	_	GE= NEG,IPFV=|RX= PTCL=|Times= 67266, 67375|TokenType=Clit
-11	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	16	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 67375, 67484|TokenType=Aff
-12	ki	_	AUX	AUX	Aspect=Prf	16	aux	_	GE= PFV|Gloss= become|RX= AUX,PRF|Times= 67484, 67594|TokenType=Stem
-13	/	_	PUNCT	PUNCT	_	16	punct	_	GE= PUNCT|RX= PUNCT|Times= 67594, 67922
+7	kan	_	VERB	V1,IRG	VerbClass=1|Voice=Mid	0	root	_	GE= MID|Gloss= know|RX= V1,DER,IRG|Times= 66939, 67048|TokenType=Stem
+8	-aː	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	7	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 67048, 67157|TokenType=Aff
+9	=ji	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	7	obj:aff	_	GE= =POSS,1SG,ACC|RX= =PRO|Times= 67157, 67266|TokenType=Clit
+10	ki=	_	PART	PTCL,NEG	Aspect=Imp|Polarity=Neg	7	advmod	_	GE= NEG,IPFV=|RX= PTCL=|Times= 67266, 67375|TokenType=Clit
+11	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	7	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 67375, 67484|TokenType=Aff
+12	ki	_	AUX	AUX	Aspect=Perf	7	aux	_	GE= PFV|Gloss= become|RX= AUX,PRF|Times= 67484, 67594|TokenType=Stem
+13	/	_	PUNCT	PUNCT	_	7	punct	_	GE= PUNCT|RX= PUNCT|Times= 67594, 67922
 14	ti=	_	DET	DET	Definite=Def|Gender=Fem	15	det	_	GE= DEF,F=|RX= DET=|Times= 67922, 68197|TokenType=Clit
 15	takat	_	NOUN	N	Gender=Fem	16	obj	_	Gloss= woman|RX= N,F|Times= 68197, 68473|TokenType=Stem
-16	hiːs	_	VERB	V2	Aspect=Prf|VerbClass=2	0	root	_	GE= PFV,[3SG,M]|Gloss= think|RX= V2|Times= 68473, 68656|TokenType=Stem
+16	hiːs	_	VERB	V2	Aspect=Perf|VerbClass=2	7	advcl	_	GE= PFV,[3SG,M]|Gloss= think|RX= V2|Times= 68473, 68656|TokenType=Stem
 17	=heːb	_	PRON	PRO	Number=Sing|Person=1	16	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 68656, 68840|TokenType=Clit
-18	=ajt	_	CCONJ	CONJ	_	16	cc	_	GE= =CSL|RX= =CONJ|Times= 68840, 69024|TokenType=Clit
-19	//	_	PUNCT	PUNCT	_	16	punct	_	GE= PUNCT|RX= PUNCT|Times= 69024, 71270
+18	=ajt	_	SCONJ	CONJ	_	16	mark	_	GE= =CSL|RX= =CONJ|Times= 68840, 69024|TokenType=Clit
+19	//	_	PUNCT	PUNCT	_	7	punct	_	GE= PUNCT|RX= PUNCT|Times= 69024, 71270
 
 # sent_id = BEJ_MV_NARR_01_shelter_076-083
 # text = ontʔa / daːjeːb // j= halak -a / i- naːʃʔa bʔi -ja -n =hoːb // tak iː- kti =jeːt toː= na i- kan =heːb //
@@ -364,7 +364,7 @@
 7	-a	_	PART	_	Number=Plur	6	mark:aff	_	GE= -PL|Times= 72868, 73023|TokenType=Aff
 8	/	_	PUNCT	PUNCT	_	6	punct	_	GE= PUNCT|RX= PUNCT|Times= 73023, 73487
 9	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	10	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 73487, 73727|TokenType=Aff
-10	naːʃʔa	_	VERB	V1	Aspect=Prf|VerbClass=1	23	advcl	_	GE= INT,PFV|Gloss= take_off|RX= V1,DER|Times= 73727, 73968|TokenType=Stem
+10	naːʃʔa	_	VERB	V1	Aspect=Perf|VerbClass=1	23	advcl	_	GE= INT,PFV|Gloss= take_off|RX= V1,DER|Times= 73727, 73968|TokenType=Stem
 11	bʔi	_	AUX	AUX	_	10	cop	_	Gloss= lie_down|RX= AUX,TRM|Times= 73968, 74088|TokenType=Stem
 12	-ja	_	PRON	TAM,PNG	Aspect=Pfv|Gender=Masc|Number=Sing|Person=3	10	nsubj:aff	_	GE= -PFV,3SG,M|RX= -TAM,PNG|Times= 74088, 74208|TokenType=Aff
 13	-n	_	X	NP	_	10	dep:aff	_	RX= -L|Times= 74208, 74328|TokenType=Aff
@@ -377,7 +377,7 @@
 20	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	21	det	_	GE= DEF,SG,F,ACC=|RX= DET=|Times= 76075, 76260|TokenType=Clit
 21	na	_	SCONJ	CONJ	_	23	obj	_	Gloss= thing|RX= CONJ|Times= 76260, 76446|TokenType=Stem
 22	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	23	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 76446, 76569|TokenType=Aff
-23	kan	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1|Voice=Mid	0	root	_	GE= MID,PFV|Gloss= know|RX= V1,DER,IRG|Times= 76569, 76693|TokenType=Stem
+23	kan	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1|Voice=Mid	0	root	_	GE= MID,PFV|Gloss= know|RX= V1,DER,IRG|Times= 76569, 76693|TokenType=Stem
 24	=heːb	_	PRON	PRO	Number=Sing|Person=1	23	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 76693, 76817|TokenType=Clit
 25	//	_	PUNCT	PUNCT	_	23	punct	_	GE= PUNCT|RX= PUNCT|Times= 76817, 77958
 
@@ -386,7 +386,7 @@
 # text_en = "When he recognized me, he jumped to the sky and, he was running away!", he said.
 # tokenized_text = ikanoːhoːb / toːt toːbiri ifirʔat / ɖaːbjaj iːha ini //
 1	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	2	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 77958, 77990|TokenType=Aff
-2	kan	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1|Voice=Mid	10	advcl	_	GE= MID,PFV|Gloss= know|RX= V1,DER,IRG|Times= 77990, 78022|TokenType=Stem
+2	kan	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1|Voice=Mid	10	advcl	_	GE= MID,PFV|Gloss= know|RX= V1,DER,IRG|Times= 77990, 78022|TokenType=Stem
 3	=oː	_	PRON	PRO	Number=Sing|Person=1	2	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 78022, 78054|TokenType=Clit
 4	=hoːb	_	SCONJ	CONJ	_	2	mark	_	Gloss= =when|RX= =CONJ|Times= 78054, 78086|TokenType=Clit
 5	/	_	PUNCT	PUNCT	_	2	punct	_	GE= PUNCT|RX= PUNCT|Times= 78086, 78330
@@ -394,7 +394,7 @@
 7	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	8	det	_	GE= DEF,SG,F,ACC=|RX= DET=|Times= 78609, 78748|TokenType=Clit
 8	biri	_	NOUN	N	Gender=Fem	10	obj	_	Gloss= sky|RX= N,F|Times= 78748, 78888|TokenType=Stem
 9	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	10	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 78888, 78981|TokenType=Aff
-10	firʔa	_	VERB	V1	Aspect=Prf|VerbClass=1	13	dep:conj	_	GE= PFV|Gloss= go_out|RX= V1|Times= 78981, 79074|TokenType=Stem
+10	firʔa	_	VERB	V1	Aspect=Perf|VerbClass=1	13	dep:conj	_	GE= PFV|Gloss= go_out|RX= V1|Times= 78981, 79074|TokenType=Stem
 11	=t	_	CCONJ	CCONJ	_	10	cc	_	GE= =COORD|RX= CCONJ|Times= 79074, 79167|TokenType=Clit
 12	/	_	PUNCT	PUNCT	_	10	punct	_	GE= PUNCT|RX= PUNCT|Times= 79167, 79446
 13	ɖaːb	_	VERB	V2	VerbClass=2	19	parataxis	_	Gloss= run|RX= V2|Times= 79446, 79544|TokenType=Stem
@@ -403,7 +403,7 @@
 16	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	13	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 79742, 79890|TokenType=Aff
 17	ha	_	AUX	AUX,EMPH	Aspect=Aor	13	aux	_	GE= AOR|Gloss= take|ReportedSpeech=Yes|RX= AUX,EMPH|Times= 79890, 80038|TokenType=Stem
 18	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	19	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 80038, 80186|TokenType=Aff
-19	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 80186, 80334|TokenType=Stem
+19	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 80186, 80334|TokenType=Stem
 20	//	_	PUNCT	PUNCT	_	19	punct	_	GE= PUNCT|RX= PUNCT|Times= 80334, 80803
 
 # sent_id = BEJ_MV_NARR_01_shelter_089-089
@@ -411,9 +411,9 @@
 # text_en = "I chased him", he said.
 # tokenized_text = askʷi ini //
 1	a-	_	PRON	PNG	Number=Sing|Person=1	2	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 80803, 80904|TokenType=Aff
-2	skʷi	_	VERB	V1	Aspect=Prf|VerbClass=1	4	parataxis	_	GE= PFV|Gloss= pursue|ReportedSpeech=Yes|RX= V1|Times= 80904, 81006|TokenType=Stem
+2	skʷi	_	VERB	V1	Aspect=Perf|VerbClass=1	4	parataxis	_	GE= PFV|Gloss= pursue|ReportedSpeech=Yes|RX= V1|Times= 80904, 81006|TokenType=Stem
 3	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	4	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 81006, 81108|TokenType=Aff
-4	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 81108, 81210|TokenType=Stem
+4	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 81108, 81210|TokenType=Stem
 5	//	_	PUNCT	PUNCT	_	4	punct	_	GE= PUNCT|RX= PUNCT|Times= 81210, 81414
 
 # sent_id = BEJ_MV_NARR_01_shelter_090-093
@@ -421,10 +421,10 @@
 # text_en = "I chased him, and I could not (catch up with him), and  he run away from there.
 # tokenized_text = askʷiː agʷoːjt // hoːj ɖaːbjaj iːha //
 1	a-	_	PRON	PNG	Number=Sing|Person=1	2	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 81414, 81535|TokenType=Aff
-2	skʷi	_	VERB	V1	Aspect=Prf|VerbClass=1	5	parataxis:coord	_	GE= PFV|Gloss= pursue|RX= V1|Times= 81535, 81656|TokenType=Stem
+2	skʷi	_	VERB	V1	Aspect=Perf|VerbClass=1	5	parataxis:coord	_	GE= PFV|Gloss= pursue|RX= V1|Times= 81535, 81656|TokenType=Stem
 3	-i	_	X	NP	_	2	dep:aff	_	RX= -L|Times= 81656, 81778|TokenType=Aff
 4	a-	_	PRON	PNG	Number=Sing|Person=1	5	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 81778, 81899|TokenType=Aff
-5	gʷoːj	_	VERB	V1	Aspect=Prf|VerbClass=1	9	dep:conj	_	GE= INT,PFV|Gloss= be_unable|RX= V1,DER|Times= 81899, 82021|TokenType=Stem
+5	gʷoːj	_	VERB	V1	Aspect=Perf|VerbClass=1	9	dep:conj	_	GE= INT,PFV|Gloss= be_unable|RX= V1,DER|Times= 81899, 82021|TokenType=Stem
 6	=t	_	CCONJ	CCONJ	_	5	cc	_	GE= =COORD|RX= CCONJ|Times= 82021, 82143|TokenType=Clit
 7	//	_	PUNCT	PUNCT	_	5	punct	_	GE= PUNCT|RX= PUNCT|Times= 82143, 82850
 8	hoːj	_	PRON	PRO	Case=Abl	9	iobj	_	GE= ABL,3|RX= PRO|Times= 82850, 83108|TokenType=Stem
@@ -440,7 +440,7 @@
 # text_en = I went back, in my house.
 # tokenized_text = agar jʔant igawi /
 1	a-	_	PRON	PNG	Number=Sing|Person=1	2	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 84523, 84644|TokenType=Aff
-2	gar	_	VERB	V1	Aspect=Prf|VerbClass=1|Voice=Mid	3	compound	_	GE= MID,PFV|Gloss= come_back|RX= V1,DER|Times= 84644, 84765|TokenType=Stem
+2	gar	_	VERB	V1	Aspect=Perf|VerbClass=1|Voice=Mid	3	compound	_	GE= MID,PFV|Gloss= come_back|RX= V1,DER|Times= 84644, 84765|TokenType=Stem
 3	jʔ	_	VERB	V2,IRG	VerbClass=2	0	root	_	Gloss= come|RX= V2,IRG|Times= 84765, 84845|TokenType=Stem
 4	-an	_	PRON	TAM,PNG	Aspect=Pfv|Number=Sing|Person=1	3	nsubj:aff	_	GE= -PFV,1SG|RX= -TAM,PNG|Times= 84845, 84926|TokenType=Aff
 5	=t	_	CCONJ	CCONJ	_	3	cc	_	GE= =COORD|RX= CCONJ|Times= 84926, 85007|TokenType=Clit
@@ -482,16 +482,16 @@
 27	-i	_	PRON	TAM,PNG	Aspect=Aor|Gender=Masc|Number=Sing|Person=3	26	nsubj:aff	_	GE= -AOR,3SG,M|RX= -TAM,PNG|Times= 92261, 92482|TokenType=Aff
 28	mijʔat	_	NOUN	N	Gender=Masc	26	nsubj	_	Gloss= footprint|RX= N,M|Times= 92482, 92925|TokenType=Stem
 29	a-	_	PRON	PNG	Number=Sing|Person=1	30	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 92925, 93072|TokenType=Aff
-30	maːsiw	_	VERB	V1	Aspect=Prf|VerbClass=1	69	dep:conj	_	GE= INT,PFV|Gloss= hear|RX= V1,DER|Times= 93072, 93219|TokenType=Stem
+30	maːsiw	_	VERB	V1	Aspect=Perf|VerbClass=1	69	dep:conj	_	GE= INT,PFV|Gloss= hear|RX= V1,DER|Times= 93072, 93219|TokenType=Stem
 31	=hoːb	_	SCONJ	CONJ	_	30	mark	_	Gloss= =when|RX= =CONJ|Times= 93219, 93367|TokenType=Clit
 32	//	_	PUNCT	PUNCT	_	30	punct	_	GE= PUNCT|RX= PUNCT|Times= 93367, 94454
 33	a-	_	PRON	PNG	Number=Sing|Person=1	34	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 94454, 94628|TokenType=Aff
-34	nʔa	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	39	parataxis	_	GE= PFV|Gloss= be_down|RX= V1,IRG|Times= 94628, 94802|TokenType=Stem
+34	nʔa	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	39	parataxis	_	GE= PFV|Gloss= be_down|RX= V1,IRG|Times= 94628, 94802|TokenType=Stem
 35	a-	_	PRON	PNG	Number=Sing|Person=1	39	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 94802, 94918|TokenType=Aff
-36	tir	_	VERB	V1	Aspect=Prf|VerbClass=1	39	ccomp	_	GE= PFV|Gloss= lean|RX= V1|Times= 94918, 95034|TokenType=Stem
+36	tir	_	VERB	V1	Aspect=Perf|VerbClass=1	39	ccomp	_	GE= PFV|Gloss= lean|RX= V1|Times= 94918, 95034|TokenType=Stem
 37	=t	_	CCONJ	CCONJ	_	39	cc	_	GE= =COORD|RX= CCONJ|Times= 95034, 95151|TokenType=Clit
 38	a-	_	PRON	PNG	Number=Sing|Person=1	39	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 95151, 95267|TokenType=Aff
-39	ʃibib	_	VERB	V1	Aspect=Prf|VerbClass=1	69	dep:conj	_	GE= PFV|Gloss= look|RX= V1|Times= 95267, 95383|TokenType=Stem
+39	ʃibib	_	VERB	V1	Aspect=Perf|VerbClass=1	69	dep:conj	_	GE= PFV|Gloss= look|RX= V1|Times= 95267, 95383|TokenType=Stem
 40	=hoːb	_	SCONJ	CONJ	_	36	mark	_	Gloss= =when|RX= =CONJ|Times= 95383, 95500|TokenType=Clit
 41	//	_	PUNCT	PUNCT	_	39	punct	_	GE= PUNCT|RX= PUNCT|Times= 95500, 95997
 42	ʔoːt	_	NOUN	N	Gender=Fem	65	nsubj	_	GE= F|Gloss= child|RX= N,F|Times= 95997, 96247|TokenType=Stem
@@ -524,9 +524,9 @@
 69	=hoːb	_	SCONJ	CONJ	_	67	mark	_	Gloss= =when|RX= =CONJ|Times= 103099, 103217|TokenType=Clit
 70	/	_	PUNCT	PUNCT	_	67	punct	_	GE= PUNCT|RX= PUNCT|Times= 103217, 103840
 71	a-	_	PRON	PNG	Number=Sing|Person=1	72	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 103840, 103993|TokenType=Aff
-72	hagit	_	VERB	V1	Aspect=Prf|VerbClass=1	74	parataxis	_	GE= PFV|Gloss= wait|ReportedSpeech=Yes|RX= V1|Times= 103993, 104146|TokenType=Stem
+72	hagit	_	VERB	V1	Aspect=Perf|VerbClass=1	74	parataxis	_	GE= PFV|Gloss= wait|ReportedSpeech=Yes|RX= V1|Times= 103993, 104146|TokenType=Stem
 73	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	74	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 104146, 104299|TokenType=Aff
-74	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 104299, 104453|TokenType=Stem
+74	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 104299, 104453|TokenType=Stem
 75	//	_	PUNCT	PUNCT	_	74	punct	_	GE= PUNCT|RX= PUNCT|Times= 104453, 105512
 
 # sent_id = BEJ_MV_NARR_01_shelter_119-125
@@ -556,7 +556,7 @@
 21	-ta	_	PRON	TAM,PNG	Aspect=Pfv|Gender=Fem|Number=Sing|Person=3	20	nsubj:aff	_	GE= -PFV,3SG,F|RX= -TAM,PNG|Times= 110395, 110521|TokenType=Aff
 22	=heːb	_	PRON	PRO	Number=Sing|Person=1	20	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 110521, 110647|TokenType=Clit
 23	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	24	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 110647, 110836|TokenType=Aff
-24	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 110836, 111026|TokenType=Stem
+24	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 110836, 111026|TokenType=Stem
 25	//	_	PUNCT	PUNCT	_	24	punct	_	GE= PUNCT|RX= PUNCT|Times= 111026, 111791
 
 # sent_id = BEJ_MV_NARR_01_shelter_126-128
@@ -568,7 +568,7 @@
 3	-a	_	PRON	TAM,PNG	Gender=Masc|Mood=Imp|Number=Sing	2	nsubj:aff	_	GE= -IMP,SG,M|RX= -TAM,PNG|Times= 112103, 112181|TokenType=Aff
 4	-n	_	AUX	SUFX	_	2	aux:aff	_	GE= -EMPH|RX= -SUFX|Times= 112181, 112259|TokenType=Aff
 5	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	6	nsubj:aff	_	GE= 3SG,F-|RX= PNG-|Times= 112259, 112317|TokenType=Aff
-6	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	11	advcl	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 112317, 112376|TokenType=Stem
+6	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	11	advcl	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 112317, 112376|TokenType=Stem
 7	=oː	_	PRON	PRO	Number=Sing|Person=1	6	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 112376, 112434|TokenType=Clit
 8	=hoːb	_	SCONJ	CONJ	_	6	mark	_	Gloss= =when|RX= =CONJ|Times= 112434, 112493|TokenType=Clit
 9	//	_	PUNCT	PUNCT	_	6	punct	_	GE= PUNCT|RX= PUNCT|Times= 112493, 112728
@@ -577,7 +577,7 @@
 12	-am	_	AUX	V2	VerbClass=2|Voice=Mid	11	aux:aff	_	GE= -MID|RX= -V2,DER|Times= 113100, 113193|TokenType=Aff
 13	-an	_	PRON	TAM,PNG	Aspect=Pfv|Number=Sing|Person=1	11	nsubj:aff	_	GE= -PFV,1SG|RX= -TAM,PNG|Times= 113193, 113287|TokenType=Aff
 14	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	15	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 113287, 113426|TokenType=Aff
-15	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 113426, 113566|TokenType=Stem
+15	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 113426, 113566|TokenType=Stem
 16	//	_	PUNCT	PUNCT	_	15	punct	_	GE= PUNCT|RX= PUNCT|Times= 113566, 114562
 
 # sent_id = BEJ_MV_NARR_01_shelter_129-131
@@ -600,7 +600,7 @@
 14	-a	_	PRON	TAM,PNG	Gender=Masc|Mood=Imp|Number=Sing	13	nsubj:aff	_	GE= -IMP,SG,M|RX= -TAM,PNG|Times= 116236, 116365|TokenType=Aff
 15	-n	_	AUX	SUFX	_	13	aux:aff	_	GE= -EMPH|RX= -SUFX|Times= 116365, 116494|TokenType=Aff
 16	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	17	nsubj:aff	_	GE= 3SG,F-|RX= PNG-|Times= 116494, 116590|TokenType=Aff
-17	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	22	advcl	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 116590, 116687|TokenType=Stem
+17	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	22	advcl	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 116590, 116687|TokenType=Stem
 18	=oː	_	PRON	PRO	Number=Sing|Person=1	17	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 116687, 116783|TokenType=Clit
 19	=hoːb	_	SCONJ	CONJ	_	17	mark	_	Gloss= =when|RX= =CONJ|Times= 116783, 116880|TokenType=Clit
 20	//	_	PUNCT	PUNCT	_	17	punct	_	GE= PUNCT|RX= PUNCT|Times= 116880, 117267
@@ -635,7 +635,7 @@
 19	na	_	SCONJ	CONJ	_	22	obj	_	Gloss= thing|RX= CONJ|Times= 121904, 122008|TokenType=Stem
 20	/	_	PUNCT	PUNCT	_	19	punct	_	GE= PUNCT|RX= PUNCT|Times= 122008, 122894
 21	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	22	nsubj:aff	_	GE= 3SG,F-|RX= PNG-|Times= 122894, 123013|TokenType=Aff
-22	kan	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1|Voice=Mid	0	root	_	GE= MID,PFV|Gloss= know|RX= V1,DER,IRG|Times= 123013, 123132|TokenType=Stem
+22	kan	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1|Voice=Mid	0	root	_	GE= MID,PFV|Gloss= know|RX= V1,DER,IRG|Times= 123013, 123132|TokenType=Stem
 23	=heːb	_	PRON	PRO	Number=Sing|Person=1	22	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 123132, 123251|TokenType=Clit
 24	//	_	PUNCT	PUNCT	_	22	punct	_	GE= PUNCT|RX= PUNCT|Times= 123251, 124427
 
@@ -644,7 +644,7 @@
 # text_en = "Anyway, I gave her the dagger,
 # tokenized_text = iki saroːjka / whanʤar sallaman /
 1	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	2	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 124427, 124599|TokenType=Aff
-2	ki	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	9	advcl	_	GE= PFV|Gloss= become|RX= V1,IRG|Times= 124599, 124771|TokenType=Stem
+2	ki	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	9	advcl	_	GE= PFV|Gloss= become|RX= V1,IRG|Times= 124599, 124771|TokenType=Stem
 3	sar	_	VERB	V1	VerbClass=1|Voice=Mid	2	csubj	_	GE= MID|Gloss= be_awake|RX= V1,DER|Times= 124771, 124885|TokenType=Stem
 4	-oːj	_	SCONJ	N	_	3	mark:aff	_	GE= -N,AC|RX= -N,V|Times= 124885, 125000|TokenType=Aff
 5	=ka	_	ADP	POSTP	Case=Dis	3	mark	_	GE= =DISTR|RX= =POSTP|Times= 125000, 125115|TokenType=Clit
@@ -680,7 +680,7 @@
 2	/	_	PUNCT	PUNCT	_	1	punct	_	GE= PUNCT|RX= PUNCT|Times= 131391, 131979
 3	kak	_	ADV	ADV	_	4	advmod	_	Gloss= how|RX= ADV,Q|Times= 131979, 132265|TokenType=Stem
 4	jʔ	_	VERB	V2,IRG	VerbClass=2	0	root	_	Gloss= come|RX= V2,IRG|Times= 132265, 132336|TokenType=Stem
-5	-aː	_	SCONJ	CVB	Aspect=Prf|VerbForm=Conv	4	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 132336, 132408|TokenType=Aff
+5	-aː	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	4	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 132336, 132408|TokenType=Aff
 6	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	4	det	_	GE= =INDF,M,ACC|RX= =DET|Times= 132408, 132479|TokenType=Clit
 7	=wa	_	AUX	N,COP	Gender=Masc|Number=Sing|Person=2|VerbType=Cop	4	cop	_	GE= =COP,2SG,M|RX= =PRED,N|Times= 132479, 132551|TokenType=Clit
 8	?	_	PUNCT	PUNCT	_	4	punct	_	GE= PUNCT|RX= PUNCT|Times= 132551, 132837
@@ -692,7 +692,7 @@
 1	naːn	_	PRON	PRO	_	3	nsubj	_	Gloss= what|RX= PRO,Q|Times= 132837, 133174|TokenType=Stem
 2	haːj	_	ADP	POSTP	Case=Com	3	dep	_	GE= COM|RX= POSTP|Times= 133174, 133511|TokenType=Stem
 3	jʔ	_	VERB	V2,IRG	VerbClass=2	0	root	_	Gloss= come|RX= V2,IRG|Times= 133511, 133567|TokenType=Stem
-4	-aː	_	SCONJ	CVB	Aspect=Prf|VerbForm=Conv	3	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 133567, 133623|TokenType=Aff
+4	-aː	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	3	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 133567, 133623|TokenType=Aff
 5	=t	_	DET	DET	Definite=Ind|Gender=Fem	3	det	_	GE= =INDF,F|RX= =DET|Times= 133623, 133679|TokenType=Clit
 6	=oːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	3	obj	_	GE= =POSS,2SG,ACC|RX= =PRO|Times= 133679, 133735|TokenType=Clit
 7	=t	_	DET	DET	Definite=Ind|Gender=Fem	3	dep	_	GE= =INDF,F|RX= =DET|Times= 133735, 133791|TokenType=Clit
@@ -707,7 +707,7 @@
 2	rhi	_	VERB	V2	VerbClass=2	5	parataxis	_	Gloss= see|ReportedSpeech=Yes|RX= V2|Times= 134576, 134694|TokenType=Stem
 3	-ta	_	PRON	TAM,PNG	Aspect=Pfv|Gender=Masc|Number=Sing|Person=2	2	nsubj:aff	_	GE= -PFV,2SG,M|RX= -TAM,PNG|Times= 134694, 134813|TokenType=Aff
 4	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	5	nsubj:aff	_	GE= 3SG,F-|RX= PNG-|Times= 134813, 134872|TokenType=Aff
-5	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	14	advcl	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 134872, 134931|TokenType=Stem
+5	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	14	advcl	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 134872, 134931|TokenType=Stem
 6	=oː	_	PRON	PRO	Number=Sing|Person=1	5	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 134931, 134990|TokenType=Clit
 7	=hoːb	_	SCONJ	CONJ	_	5	mark	_	Gloss= =when|RX= =CONJ|Times= 134990, 135050|TokenType=Clit
 8	?	_	PUNCT	PUNCT	_	5	punct	_	GE= PUNCT|RX= PUNCT|Times= 135050, 135288
@@ -716,7 +716,7 @@
 11	rh	_	VERB	V2	VerbClass=2	14	parataxis	_	Gloss= see|ReportedSpeech=Yes|RX= V2|Times= 135579, 135725|TokenType=Stem
 12	-an	_	PRON	TAM,PNG	Aspect=Pfv|Number=Sing|Person=1	11	nsubj:aff	_	GE= -PFV,1SG|RX= -TAM,PNG|Times= 135725, 135871|TokenType=Aff
 13	a-	_	PRON	PNG	Number=Sing|Person=1	14	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 135871, 136017|TokenType=Aff
-14	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 136017, 136163|TokenType=Stem
+14	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 136017, 136163|TokenType=Stem
 15	/	_	PUNCT	PUNCT	_	14	punct	_	GE= PUNCT|RX= PUNCT|Times= 136163, 136765
 
 # sent_id = BEJ_MV_NARR_01_shelter_153-157
@@ -726,7 +726,7 @@
 1	afirej	_	ADJ	ADJ	_	4	obj	_	Gloss= bad|RX= ADJ|Times= 136765, 137020|TokenType=Stem
 2	/	_	PUNCT	PUNCT	_	1	punct	_	GE= PUNCT|RX= PUNCT|Times= 137020, 137275
 3	ti-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=2	4	nsubj:aff	_	GE= 2SG,M-|RX= PNG-|Times= 137275, 137418|TokenType=Aff
-4	weːr	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	20	parataxis	_	GE= PFV|Gloss= do|ReportedSpeech=Yes|RX= V1,IRG|Times= 137418, 137562|TokenType=Stem
+4	weːr	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	20	parataxis	_	GE= PFV|Gloss= do|ReportedSpeech=Yes|RX= V1,IRG|Times= 137418, 137562|TokenType=Stem
 5	=heːb	_	PRON	PRO	Number=Sing|Person=1	4	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 137562, 137706|TokenType=Clit
 6	iraːnaj	_	INTJ	_	_	4	discourse	_	Gloss= gosh|RX= EXCL|Times= 137706, 138137|TokenType=Stem
 7	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	det	_	GE= DEF,SG,M,NOM=|RX= DET=|Times= 138137, 138352|TokenType=Clit
@@ -742,7 +742,7 @@
 17	=ja	_	PART	PTCL	_	14	discourse	_	GE= =EMPH|RX= =PTCL|Times= 140185, 140293|TokenType=Clit
 18	/	_	PUNCT	PUNCT	_	17	punct	_	GE= PUNCT|RX= PUNCT|Times= 140293, 141332
 19	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=2	20	nsubj:aff	_	GE= 2SG,F-|RX= PNG-|Times= 141332, 141423|TokenType=Aff
-20	di	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 141423, 141515|TokenType=Stem
+20	di	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 141423, 141515|TokenType=Stem
 21	=t	_	CCONJ	CCONJ	_	20	cc	_	GE= =COORD|RX= CCONJ|Times= 141515, 141607|TokenType=Clit
 22	=heːb	_	PRON	PRO	Number=Sing|Person=1	20	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 141607, 141699|TokenType=Clit
 23	//	_	PUNCT	PUNCT	_	20	punct	_	GE= PUNCT|RX= PUNCT|Times= 141699, 142509
@@ -755,7 +755,7 @@
 2	-ti	_	PRON	TAM,PNG	Aspect=Pfv|Gender=Fem|Number=Sing|Person=3	1	nsubj:aff	_	GE= -PFV,3SG,F|RX= -TAM,PNG|Times= 142620, 142731|TokenType=Aff
 3	=heːb	_	PRON	PRO	Number=Sing|Person=1	1	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 142731, 142843|TokenType=Clit
 4	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	5	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 142843, 143010|TokenType=Aff
-5	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 143010, 143178|TokenType=Stem
+5	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 143010, 143178|TokenType=Stem
 6	//	_	PUNCT	PUNCT	_	5	punct	_	GE= PUNCT|RX= PUNCT|Times= 143178, 144041
 
 # sent_id = BEJ_MV_NARR_01_shelter_160-161
@@ -822,7 +822,7 @@
 36	-a	_	PRON	TAM,PNG	Gender=Masc|Mood=Imp|Number=Sing	35	nsubj:aff	_	GE= -IMP,SG,M|RX= -TAM,PNG|Times= 153739, 153882|TokenType=Aff
 37	=heːb	_	PRON	PRO	Number=Sing|Person=1	35	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 153882, 154026|TokenType=Clit
 38	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	39	nsubj:aff	_	GE= 3SG,F-|RX= PNG-|Times= 154026, 154133|TokenType=Aff
-39	ni	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 154133, 154241|TokenType=Stem
+39	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 154133, 154241|TokenType=Stem
 40	=t	_	CCONJ	CCONJ	_	39	cc	_	GE= =COORD|RX= CCONJ|Times= 154241, 154348|TokenType=Clit
 41	=heːb	_	PRON	PRO	Number=Sing|Person=1	39	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 154348, 154456|TokenType=Clit
 42	/	_	PUNCT	PUNCT	_	39	punct	_	GE= PUNCT|RX= PUNCT|Times= 154456, 154887
@@ -850,9 +850,9 @@
 7	dh	_	ADP	POSTP	_	8	case	_	GE= DIR|RX= POSTP|Times= 158686, 158783|TokenType=Stem
 8	=eː	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	10	obl:arg	_	GE= =POSS,1SG,ACC|RX= =PRO|Times= 158783, 158881|TokenType=Clit
 9	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	10	nsubj:aff	_	GE= 3SG,F-|RX= PNG-|Times= 158881, 158978|TokenType=Aff
-10	ki	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	12	parataxis	_	GE= PFV|Gloss= become|ReportedSpeech=Yes|RX= V1,IRG|Times= 158978, 159076|TokenType=Stem
+10	ki	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	12	parataxis	_	GE= PFV|Gloss= become|ReportedSpeech=Yes|RX= V1,IRG|Times= 158978, 159076|TokenType=Stem
 11	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	12	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 159076, 159173|TokenType=Aff
-12	di	_	VERB	V1,IRG	Aspect=Prf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 159173, 159271|TokenType=Stem
+12	di	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 159173, 159271|TokenType=Stem
 13	eːn	_	VERB	V1,IRG	Aspect=Pfv|Number=Plur|Person=3|VerbClass=1	12	discourse	_	GE= PFV,3PL|Gloss= say|RX= V1,IRG|Times= 159271, 159466|TokenType=Stem
 14	//	_	PUNCT	PUNCT	_	12	punct	_	GE= PUNCT|RX= PUNCT|Times= 159466, 160103
 
@@ -862,9 +862,9 @@
 # text_en = "There was an old man of my family and, gosh! I even saw him today.
 # tokenized_text = tak / eːgirim // ʔajaːj taki iːfiːt amsi iraːnej rhi / oːkna /
 1	tak	_	NOUN	N	Gender=Masc	9	nsubj	_	Gloss= man|RX= SBJ,N,M|Times= 0, 351|TokenType=Stem
-2	/	_	PUNCT	PUNCT	_	1	punct	_	GE= PUNCT|RX= PUNCT|Times= 351, 1157|TokenType=Stem
+2	/	_	PUNCT	PUNCT	_	1	punct	_	GE= PUNCT|RX= PUNCT|Times= 351, 1157
 3	ʔeːgirim	_	NOUN	CN	_	1	nmod	_	Gloss= elder|RX= CN|Times= 1157, 1424|TokenType=Stem
-4	//	_	PUNCT	PUNCT	_	1	punct	_	GE= PUNCT|RX= PUNCT|Times= 1424, 2257|TokenType=Stem
+4	//	_	PUNCT	PUNCT	_	1	punct	_	GE= PUNCT|RX= PUNCT|Times= 1424, 2257
 5	ʔajaːj	_	NOUN	N	_	6	nmod	_	Gloss= relatives|RX= N|Times= 2257, 2593|TokenType=Stem
 6	tak	_	NOUN	N	Gender=Masc	1	appos	_	Gloss= man|RX= N,M|Times= 2593, 2761|TokenType=Stem
 7	-i	_	PART	CASE	Case=Gen	6	case:aff	_	GE= -GEN|RX= -CASE|Times= 2761, 2930|TokenType=Aff
@@ -875,10 +875,10 @@
 12	iraːnaj	_	INTJ	_	_	13	discourse	_	Gloss= gosh|RX= EXCL|Times= 3603, 3940|TokenType=Stem
 13	rh	_	VERB	V2	VerbClass=2	0	root	_	Gloss= see|RX= V2|Times= 3940, 4108|TokenType=Stem
 14	-i	_	PRON	TAM,PNG	Aspect=Aor|Gender=Masc|Number=Sing|Person=3	13	nsubj:aff	_	GE= -AOR,3SG,M|RX= -TAM,PNG|Times= 4108, 4277|TokenType=Aff
-15	/	_	PUNCT	PUNCT	_	13	punct	_	GE= PUNCT|RX= PUNCT|Times= 4277, 4764|TokenType=Stem
+15	/	_	PUNCT	PUNCT	_	13	punct	_	GE= PUNCT|RX= PUNCT|Times= 4277, 4764
 16	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	17	det	_	GE= DEF,SG,M,ACC=|RX= DET=|Times= 4764, 4921|TokenType=Clit
 17	kina	_	PRON	PRO	Reflex=Yes	13	dislocated	_	Gloss= owner|RX= PRO,REFL|Times= 4921, 5079|TokenType=Stem
-18	/	_	PUNCT	PUNCT	_	13	punct	_	GE= PUNCT|RX= PUNCT|Times= 5079, 5895|TokenType=Stem
+18	/	_	PUNCT	PUNCT	_	13	punct	_	GE= PUNCT|RX= PUNCT|Times= 5079, 5895
 
 # sent_id = BEJ_MV_NARR_03_camel_009-013
 # text = ʔiːd han jʔ -a =b =u =it / w= ʔiːd arraf -i / a- di =t a- ba i- ni //
@@ -891,12 +891,12 @@
 5	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	3	det	_	GE= =INDF,M,ACC|RX= =DET|Times= 6462, 6509|TokenType=Clit
 6	=u	_	AUX	N,COP	Number=Sing|Person=3|VerbType=Cop	3	aux	_	GE= =COP,3SG|RX= =PRED,N|Times= 6509, 6556|TokenType=Clit
 7	=it	_	CCONJ	CCONJ	_	3	cc	_	GE= =COORD|RX= CCONJ|Times= 6556, 6604|TokenType=Clit
-8	/	_	PUNCT	PUNCT	_	3	punct	_	GE= PUNCT|RX= PUNCT|Times= 6604, 6841|TokenType=Stem
+8	/	_	PUNCT	PUNCT	_	3	punct	_	GE= PUNCT|RX= PUNCT|Times= 6604, 6841
 9	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	10	det	_	GE= DEF,SG,M=|RX= DET=|Times= 6841, 7011|TokenType=Clit
 10	ʔiːd	_	NOUN	N	Gender=Masc	11	obj	_	GE= Aid_feast|RX= N,M|Times= 7011, 7182|TokenType=Stem
 11	arraf	_	VERB	V2	VerbClass=2	15	dep:comp	_	Gloss= congratulate|RX= V2|Times= 7182, 7352|TokenType=Stem
 12	-i	_	PRON	TAM,PNG	Aspect=Aor|Number=Sing|Person=1	11	nsubj:aff	_	GE= -AOR,1SG|RX= -TAM,PNG|Times= 7352, 7523|TokenType=Aff
-13	/	_	PUNCT	PUNCT	_	11	punct	_	GE= PUNCT|RX= PUNCT|Times= 7523, 8113|TokenType=Stem
+13	/	_	PUNCT	PUNCT	_	11	punct	_	GE= PUNCT|RX= PUNCT|Times= 7523, 8113
 14	a-	_	PRON	PNG	Number=Sing|Person=1	15	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 8113, 8196|TokenType=Aff
 15	di	_	VERB	V1,IRG	Aspect=Pfv|VerbClass=1	18	dep:conj	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 8196, 8279|TokenType=Stem
 16	=t	_	CCONJ	CCONJ	_	15	cc	_	GE= =COORD|RX= CCONJ|Times= 8279, 8362|TokenType=Clit
@@ -904,7 +904,7 @@
 18	ba	_	VERB	V1,IRG	Aspect=Pfv|VerbClass=1	20	parataxis	_	GE= INT,PFV|Gloss= go|ReportedSpeech=Yes|RX= V1,DER,IRG|Times= 8487, 8612|TokenType=Stem
 19	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	20	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 8612, 8737|TokenType=Aff
 20	ni	_	VERB	V1,IRG	Aspect=Pfv|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 8737, 8862|TokenType=Stem
-21	//	_	PUNCT	PUNCT	_	20	punct	_	GE= PUNCT|RX= PUNCT|Times= 8862, 10145|TokenType=Stem
+21	//	_	PUNCT	PUNCT	_	20	punct	_	GE= PUNCT|RX= PUNCT|Times= 8862, 10145
 
 # sent_id = BEJ_MV_NARR_03_camel_014-019
 # text = dhaːj jʔ -an =hoːb oː= tak / meːk dh# ## eːja =ajt oː= gaw / tam -ja eːn //
@@ -916,19 +916,19 @@
 4	=hoːb	_	SCONJ	CONJ	_	2	mark	_	Gloss= =when|RX= =CONJ|Times= 10640, 10740|TokenType=Clit
 5	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	det	_	GE= DEF,SG,M,ACC=|RX= DET=|Times= 10740, 10888|TokenType=Clit
 6	tak	_	NOUN	N	Gender=Masc	11	obl:arg	_	Gloss= man|RX= N,M|Times= 10888, 11037|TokenType=Stem
-7	/	_	PUNCT	PUNCT	_	6	punct	_	GE= PUNCT|RX= PUNCT|Times= 11037, 11802|TokenType=Stem
+7	/	_	PUNCT	PUNCT	_	6	punct	_	GE= PUNCT|RX= PUNCT|Times= 11037, 11802
 8	meːk	_	NOUN	N	_	11	nsubj	_	Gloss= donkey|RX= SBJ,N|Times= 11802, 11990|TokenType=Stem
-9	dh#	_	ADP	FS	_	6	case	_	GE= FS|RX= FS|Times= 11990, 12178|TokenType=Stem
-10	##	_	PUNCT	PUNCT	_	11	punct	_	GE= PUNCT|RX= PUNCT|Times= 12178, 12570|TokenType=Stem
+9	dh#	_	ADP	FS	_	6	case	_	GE= FS|RX= FS|Times= 11990, 12178|TokenType=Unfinished
+10	##	_	PUNCT	PUNCT	_	11	punct	_	GE= PUNCT|RX= PUNCT|Times= 12178, 12570
 11	eːja	_	VERB	V2,IRG	Aspect=Pfv|Gender=Masc|Number=Sing|Person=3|VerbClass=2	16	dep:conj	_	GE= PFV,3SG,M|Gloss= come|RX= V2,IRG|Times= 12570, 12716|TokenType=Stem
 12	=ajt	_	CCONJ	CONJ	_	11	cc	_	GE= =CSL|RX= =CONJ|Times= 12716, 12863|TokenType=Clit
 13	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	14	det	_	GE= DEF,SG,M,ACC=|RX= DET=|Times= 12863, 13009|TokenType=Clit
 14	gaw	_	NOUN	N	Gender=Masc	16	obj	_	Gloss= house|RX= N,M|Times= 13009, 13156|TokenType=Stem
-15	/	_	PUNCT	PUNCT	_	14	punct	_	GE= PUNCT|RX= PUNCT|Times= 13156, 13449|TokenType=Stem
+15	/	_	PUNCT	PUNCT	_	14	punct	_	GE= PUNCT|RX= PUNCT|Times= 13156, 13449
 16	tam	_	VERB	V2	VerbClass=2	0	root	_	Gloss= eat|RX= V2|Times= 13449, 13526|TokenType=Stem
 17	-ja	_	PRON	TAM,PNG	Aspect=Pfv|Gender=Masc|Number=Sing|Person=3	16	nsubj:aff	_	GE= -PFV,3SG,M|RX= -TAM,PNG|Times= 13526, 13603|TokenType=Aff
 18	eːn	_	VERB	V1,IRG	Aspect=Pfv|Number=Plur|Person=3|VerbClass=1	16	discourse	_	GE= PFV,3PL|Gloss= say|RX= V1,IRG|Times= 13603, 13757|TokenType=Stem
-19	//	_	PUNCT	PUNCT	_	16	punct	_	GE= PUNCT|RX= PUNCT|Times= 13757, 13911|TokenType=Stem
+19	//	_	PUNCT	PUNCT	_	16	punct	_	GE= PUNCT|RX= PUNCT|Times= 13757, 13911
 
 # sent_id = BEJ_MV_NARR_03_camel_020-021
 # text = t= ʔoːr -ej oː= meːk fidin -i / galeːl -i -n i- di i- ni //
@@ -941,7 +941,7 @@
 5	meːk	_	NOUN	N	_	6	obj	_	Gloss= donkey|RX= N|Times= 14295, 14424|TokenType=Stem
 6	fidin	_	VERB	V1	VerbClass=1	9	dep:comp	_	Gloss= move_away|RX= V1|Times= 14424, 14552|TokenType=Stem
 7	-i	_	PRON	TAM,PNG	Gender=Fem|Mood=Imp|Number=Sing	6	nsubj:aff	_	GE= -IMP,SG,F|RX= -TAM,PNG|Times= 14552, 14681|TokenType=Aff
-8	/	_	PUNCT	PUNCT	_	6	punct	_	GE= PUNCT|RX= PUNCT|Times= 14681, 14938|TokenType=Stem
+8	/	_	PUNCT	PUNCT	_	6	punct	_	GE= PUNCT|RX= PUNCT|Times= 14681, 14938
 9	galeːl	_	VERB	V2	VerbClass=2	13	parataxis	_	Gloss= drive_cattle|ReportedSpeech=Yes|RX= V2|Times= 14938, 15040|TokenType=Stem
 10	-i	_	PRON	TAM,PNG	Gender=Fem|Mood=Imp|Number=Sing	9	nsubj:aff	_	GE= -IMP,SG,F|RX= -TAM,PNG|Times= 15040, 15142|TokenType=Aff
 11	-n	_	AUX	SUFX	_	9	aux:aff	_	GE= -EMPH|RX= -SUFX|Times= 15142, 15244|TokenType=Aff
@@ -949,7 +949,7 @@
 13	di	_	VERB	V1,IRG	Aspect=Pfv|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 15397, 15551|TokenType=Stem
 14	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	15	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 15551, 15704|TokenType=Aff
 15	ni	_	VERB	V1,IRG	Aspect=Pfv|VerbClass=1	13	discourse	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 15704, 15857|TokenType=Stem
-16	//	_	PUNCT	PUNCT	_	13	punct	_	GE= PUNCT|RX= PUNCT|Times= 15857, 16164|TokenType=Stem
+16	//	_	PUNCT	PUNCT	_	13	punct	_	GE= PUNCT|RX= PUNCT|Times= 15857, 16164
 
 # sent_id = BEJ_MV_NARR_03_camel_022-024
 # text = əəə dabaloː =t ʔoːr geːb / tiː- fi =aj //
@@ -960,11 +960,11 @@
 3	=t	_	DET	DET	Definite=Ind|Gender=Fem	2	det	_	GE= =INDF,F|RX= =DET|Times= 16516, 16634|TokenType=Clit
 4	ʔoːr	_	NOUN	N	_	8	nsubj	_	Gloss= child|RX= SBJ,N|Times= 16634, 16869|TokenType=Stem
 5	geːb	_	ADP	POSTP	_	8	iobj	_	Gloss= beside|RX= POSTP|Times= 16869, 17104|TokenType=Stem
-6	/	_	PUNCT	PUNCT	_	5	punct	_	GE= PUNCT|RX= PUNCT|Times= 17104, 17339|TokenType=Stem
+6	/	_	PUNCT	PUNCT	_	5	punct	_	GE= PUNCT|RX= PUNCT|Times= 17104, 17339
 7	tiː-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	8	nsubj:aff	_	GE= 3SG,F-|RX= PNG-|Times= 17339, 17407|TokenType=Aff
 8	fi	_	VERB	V1,IRG	Aspect=Aor|VerbClass=1	0	root	_	GE= AOR|Gloss= be_there|RX= V1,IRG|Times= 17407, 17475|TokenType=Stem
 9	=aj	_	SCONJ	CONJ	_	8	mark	_	GE= =CSL|RX= =CONJ|Times= 17475, 17543|TokenType=Clit
-10	//	_	PUNCT	PUNCT	_	8	punct	_	GE= PUNCT|RX= PUNCT|Times= 17543, 19067|TokenType=Stem
+10	//	_	PUNCT	PUNCT	_	8	punct	_	GE= PUNCT|RX= PUNCT|Times= 17543, 19067
 
 # sent_id = BEJ_MV_NARR_03_camel_025-034
 # text = t= ʔoːr / oː= meːk ti- fidin galeːl -tan =hoːb / doːr han / hoːb =uːn -ej iraːnaj / oː= meːk ʔam -a =b =wa ti- ni =hoːb ? ani i= meːk -i m- ʔam =eː sagi =b =i i- di i- ni //
@@ -972,7 +972,7 @@
 # tokenized_text = tʔoːr / oːmeːk tifidin galeːltanhoːb / doːr han / hoːbuːnej iraːnaj / oːmeːk ʔamabwa tijihoːb / ani imeːki mʔameː sagiːbi idi ini //
 1	t=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	GE= DEF,F=|RX= DET=|Times= 19067, 19150|TokenType=Clit
 2	ʔoːr	_	NOUN	N	_	8	nsubj	_	Gloss= child|RX= SBJ,N|Times= 19150, 19233|TokenType=Stem
-3	/	_	PUNCT	PUNCT	_	2	punct	_	GE= PUNCT|RX= PUNCT|Times= 19233, 19988|TokenType=Stem
+3	/	_	PUNCT	PUNCT	_	2	punct	_	GE= PUNCT|RX= PUNCT|Times= 19233, 19988
 4	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	5	det	_	GE= DEF,SG,M,ACC=|RX= DET=|Times= 19988, 20204|TokenType=Clit
 5	meːk	_	NOUN	N	_	7	obj	_	Gloss= donkey|RX= N|Times= 20204, 20420|TokenType=Stem
 6	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	7	nsubj:aff	_	GE= 3SG,F-|RX= PNG-|Times= 20420, 20636|TokenType=Aff
@@ -980,15 +980,15 @@
 8	galeːl	_	VERB	V2	VerbClass=2	27	parataxis	_	Gloss= drive_cattle|RX= V2|Times= 20852, 20996|TokenType=Stem
 9	-tan	_	PRON	TAM,PNG	Aspect=Pfv|Gender=Fem|Number=Sing|Person=3	8	nsubj:aff	_	GE= -PFV,3SG,F|RX= -TAM,PNG|Times= 20996, 21140|TokenType=Aff
 10	=hoːb	_	SCONJ	CONJ	_	8	mark	_	Gloss= =when|ReportedSpeech=Yes|RX= =CONJ|Times= 21140, 21284|TokenType=Clit
-11	/	_	PUNCT	PUNCT	_	8	punct	_	GE= PUNCT|RX= PUNCT|Times= 21284, 22302|TokenType=Stem
+11	/	_	PUNCT	PUNCT	_	8	punct	_	GE= PUNCT|RX= PUNCT|Times= 21284, 22302
 12	doːr	_	NOUN	N	Gender=Masc	22	nmod	_	Gloss= time|RX= N,M|Times= 22302, 22492|TokenType=Stem
 13	han	_	ADV	ADV	_	22	advmod	_	GE= Q,PLR|RX= ADV,Q|Times= 22492, 22683|TokenType=Stem
-14	/	_	PUNCT	PUNCT	_	13	punct	_	GE= PUNCT|RX= PUNCT|Times= 22683, 22874|TokenType=Stem
+14	/	_	PUNCT	PUNCT	_	13	punct	_	GE= PUNCT|RX= PUNCT|Times= 22683, 22874
 15	hoːb	_	NOUN	N	Gender=Masc	22	vocative	_	Gloss= grand-father|RX= N,M|Times= 22874, 22999|TokenType=Stem
 16	=uːn	_	PRON	PRO	Case=Nom|Number=Plur|Person=1|Polite=Form|Poss=Yes	15	nmod:poss	_	GE= =POSS,1PL,NOM|RX= =PRO,POL|Times= 22999, 23125|TokenType=Clit
 17	-ej	_	PART	CASE	Case=Voc	15	case:aff	_	GE= -VOC|RX= -CASE|Times= 23125, 23251|TokenType=Aff
 18	iraːnaj	_	INTJ	_	_	22	discourse	_	Gloss= gosh|RX= EXCL|Times= 23251, 23628|TokenType=Stem
-19	/	_	PUNCT	PUNCT	_	18	punct	_	GE= PUNCT|RX= PUNCT|Times= 23628, 24200|TokenType=Stem
+19	/	_	PUNCT	PUNCT	_	18	punct	_	GE= PUNCT|RX= PUNCT|Times= 23628, 24200
 20	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	21	det	_	GE= DEF,SG,M,ACC=|RX= DET=|Times= 24200, 24358|TokenType=Clit
 21	meːk	_	NOUN	N	_	22	obj	_	Gloss= donkey|RX= N|Times= 24358, 24517|TokenType=Stem
 22	ʔam	_	VERB	V1	VerbClass=1|Voice=Mid	27	parataxis	_	GE= MID|Gloss= ride|RX= V1,DER|Times= 24517, 24596|TokenType=Stem
@@ -998,7 +998,7 @@
 26	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	27	nsubj:aff	_	GE= 3SG,F-|RX= PNG-|Times= 24834, 24939|TokenType=Aff
 27	ni	_	VERB	V1,IRG	Aspect=Pfv|VerbClass=1	41	advcl	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 24939, 25045|TokenType=Stem
 28	=hoːb	_	SCONJ	CONJ	_	27	mark	_	Gloss= =when|RX= =CONJ|Times= 25045, 25151|TokenType=Clit
-29	?	_	PUNCT	PUNCT	_	27	punct	_	GE= PUNCT|RX= PUNCT|Times= 25151, 25469|TokenType=Stem
+29	?	_	PUNCT	PUNCT	_	27	punct	_	GE= PUNCT|RX= PUNCT|Times= 25151, 25469
 30	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	37	nsubj	_	GE= 1SG,NOM|RX= SBJ,PRO|Times= 25469, 25766|TokenType=Stem
 31	i=	_	DET	DET	Definite=Def|Gender=Masc	32	det	_	GE= DEF,M=|RX= DET=|Times= 25766, 25865|TokenType=Clit
 32	meːk	_	NOUN	N	_	35	obl:mod	_	Gloss= donkey|RX= N|Times= 25865, 25964|TokenType=Stem
@@ -1013,21 +1013,21 @@
 41	di	_	VERB	V1,IRG	Aspect=Pfv|VerbClass=1	43	discourse	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 26809, 26958|TokenType=Stem
 42	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	43	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 26958, 27107|TokenType=Aff
 43	ni	_	VERB	V1,IRG	Aspect=Pfv|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 27107, 27256|TokenType=Stem
-44	//	_	PUNCT	PUNCT	_	43	punct	_	GE= PUNCT|RX= PUNCT|Times= 27256, 28614|TokenType=Stem
+44	//	_	PUNCT	PUNCT	_	43	punct	_	GE= PUNCT|RX= PUNCT|Times= 27256, 28614
 
 # sent_id = BEJ_MV_NARR_03_camel_035-042
 # text = doːr / oː= meːk oːn ba= a- akaj / kaːm han ʔam -aː =b =i i- ni // mhaj nafar -a nuːn / naː =t bi= t- ʔam =eːb //
 # text_en = "Once, it's not a donkey but a camel that I rode, he said, that only three men could ride."
 # tokenized_text = doːr / oːmeːk oːn baːkaj / kaːm han amaːbi ini // mhaj nafara nuːn / naːt bitʔameːb //
 1	doːr	_	NOUN	N	Gender=Masc	8	obl:mod	_	Gloss= time|RX= N,M|Times= 28614, 28792|TokenType=Stem
-2	/	_	PUNCT	PUNCT	_	1	punct	_	GE= PUNCT|RX= PUNCT|Times= 28792, 29410|TokenType=Stem
+2	/	_	PUNCT	PUNCT	_	1	punct	_	GE= PUNCT|RX= PUNCT|Times= 28792, 29410
 3	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	4	det	_	GE= DEF,SG,M,ACC=|RX= DET=|Times= 29410, 29552|TokenType=Clit
 4	meːk	_	NOUN	N	_	8	obj	_	Gloss= donkey|RX= N|Times= 29552, 29695|TokenType=Stem
 5	oːn	_	PRON	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	GE= PROX,SG,M,ACC|RX= DEM|Times= 29695, 29981|TokenType=Stem
 6	ba=	_	AUX	PTCL	Mood=Opt	8	aux	_	GE= OPT=|RX= PTCL=|Times= 29981, 30076|TokenType=Clit
 7	a-	_	PRON	PNG	Number=Sing|Person=1	8	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 30076, 30171|TokenType=Aff
 8	akaj	_	VERB	V1,IRG,NEG	Mood=Opt|Polarity=Neg|VerbClass=1	10	acl:relcl	_	GE= NEG,OPT|Gloss= become|RX= V1,IRG|Times= 30171, 30267|TokenType=Stem
-9	/	_	PUNCT	PUNCT	_	8	punct	_	GE= PUNCT|RX= PUNCT|Times= 30267, 30553|TokenType=Stem
+9	/	_	PUNCT	PUNCT	_	8	punct	_	GE= PUNCT|RX= PUNCT|Times= 30267, 30553
 10	kaːm	_	NOUN	N	_	12	obj	_	Gloss= camel|RX= N|Times= 30553, 30772|TokenType=Stem
 11	han	_	PART	PTCL	_	10	advmod	_	Gloss= also|RX= PTCL,FOC|Times= 30772, 30991|TokenType=Stem
 12	ʔam	_	VERB	V1	VerbClass=1|Voice=Mid	17	parataxis	_	GE= MID|Gloss= ride|RX= V1,DER|Times= 30991, 31045|TokenType=Stem
@@ -1036,49 +1036,49 @@
 15	=i	_	AUX	N,COP	Number=Sing|Person=1|VerbType=Cop	12	aux	_	GE= =COP,1SG|ReportedSpeech=Yes|RX= =PRED,N|Times= 31155, 31210|TokenType=Clit
 16	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	17	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 31210, 31319|TokenType=Aff
 17	ni	_	VERB	V1,IRG	Aspect=Pfv|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 31319, 31429|TokenType=Stem
-18	//	_	PUNCT	PUNCT	_	17	punct	_	GE= PUNCT|RX= PUNCT|Times= 31429, 31649|TokenType=Stem
+18	//	_	PUNCT	PUNCT	_	17	punct	_	GE= PUNCT|RX= PUNCT|Times= 31429, 31649
 19	mhaj	_	NUM	NUM	_	20	nummod:det	_	Gloss= three|RX= NUM|Times= 31649, 31929|TokenType=Stem
 20	nafar	_	NOUN	N	Foreign=Yes|Gender=Masc	28	dislocated	_	Gloss= person|RX= N,M,BORR,ARA|Times= 31929, 32069|TokenType=Stem
 21	-a	_	PART	_	Number=Plur	20	dep:aff	_	GE= -PL|Times= 32069, 32209|TokenType=Aff
 22	nuːn	_	PART	PTCL	_	20	advmod	_	Gloss= only|RX= PTCL|Times= 32209, 32489|TokenType=Stem
-23	/	_	PUNCT	PUNCT	_	20	punct	_	GE= PUNCT|RX= PUNCT|Times= 32489, 33247|TokenType=Stem
+23	/	_	PUNCT	PUNCT	_	20	punct	_	GE= PUNCT|RX= PUNCT|Times= 32489, 33247
 24	naː	_	NOUN	N	Gender=Fem	28	nsubj	_	Gloss= thing|RX= SBJ,N,F|Times= 33247, 33441|TokenType=Stem
 25	=t	_	DET	DET	Definite=Ind|Gender=Fem	24	det	_	GE= =INDF,F|RX= =DET|Times= 33441, 33635|TokenType=Clit
 26	bi=	_	AUX	PTCL	Mood=Opt	28	aux	_	GE= OPT=|RX= PTCL=|Times= 33635, 33732|TokenType=Clit
 27	t-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	28	nsubj:aff	_	GE= 3SG,F-|RX= PNG-|Times= 33732, 33829|TokenType=Aff
 28	ʔam	_	VERB	V1,NEG	Mood=Opt|Polarity=Neg|VerbClass=1|Voice=Mid	10	acl:relcl	_	GE= MID,NEG,OPT|Gloss= ride|RX= V1,DER|Times= 33829, 33926|TokenType=Stem
 29	=eːb	_	SCONJ	CONJ	Gender=Masc|Number=Sing	28	mark	_	GE= =REL,SG,M|RX= =CONJ|Times= 33926, 34024|TokenType=Clit
-30	//	_	PUNCT	PUNCT	_	17	punct	_	GE= //|RX= PUNCT|Times= 34024, 35599|TokenType=Stem
+30	//	_	PUNCT	PUNCT	_	17	punct	_	GE= //|RX= PUNCT|Times= 34024, 35599
 
 # sent_id = BEJ_MV_NARR_03_camel_043-053
 # text = ontʔa / beːn / t= ʔoːt -i / i= bhali -jeː =da // i= kaːm -i wanas / dh =eː hadiːd -ja i- ni //
 # text_en = "So, because of the words of this girl, he told me a story about the camel", he said.
 # tokenized_text = ontʔa / beːn / tʔoːti / ibhalijeːda // ikaːmi wanas / dheː hadiːdja ini //
 1	ontʔa	_	PART	PTCL	_	24	discourse	_	Gloss= now|RX= PTCL|Times= 35599, 35865|TokenType=Stem
-2	/	_	PUNCT	PUNCT	_	1	punct	_	GE= PUNCT|RX= PUNCT|Times= 35865, 36566|TokenType=Stem
+2	/	_	PUNCT	PUNCT	_	1	punct	_	GE= PUNCT|RX= PUNCT|Times= 35865, 36566
 3	beːn	_	PRON	DEM	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	21	discourse	_	GE= DIST,SG,M,NOM|RX= DEM|Times= 36566, 36796|TokenType=Stem
-4	/	_	PUNCT	PUNCT	_	3	punct	_	GE= PUNCT|RX= PUNCT|Times= 36796, 37632|TokenType=Stem
+4	/	_	PUNCT	PUNCT	_	3	punct	_	GE= PUNCT|RX= PUNCT|Times= 36796, 37632
 5	t=	_	DET	DET	Definite=Def|Gender=Fem	6	det	_	GE= DEF,F=|RX= DET=|Times= 37632, 37723|TokenType=Clit
 6	ʔoːt	_	NOUN	N	Gender=Fem	10	nmod	_	GE= F|Gloss= child|RX= N,F|Times= 37723, 37814|TokenType=Stem
 7	-i	_	PART	CASE	Case=Gen	6	case:aff	_	GE= -GEN|RX= -CASE|Times= 37814, 37905|TokenType=Aff
-8	/	_	PUNCT	PUNCT	_	6	punct	_	GE= PUNCT|RX= PUNCT|Times= 37905, 38697|TokenType=Stem
+8	/	_	PUNCT	PUNCT	_	6	punct	_	GE= PUNCT|RX= PUNCT|Times= 37905, 38697
 9	i=	_	DET	DET	Definite=Def|Gender=Masc	10	det	_	GE= DEF,M=|RX= DET=|Times= 38697, 38804|TokenType=Clit
 10	bhali	_	NOUN	N	Gender=Masc|Number=Plur	21	obl:mod	_	Gloss= word|RX= N,PL,M|Times= 38804, 38911|TokenType=Stem
 11	-jeː	_	PART	CASE	Case=Gen|Number=Plur	10	case:aff	_	GE= -GEN,PL|RX= -CASE|Times= 38911, 39018|TokenType=Aff
 12	=da	_	ADP	POSTP	_	10	case	_	GE= =DIR|RX= =POSTP|Times= 39018, 39125|TokenType=Clit
-13	//	_	PUNCT	PUNCT	_	10	punct	_	GE= PUNCT|RX= PUNCT|Times= 39125, 40347|TokenType=Stem
+13	//	_	PUNCT	PUNCT	_	10	punct	_	GE= PUNCT|RX= PUNCT|Times= 39125, 40347
 14	i=	_	DET	DET	Definite=Def|Gender=Masc	15	det	_	GE= DEF,M=|RX= DET=|Times= 40347, 40507|TokenType=Clit
 15	kaːm	_	NOUN	N	_	17	nmod	_	Gloss= camel|RX= N|Times= 40507, 40667|TokenType=Stem
 16	-i	_	PART	CASE	Case=Gen	15	case:aff	_	GE= -GEN|RX= -CASE|Times= 40667, 40827|TokenType=Aff
 17	wanas	_	NOUN	N	_	21	obj	_	GE= N,AC|Gloss= chat|RX= N,V|Times= 40827, 41308|TokenType=Stem
-18	/	_	PUNCT	PUNCT	_	17	punct	_	GE= PUNCT|RX= PUNCT|Times= 41308, 41789|TokenType=Stem
+18	/	_	PUNCT	PUNCT	_	17	punct	_	GE= PUNCT|RX= PUNCT|Times= 41308, 41789
 19	dh	_	ADP	POSTP	_	20	case	_	GE= DIR|RX= POSTP|Times= 41789, 41930|TokenType=Stem
 20	=eː	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	21	obl:arg	_	GE= =POSS,1SG,ACC|RX= =PRO|Times= 41930, 42072|TokenType=Clit
 21	hadiːd	_	VERB	V2	VerbClass=2	24	parataxis	_	Gloss= talk|ReportedSpeech=Yes|RX= V2|Times= 42072, 42213|TokenType=Stem
 22	-ja	_	PRON	TAM,PNG	Aspect=Pfv|Gender=Masc|Number=Sing|Person=3	21	nsubj:aff	_	GE= -PFV,3SG,M|RX= -TAM,PNG|Times= 42213, 42355|TokenType=Aff
 23	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	24	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 42355, 42496|TokenType=Aff
 24	ni	_	VERB	V1,IRG	Aspect=Pfv|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 42496, 42638|TokenType=Stem
-25	//	_	PUNCT	PUNCT	_	24	punct	_	GE= PUNCT|RX= PUNCT|Times= 42638, 44118|TokenType=Stem
+25	//	_	PUNCT	PUNCT	_	24	punct	_	GE= PUNCT|RX= PUNCT|Times= 42638, 44118
 
 # sent_id = BEJ_MV_NARR_03_camel_054-063
 # text = uː= kaːm / kak i- tʔi kaːm a- ni =t sakana -an =hoːb ? / uːn uː= kaːm / uːn ani / doːr -i ɖaːb -eː rh -aː =b =u / oːn oː= kaːm //
@@ -1086,7 +1086,7 @@
 # tokenized_text = uːkaːm / kak itʔi / kaːm anit sakanajanhoːb / uːn uːkaːm / uːn ani / doːri ɖaːbeː rhaːbu / oːn oːkaːm //
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	GE= DEF,SG,M,NOM=|RX= DET=|Times= 44118, 44232|TokenType=Clit
 2	kaːm	_	NOUN	N	_	6	nsubj	_	Gloss= camel|RX= SBJ,N|Times= 44232, 44346|TokenType=Stem
-3	/	_	PUNCT	PUNCT	_	2	punct	_	GE= PUNCT|RX= PUNCT|Times= 44346, 44575|TokenType=Stem
+3	/	_	PUNCT	PUNCT	_	2	punct	_	GE= PUNCT|RX= PUNCT|Times= 44346, 44575
 4	kak	_	ADV	ADV	_	6	advmod	_	Gloss= how|RX= ADV,Q|Times= 44575, 44763|TokenType=Stem
 5	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	6	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 44763, 44857|TokenType=Aff
 6	tʔi	_	VERB	V1,IRG	Aspect=Pfv|VerbClass=1	11	parataxis	_	GE= PFV|Gloss= resemble|ReportedSpeech=Yes|RX= V1,IRG|Times= 44857, 44952|TokenType=Stem
@@ -1097,15 +1097,15 @@
 11	sakana	_	VERB	V2	VerbClass=2	0	root	_	Gloss= ask_for_news|RX= V2|Times= 45805, 45915|TokenType=Stem
 12	-an	_	PRON	TAM,PNG	Aspect=Pfv|Number=Sing|Person=1	11	nsubj:aff	_	GE= -PFV,1SG|RX= -TAM,PNG|Times= 45915, 46026|TokenType=Aff
 13	=hoːb	_	SCONJ	CONJ	_	11	mark	_	Gloss= =when|RX= =CONJ|Times= 46026, 46137|TokenType=Clit
-14	?	_	PUNCT	PUNCT	_	11	punct	_	GE= PUNCT|RX= PUNCT|Times= 44952, 45141|TokenType=Stem
-15	/	_	PUNCT	PUNCT	_	11	punct	_	GE= PUNCT|RX= PUNCT|Times= 46137, 46469|TokenType=Stem
+14	?	_	PUNCT	PUNCT	_	11	punct	_	GE= PUNCT|RX= PUNCT|Times= 44952, 45141
+15	/	_	PUNCT	PUNCT	_	11	punct	_	GE= PUNCT|RX= PUNCT|Times= 46137, 46469
 16	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	18	det	_	GE= PROX,SG,M,NOM|RX= DEM|Times= 46469, 46685|TokenType=Stem
 17	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	18	det	_	GE= DEF,SG,M,NOM=|RX= DET=|Times= 46685, 46793|TokenType=Clit
 18	kaːm	_	NOUN	N	_	25	nsubj	_	Gloss= camel|RX= N|Times= 46793, 46902|TokenType=Stem
-19	/	_	PUNCT	PUNCT	_	18	punct	_	GE= PUNCT|RX= PUNCT|Times= 46902, 48072|TokenType=Stem
+19	/	_	PUNCT	PUNCT	_	18	punct	_	GE= PUNCT|RX= PUNCT|Times= 46902, 48072
 20	uːn	_	PRON	DEM	Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	21	det	_	GE= PROX,SG,M|RX= DEM|Times= 48072, 48243|TokenType=Stem
 21	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	27	nsubj	_	GE= 1SG,NOM|RX= SBJ,PRO|Times= 48243, 48415|TokenType=Stem
-22	/	_	PUNCT	PUNCT	_	21	punct	_	GE= PUNCT|RX= PUNCT|Times= 48415, 49413|TokenType=Stem
+22	/	_	PUNCT	PUNCT	_	21	punct	_	GE= PUNCT|RX= PUNCT|Times= 48415, 49413
 23	doːr	_	NOUN	N	Gender=Masc	25	obl:mod	_	Gloss= time|RX= N,M|Times= 49413, 49600|TokenType=Stem
 24	-i	_	PART	CASE	Case=Gen	23	case:aff	_	GE= -GEN|RX= -CASE|Times= 49600, 49787|TokenType=Aff
 25	ɖaːb	_	VERB	V2	VerbClass=2	27	ccomp	_	Gloss= run|RX= V2|Times= 49787, 49974|TokenType=Stem
@@ -1114,18 +1114,18 @@
 28	-aː	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	27	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 50255, 50349|TokenType=Aff
 29	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	27	det	_	GE= =INDF,M,ACC|RX= =DET|Times= 50349, 50443|TokenType=Clit
 30	=u	_	AUX	N,COP	Number=Sing|Person=1|VerbType=Cop	27	aux	_	GE= =COP,1SG|ReportedSpeech=Yes|RX= =PRED,N|Times= 50443, 50537|TokenType=Clit
-31	/	_	PUNCT	PUNCT	_	27	punct	_	GE= PUNCT|RX= PUNCT|Times= 50537, 50912|TokenType=Stem
+31	/	_	PUNCT	PUNCT	_	27	punct	_	GE= PUNCT|RX= PUNCT|Times= 50537, 50912
 32	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	34	det	_	GE= PROX,SG,M,ACC|RX= DEM|Times= 50912, 51156|TokenType=Stem
 33	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	34	det	_	GE= DEF,SG,M,ACC=|RX= DET=|Times= 51156, 51278|TokenType=Clit
 34	kaːm	_	NOUN	N	_	27	dislocated	_	Gloss= camel|RX= N|Times= 51278, 51400|TokenType=Stem
-35	//	_	PUNCT	PUNCT	_	11	punct	_	GE= PUNCT|RX= PUNCT|Times= 51400, 52560|TokenType=Stem
+35	//	_	PUNCT	PUNCT	_	11	punct	_	GE= PUNCT|RX= PUNCT|Times= 51400, 52560
 
 # sent_id = BEJ_MV_NARR_03_camel_064-067
 # text = da / bʔeː =b eːjaː -n =heːb i- ni //
 # text_en = Men came to me one day", he said.
 # tokenized_text = da / bʔeːb eːjaːnheːb ini //
 1	da	_	NOUN	N	Gender=Masc|Number=Plur	5	nsubj	_	GE= PL|Gloss= man|RX= SBJ,N,M|Times= 52560, 52754|TokenType=Stem
-2	/	_	PUNCT	PUNCT	_	1	punct	_	GE= PUNCT|RX= PUNCT|Times= 52754, 53717|TokenType=Stem
+2	/	_	PUNCT	PUNCT	_	1	punct	_	GE= PUNCT|RX= PUNCT|Times= 52754, 53717
 3	bʔeː	_	NOUN	N	Gender=Masc	5	obl:mod	_	Gloss= day|RX= N,M|Times= 53717, 53884|TokenType=Stem
 4	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	3	det	_	GE= =INDF,M,ACC|RX= =DET|Times= 53884, 54051|TokenType=Clit
 5	eːjaː	_	VERB	V2,IRG	Aspect=Pfv|VerbClass=2	9	parataxis	_	GE= PFV|Gloss= come|ReportedSpeech=Yes|RX= V2,IRG|Times= 54051, 54162|TokenType=Stem
@@ -1133,7 +1133,7 @@
 7	=heːb	_	PRON	PRO	Number=Sing|Person=1	5	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 54273, 54385|TokenType=Clit
 8	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	9	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 54385, 54552|TokenType=Aff
 9	ni	_	VERB	V1,IRG	Aspect=Pfv|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 54552, 54719|TokenType=Stem
-10	//	_	PUNCT	PUNCT	_	9	punct	_	GE= PUNCT|RX= PUNCT|Times= 54719, 55636|TokenType=Stem
+10	//	_	PUNCT	PUNCT	_	9	punct	_	GE= PUNCT|RX= PUNCT|Times= 54719, 55636
 
 # sent_id = BEJ_MV_NARR_03_camel_068-071
 # text = uː= dhaj kass =aː i- ktiːn -n =i kaːm =u =it / ʔajaːj tak =uːn hoːj am- mar~ri -ja eːn eː= nda /
@@ -1150,7 +1150,7 @@
 9	kaːm	_	NOUN	N	_	10	nsubj	_	Gloss= camel|RX= N|Times= 56953, 57099|TokenType=Stem
 10	=u	_	AUX	N,COP	Number=Sing|Person=3|VerbType=Cop	18	advcl	_	GE= =COP,3SG|RX= =PRED,N|Times= 57099, 57245|TokenType=Clit
 11	=it	_	SCONJ	CONJ	_	10	mark	_	GE= =CSL|RX= =CONJ|Times= 57245, 57392|TokenType=Clit
-12	/	_	PUNCT	PUNCT	_	10	punct	_	GE= PUNCT|RX= PUNCT|Times= 57392, 57995|TokenType=Stem
+12	/	_	PUNCT	PUNCT	_	10	punct	_	GE= PUNCT|RX= PUNCT|Times= 57392, 57995
 13	ʔajaːj	_	NOUN	N	_	14	nmod	_	Gloss= relatives|RX= N|Times= 57995, 58275|TokenType=Stem
 14	tak	_	NOUN	N	Gender=Masc	18	nsubj	_	Gloss= man|RX= SBJ,N,M|Times= 58275, 58415|TokenType=Stem
 15	=uːn	_	PRON	PRO	Case=Nom|Number=Plur|Person=1|Poss=Yes	14	nmod:poss	_	GE= =POSS,1PL,NOM|RX= =PRO|Times= 58415, 58556|TokenType=Clit
@@ -1161,7 +1161,7 @@
 20	eːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	22	det	_	GE= PROX,PL,M,ACC|RX= DEM|Times= 59117, 59398|TokenType=Stem
 21	eː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	22	det	_	GE= DEF,PL,M,ACC=|RX= DET=|Times= 59398, 59538|TokenType=Clit
 22	nda	_	NOUN	N	Gender=Masc|Number=Plur	18	dislocated	_	GE= PL|Gloss= man|RX= N,M|Times= 59538, 59679|TokenType=Stem
-23	/	_	PUNCT	PUNCT	_	18	punct	_	GE= PUNCT|RX= PUNCT|Times= 59679, 60529|TokenType=Stem
+23	/	_	PUNCT	PUNCT	_	18	punct	_	GE= PUNCT|RX= PUNCT|Times= 59679, 60529
 
 # sent_id = BEJ_MV_NARR_03_camel_072-072
 # text = uː= tak ɖaːb -iːni kaːm i- bari /
@@ -1174,7 +1174,7 @@
 5	kaːm	_	NOUN	N	_	7	obj	_	Gloss= camel|RX= N|Times= 61193, 61525|TokenType=Stem
 6	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	7	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 61525, 61691|TokenType=Aff
 7	bari	_	VERB	V1,IRG	Aspect=Imp|VerbClass=1	0	root	_	GE= IPFV|Gloss= have|RX= V1,IRG|Times= 61691, 61857|TokenType=Stem
-8	/	_	PUNCT	PUNCT	_	7	punct	_	GE= PUNCT|RX= PUNCT|Times= 61857, 62190|TokenType=Stem
+8	/	_	PUNCT	PUNCT	_	7	punct	_	GE= PUNCT|RX= PUNCT|Times= 61857, 62190
 
 # sent_id = BEJ_MV_NARR_03_camel_073-073
 # text = suːr -teːn =aj /
@@ -1183,7 +1183,7 @@
 1	suːr	_	VERB	V2	VerbClass=2	0	root	_	Gloss= precede|RX= V2|Times= 62190, 62337|TokenType=Stem
 2	-teːn	_	PRON	TAM,PNG	Aspect=Imp|Number=Plur|Person=2	1	nsubj:aff	_	GE= -IPFV,2PL|RX= -TAM,PNG|Times= 62337, 62485|TokenType=Aff
 3	=aj	_	SCONJ	CCONJ	_	1	mark	_	GE= =COORD|RX= CCONJ|Times= 62485, 62633|TokenType=Clit
-4	/	_	PUNCT	PUNCT	_	1	punct	_	GE= PUNCT|RX= PUNCT|Times= 62633, 63076|TokenType=Stem
+4	/	_	PUNCT	PUNCT	_	1	punct	_	GE= PUNCT|RX= PUNCT|Times= 62633, 63076
 
 # sent_id = BEJ_MV_NARR_03_camel_074-079
 # text = mʔ -aːna di -ja waliːk -a =b =u =it / sagi haːʃ =iː // beːn / ʔarjab =wa mariː =b i= dar =iː /
@@ -1198,13 +1198,13 @@
 7	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	5	det	_	GE= =INDF,M,ACC|RX= =DET|Times= 63918, 63988|TokenType=Clit
 8	=u	_	AUX	N,COP	Number=Sing|Person=3|VerbType=Cop	5	aux	_	GE= =COP,3SG|RX= =PRED,N|Times= 63988, 64058|TokenType=Clit
 9	=it	_	SCONJ	CONJ	_	5	mark	_	GE= =CSL|RX= =CONJ|Times= 64058, 64129|TokenType=Clit
-10	/	_	PUNCT	PUNCT	_	5	punct	_	GE= PUNCT|RX= PUNCT|Times= 64129, 64480|TokenType=Stem
+10	/	_	PUNCT	PUNCT	_	5	punct	_	GE= PUNCT|RX= PUNCT|Times= 64129, 64480
 11	sagi	_	ADJ	ADJ	_	12	amod	_	Gloss= far|RX= ADJ|Times= 64480, 64715|TokenType=Stem
 12	haːʃ	_	NOUN	N	Gender=Masc	5	reparandum	_	Gloss= land|RX= N,M|Times= 64715, 64832|TokenType=Stem
 13	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	12	case	_	GE= =ABL,SG|RX= =POSTP|Times= 64832, 64950|TokenType=Clit
-14	//	_	PUNCT	PUNCT	_	12	punct	_	GE= PUNCT|RX= PUNCT|Times= 64950, 65185|TokenType=Stem
+14	//	_	PUNCT	PUNCT	_	12	punct	_	GE= PUNCT|RX= PUNCT|Times= 64950, 65185
 15	beːn	_	ADV	ADV	_	12	reparandum	_	Gloss= there|RX= ADV|Times= 65185, 65353|TokenType=Stem
-16	/	_	PUNCT	PUNCT	_	15	punct	_	GE= PUNCT|RX= PUNCT|Times= 65353, 65734|TokenType=Stem
+16	/	_	PUNCT	PUNCT	_	15	punct	_	GE= PUNCT|RX= PUNCT|Times= 65353, 65734
 17	ʔarjab	_	PROPN	NP	_	15	reparandum	_	ProperName= Aryab|RX= N,PROP|Times= 65734, 65930|TokenType=Stem
 18	=wa	_	CCONJ	CCONJ	_	17	cc	_	GE= =COORD|RX= CCONJ|Times= 65930, 66126|TokenType=Clit
 19	mariː	_	ADV	ADV	_	17	reparandum	_	Gloss= from_the_direction|RX= ADV|Times= 66126, 66322|TokenType=Stem
@@ -1212,29 +1212,29 @@
 21	i=	_	DET	DET	Definite=Def|Gender=Masc	22	det	_	GE= DEF,M=|RX= DET=|Times= 66518, 66648|TokenType=Clit
 22	dar	_	NOUN	N	Gender=Masc	19	reparandum	_	Gloss= side|RX= N,M|Times= 66648, 66779|TokenType=Stem
 23	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	22	case	_	GE= =ABL,SG|RX= =POSTP|Times= 66779, 66910|TokenType=Clit
-24	/	_	PUNCT	PUNCT	_	5	punct	_	GE= PUNCT|RX= PUNCT|Times= 66910, 68424|TokenType=Stem
+24	/	_	PUNCT	PUNCT	_	5	punct	_	GE= PUNCT|RX= PUNCT|Times= 66910, 68424
 
 # sent_id = BEJ_MV_NARR_03_camel_080-085
 # text = winneːt / naʃʃalam -a kam // aː# eː= kina mitti -a =b // iː- biri -n //
 # text_en = They had very athletic camels, even pure breeds,
 # tokenized_text = winneːt / naʃʃalama kam // aː# eːkna mittijaːb // iːbiriːn //
 1	winneːt	_	ADV	ADV	_	3	advmod	_	Gloss= plenty|RX= ADV|Times= 68424, 68690|TokenType=Stem
-2	/	_	PUNCT	PUNCT	_	1	punct	_	GE= PUNCT|RX= PUNCT|Times= 68690, 69484|TokenType=Stem
+2	/	_	PUNCT	PUNCT	_	1	punct	_	GE= PUNCT|RX= PUNCT|Times= 68690, 69484
 3	naʃʃalam	_	ADJ	ADJ	_	5	acl	_	Gloss= athletic|RX= ADJ|Times= 69484, 69679|TokenType=Stem
 4	-a	_	PART	_	Number=Plur	3	mark:aff	_	GE= -PL|Times= 69679, 69874|TokenType=Aff
 5	kam	_	NOUN	N	Number=Plur	15	obj	_	GE= PL|Gloss= camel|RX= N|Times= 69874, 70265|TokenType=Stem
-6	//	_	PUNCT	PUNCT	_	5	punct	_	GE= PUNCT|RX= PUNCT|Times= 70265, 71814|TokenType=Stem
-7	aː#	_	X	FS	_	9	det	_	GE= FS|RX= FS|Times= 71814, 72145|TokenType=Stem
+6	//	_	PUNCT	PUNCT	_	5	punct	_	GE= PUNCT|RX= PUNCT|Times= 70265, 71814
+7	aː#	_	X	FS	_	9	det	_	GE= FS|RX= FS|Times= 71814, 72145|TokenType=Unfinished
 8	eː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	7	reparandum	_	GE= DEF,PL,M,ACC=|RX= DET=|Times= 72145, 72311|TokenType=Clit
 9	kina	_	PRON	PRO	Reflex=Yes	10	nmod	_	Gloss= owner|RX= PRO,REFL|Times= 72311, 72477|TokenType=Stem
 10	mitti	_	NOUN	N	_	5	acl	_	Gloss= pure_breed|RX= N|Times= 72477, 72587|TokenType=Stem
 11	-a	_	PART	_	Number=Plur	10	mark:aff	_	GE= -PL|Times= 72587, 72698|TokenType=Aff
 12	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	10	det	_	GE= =INDF,M,ACC|RX= =DET|Times= 72698, 72809|TokenType=Clit
-13	//	_	PUNCT	PUNCT	_	10	punct	_	GE= PUNCT|RX= PUNCT|Times= 72809, 73141|TokenType=Stem
+13	//	_	PUNCT	PUNCT	_	10	punct	_	GE= PUNCT|RX= PUNCT|Times= 72809, 73141
 14	iː-	_	PRON	PNG	_	15	nsubj:aff	_	GE= 3-|RX= PNG-|Times= 73141, 73223|TokenType=Aff
 15	biri	_	VERB	V1,IRG	Aspect=Aor|VerbClass=1	0	root	_	GE= AOR|Gloss= have|RX= V1,IRG|Times= 73223, 73305|TokenType=Stem
 16	-n	_	PRON	PNG	Number=Plur	15	nsubj:aff	_	GE= -PL|RX= -PNG|Times= 73305, 73388|TokenType=Aff
-17	//	_	PUNCT	PUNCT	_	15	punct	_	GE= PUNCT|RX= PUNCT|Times= 73388, 73636|TokenType=Stem
+17	//	_	PUNCT	PUNCT	_	15	punct	_	GE= PUNCT|RX= PUNCT|Times= 73388, 73636
 
 # sent_id = BEJ_MV_NARR_03_camel_086-089
 # text = iː- jheː -n =it / eːjaː -n =heːb i- ni //
@@ -1244,13 +1244,13 @@
 2	jheː	_	VERB	V1,IRG	Aspect=Pfv|VerbClass=1	6	dep:conj	_	GE= PFV|Gloss= take|RX= V1,IRG|Times= 73719, 73803|TokenType=Stem
 3	-n	_	PRON	PNG	Number=Plur	2	nsubj:aff	_	GE= -PL|RX= -PNG|Times= 73803, 73887|TokenType=Aff
 4	=it	_	CCONJ	CCONJ	_	2	cc	_	GE= =COORD|RX= CCONJ|Times= 73887, 73971|TokenType=Clit
-5	/	_	PUNCT	PUNCT	_	2	punct	_	GE= PUNCT|RX= PUNCT|Times= 73971, 74543|TokenType=Stem
+5	/	_	PUNCT	PUNCT	_	2	punct	_	GE= PUNCT|RX= PUNCT|Times= 73971, 74543
 6	eːjaː	_	VERB	V2,IRG	Aspect=Pfv|VerbClass=2	10	parataxis	_	GE= PFV|Gloss= come|ReportedSpeech=Yes|RX= V2,IRG|Times= 74543, 74637|TokenType=Stem
 7	-n	_	PRON	PNG	Number=Plur|Person=3	6	nsubj:aff	_	GE= -3PL|RX= -PNG|Times= 74637, 74732|TokenType=Aff
 8	=heːb	_	PRON	PRO	Number=Sing|Person=1	6	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 74732, 74827|TokenType=Clit
 9	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	10	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 74827, 74969|TokenType=Aff
 10	ni	_	VERB	V1,IRG	Aspect=Pfv|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 74969, 75111|TokenType=Stem
-11	//	_	PUNCT	PUNCT	_	10	punct	_	GE= PUNCT|RX= PUNCT|Times= 75111, 76156|TokenType=Stem
+11	//	_	PUNCT	PUNCT	_	10	punct	_	GE= PUNCT|RX= PUNCT|Times= 75111, 76156
 
 # sent_id = BEJ_MV_NARR_03_camel_090-093
 # text = beːn aː= nda eːjaː -n =eːb oː= doːr / i= kaːm =i jam gʷʔa -s -aː =b =u /
@@ -1264,7 +1264,7 @@
 6	=eːb	_	SCONJ	CONJ	Gender=Masc|Number=Sing	4	mark	_	GE= =REL,SG,M|RX= =CONJ|Times= 76914, 77009|TokenType=Clit
 7	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	8	det	_	GE= DEF,SG,M,ACC=|RX= DET=|Times= 77009, 77151|TokenType=Clit
 8	doːr	_	NOUN	N	Gender=Masc	14	nmod	_	Gloss= time|RX= N,M|Times= 77151, 77293|TokenType=Stem
-9	/	_	PUNCT	PUNCT	_	8	punct	_	GE= PUNCT|RX= PUNCT|Times= 77293, 78459|TokenType=Stem
+9	/	_	PUNCT	PUNCT	_	8	punct	_	GE= PUNCT|RX= PUNCT|Times= 77293, 78459
 10	i=	_	DET	DET	Definite=Def|Gender=Masc	11	det	_	GE= DEF,M=|RX= DET=|Times= 78459, 78599|TokenType=Clit
 11	kaːm	_	NOUN	N	_	14	obj	_	Gloss= camel|RX= N|Times= 78599, 78739|TokenType=Stem
 12	=i	_	PRON	PRO	Case=Acc|Number=Sing	11	nmod:poss	_	GE= =POSS1,SG,ACC|RX= =PRO|Times= 78739, 78880|TokenType=Clit
@@ -1274,7 +1274,7 @@
 16	-aː	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	14	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 79469, 79553|TokenType=Aff
 17	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	14	det	_	GE= =INDF,M,ACC|RX= =DET|Times= 79553, 79637|TokenType=Clit
 18	=u	_	AUX	N,COP	Number=Sing|Person=1|VerbType=Cop	14	aux	_	GE= =COP,1SG|RX= =PRED,N|Times= 79637, 79722|TokenType=Clit
-19	/	_	PUNCT	PUNCT	_	14	punct	_	GE= PUNCT|RX= PUNCT|Times= 79722, 80500|TokenType=Stem
+19	/	_	PUNCT	PUNCT	_	14	punct	_	GE= PUNCT|RX= PUNCT|Times= 79722, 80500
 
 # sent_id = BEJ_MV_NARR_03_camel_094-095
 # text = oːn hallaːn hasara t= ʔabaː =t =iːb kirif -aː =b =u //
@@ -1291,7 +1291,7 @@
 9	-aː	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	8	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 82318, 82425|TokenType=Aff
 10	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	8	det	_	GE= =INDF,M,ACC|RX= =DET|Times= 82425, 82532|TokenType=Clit
 11	=u	_	AUX	N,COP	Number=Sing|Person=1|VerbType=Cop	8	aux	_	GE= =COP,1SG|RX= =PRED,N|Times= 82532, 82639|TokenType=Clit
-12	//	_	PUNCT	PUNCT	_	8	punct	_	GE= PUNCT|RX= PUNCT|Times= 82639, 83812|TokenType=Stem
+12	//	_	PUNCT	PUNCT	_	8	punct	_	GE= PUNCT|RX= PUNCT|Times= 82639, 83812
 
 # sent_id = BEJ_MV_NARR_03_camel_096-096
 # text = ja iraːnaj aːn hinin /
@@ -1301,7 +1301,7 @@
 2	iraːnaj	_	INTJ	_	_	4	discourse	_	Gloss= gosh|RX= EXCL|Times= 84054, 84296|TokenType=Stem
 3	aːn	_	PRON	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	GE= PROX,PL,M,NOM|RX= DEM|Times= 84296, 84538|TokenType=Stem
 4	hinin	_	PRON	PRO	Case=Nom|Number=Plur|Person=1	0	root	_	GE= 1PL,NOM|RX= SBJ,PRO|Times= 84538, 84780|TokenType=Stem
-5	/	_	PUNCT	PUNCT	_	4	punct	_	GE= PUNCT|RX= PUNCT|Times= 84780, 85022|TokenType=Stem
+5	/	_	PUNCT	PUNCT	_	4	punct	_	GE= PUNCT|RX= PUNCT|Times= 84780, 85022
 
 # sent_id = BEJ_MV_NARR_03_camel_097-103
 # text = a- s- ganif daːji =t si- ganf -oːj aːn hinin / barijoːk ribi -jaː =b =a / oː= kaːm ni- ʃabb =eːt areː -na =aj / i- diː -n =heːb i- ni //
@@ -1317,13 +1317,13 @@
 8	-oːj	_	SCONJ	N	_	7	mark:aff	_	GE= -N,AC|RX= -N,V|Times= 85867, 85973|TokenType=Aff
 9	aːn	_	PRON	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	GE= PROX,PL,M,NOM|RX= DEM|Times= 85973, 86290|TokenType=Stem
 10	hinin	_	PRON	PRO	Case=Nom|Number=Plur|Person=1	13	nsubj	_	GE= 1PL,NOM|RX= SBJ,PRO|Times= 86290, 86607|TokenType=Stem
-11	/	_	PUNCT	PUNCT	_	10	punct	_	GE= PUNCT|RX= PUNCT|Times= 86607, 86925|TokenType=Stem
+11	/	_	PUNCT	PUNCT	_	10	punct	_	GE= PUNCT|RX= PUNCT|Times= 86607, 86925
 12	barijoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	13	dep:comp	_	GE= POSS,2SG,ACC|RX= PRO|Times= 86925, 87328|TokenType=Stem
 13	ribi	_	VERB	V1	VerbClass=1	28	parataxis	_	Gloss= load|RX= V1|Times= 87328, 87428|TokenType=Stem
 14	-jaː	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	13	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 87428, 87529|TokenType=Aff
 15	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	13	det	_	GE= =INDF,M,ACC|RX= =DET|Times= 87529, 87630|TokenType=Clit
 16	=a	_	AUX	N,COP	Number=Plur|Person=1|VerbType=Cop	13	aux	_	GE= =COP,1PL|ReportedSpeech=Yes|RX= =PRED,N|Times= 87630, 87731|TokenType=Clit
-17	/	_	PUNCT	PUNCT	_	13	punct	_	GE= PUNCT|RX= PUNCT|Times= 87731, 88965|TokenType=Stem
+17	/	_	PUNCT	PUNCT	_	13	punct	_	GE= PUNCT|RX= PUNCT|Times= 87731, 88965
 18	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	19	det	_	GE= DEF,SG,M,ACC=|RX= DET=|Times= 88965, 89181|TokenType=Clit
 19	kaːm	_	NOUN	N	_	21	obj	_	Gloss= camel|RX= N|Times= 89181, 89398|TokenType=Stem
 20	ni-	_	PRON	PNG	Number=Plur|Person=1	21	nsubj:aff	_	GE= 1PL-|RX= PNG-|Times= 89398, 89542|TokenType=Aff
@@ -1332,14 +1332,14 @@
 23	areː	_	VERB	V2	VerbClass=2	13	advcl	_	Gloss= like|RX= V2|Times= 89832, 89976|TokenType=Stem
 24	-na	_	PRON	TAM,PNG	Aspect=Pfv|Number=Plur|Person=1	23	nsubj:aff	_	GE= -PFV,1PL|RX= -TAM,PNG|Times= 89976, 90120|TokenType=Aff
 25	=aj	_	SCONJ	CONJ	_	23	mark	_	GE= =CSL|RX= =CONJ|Times= 90120, 90265|TokenType=Clit
-26	/	_	PUNCT	PUNCT	_	23	punct	_	GE= PUNCT|RX= PUNCT|Times= 90265, 90942|TokenType=Stem
+26	/	_	PUNCT	PUNCT	_	23	punct	_	GE= PUNCT|RX= PUNCT|Times= 90265, 90942
 27	i-	_	PRON	PNG	_	28	nsubj:aff	_	GE= 3-|RX= PNG-|Times= 90942, 91026|TokenType=Aff
 28	diː	_	VERB	V1,IRG	Aspect=Pfv|VerbClass=1	32	parataxis	_	GE= PFV|Gloss= say|ReportedSpeech=Yes|RX= V1,IRG|Times= 91026, 91110|TokenType=Stem
 29	-n	_	PRON	PNG	Number=Plur	28	nsubj:aff	_	GE= -PL|RX= -PNG|Times= 91110, 91194|TokenType=Aff
 30	=heːb	_	PRON	PRO	Number=Sing|Person=1	28	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 91194, 91279|TokenType=Clit
 31	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	32	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 91279, 91447|TokenType=Aff
 32	ni	_	VERB	V1,IRG	Aspect=Pfv|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX= V1,IRG|Times= 91447, 91616|TokenType=Stem
-33	//	_	PUNCT	PUNCT	_	32	punct	_	GE= PUNCT|RX= PUNCT|Times= 91616, 92425|TokenType=Stem
+33	//	_	PUNCT	PUNCT	_	32	punct	_	GE= PUNCT|RX= PUNCT|Times= 91616, 92425
 
 # sent_id = BEJ_MV_NARR_03_camel_104-106
 # text = uːn uː= kaːm iraːnaj / fidig -a dʔi -jaː =b =u /
@@ -1349,14 +1349,14 @@
 2	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	det	_	GE= DEF,SG,M,NOM=|RX= DET=|Times= 92685, 92815|TokenType=Clit
 3	kaːm	_	NOUN	N	_	6	nsubj	_	Gloss= camel|RX= SBJ,N|Times= 92815, 92946|TokenType=Stem
 4	iraːnaj	_	INTJ	_	_	6	discourse	_	Gloss= gosh|RX= EXCL|Times= 92946, 93207|TokenType=Stem
-5	/	_	PUNCT	PUNCT	_	4	punct	_	GE= PUNCT|RX= PUNCT|Times= 93207, 93619|TokenType=Stem
+5	/	_	PUNCT	PUNCT	_	4	punct	_	GE= PUNCT|RX= PUNCT|Times= 93207, 93619
 6	fidig	_	VERB	V1	VerbClass=1	0	root	_	Gloss= untie|RX= V1|Times= 93619, 93811|TokenType=Stem
 7	-a	_	SCONJ	CVB	VerbForm=Conv	6	mark:aff	_	GE= -CVB,MNR|Times= 93811, 94003|TokenType=Aff
 8	dʔi	_	AUX	AUX,EMPH	_	6	aux	_	Gloss= do|RX= AUX,EMPH|Times= 94003, 94099|TokenType=Stem
-9	-jaː	_	VERB	CVB	Aspect=Perf|VerbForm=Conv	6	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 94099, 94195|TokenType=Aff
+9	-jaː	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	6	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 94099, 94195|TokenType=Aff
 10	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	6	det	_	GE= =INDF,M,ACC|RX= =DET|Times= 94195, 94291|TokenType=Clit
 11	=u	_	AUX	N,COP	Number=Sing|Person=1|VerbType=Cop	6	cop	_	GE= =COP,1SG|RX= =PRED,N|Times= 94291, 94387|TokenType=Clit
-12	/	_	PUNCT	PUNCT	_	6	punct	_	GE= PUNCT|RX= PUNCT|Times= 94387, 94772|TokenType=Stem
+12	/	_	PUNCT	PUNCT	_	6	punct	_	GE= PUNCT|RX= PUNCT|Times= 94387, 94772
 
 # sent_id = BEJ_MV_NARR_03_camel_107-108
 # text = hamil -aː =b a- kati =jeː kaːm =u =it // haraw -aː =b haraw -aː =b =u //
@@ -1371,7 +1371,7 @@
 7	kaːm	_	NOUN	N	_	8	nsubj	_	Gloss= camel|RX= SBJ,N|Times= 95533, 95723|TokenType=Stem
 8	=u	_	AUX	PRO	_	14	advcl	_	GE= =COP,3SG|RX= =PRED.NOM|Times= 95723, 95914|TokenType=Clit
 9	=it	_	SCONJ	PRO	_	8	mark	_	GE= =CSL|RX= =CONJ|Times= 95723, 95914|TokenType=Clit
-10	//	_	PUNCT	PUNCT	_	8	punct	_	GE= PUNCT|RX= PUNCT|Times= 95914, 96295|TokenType=Stem
+10	//	_	PUNCT	PUNCT	_	8	punct	_	GE= PUNCT|RX= PUNCT|Times= 95914, 96295
 11	haraw	_	VERB	V1	VerbClass=1	14	dep:comp	_	Gloss= seek|RX= V1|Times= 96295, 96441|TokenType=Stem
 12	-aː	_	SCONJ	CVB	VerbForm=Conv	11	mark:aff	_	GE= -CVB,MNR|Times= 96441, 96587|TokenType=Aff
 13	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	11	det	_	GE= =INDF,M,ACC|RX= =DET|Times= 96587, 96733|TokenType=Clit
@@ -1379,5 +1379,5 @@
 15	-aː	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	14	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 96842, 96952|TokenType=Aff
 16	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	14	det	_	GE= =INDF,M,ACC|RX= =DET|Times= 96952, 97061|TokenType=Clit
 17	=u	_	AUX	N,COP	Number=Sing|Person=3|VerbType=Cop	14	aux	_	GE= =COP,3SG|RX= =PRED,N|Times= 97061, 97171|TokenType=Clit
-18	//	_	PUNCT	PUNCT	_	14	punct	_	GE= PUNCT|RX= PUNCT|Times= 97171, 97609|TokenType=Stem
+18	//	_	PUNCT	PUNCT	_	14	punct	_	GE= PUNCT|RX= PUNCT|Times= 97171, 97609
 
