@@ -482,7 +482,7 @@
 27	-i	_	PRON	TAM,PNG	Aspect=Aor|Gender=Masc|Number=Sing|Person=3	26	nsubj:aff	_	GE= -AOR,3SG,M|RX= -TAM,PNG|Times= 92261, 92482|TokenType=Aff
 28	mijʔat	_	NOUN	N	Gender=Masc	26	nsubj	_	Gloss= footprint|RX= N,M|Times= 92482, 92925|TokenType=Stem
 29	a-	_	PRON	PNG	Number=Sing|Person=1	30	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 92925, 93072|TokenType=Aff
-30	maːsiw	_	VERB	V1	Aspect=Perf|VerbClass=1	69	dep:conj	_	GE= INT,PFV|Gloss= hear|RX= V1,DER|Times= 93072, 93219|TokenType=Stem
+30	maːsiw	_	VERB	V1	Aspect=Perf|VerbClass=1	67	dep:conj	_	GE= INT,PFV|Gloss= hear|RX= V1,DER|Times= 93072, 93219|TokenType=Stem
 31	=hoːb	_	SCONJ	CONJ	_	30	mark	_	Gloss= =when|RX= =CONJ|Times= 93219, 93367|TokenType=Clit
 32	//	_	PUNCT	PUNCT	_	30	punct	_	GE= PUNCT|RX= PUNCT|Times= 93367, 94454
 33	a-	_	PRON	PNG	Number=Sing|Person=1	34	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 94454, 94628|TokenType=Aff
@@ -491,7 +491,7 @@
 36	tir	_	VERB	V1	Aspect=Perf|VerbClass=1	39	ccomp	_	GE= PFV|Gloss= lean|RX= V1|Times= 94918, 95034|TokenType=Stem
 37	=t	_	CCONJ	CCONJ	_	39	cc	_	GE= =COORD|RX= CCONJ|Times= 95034, 95151|TokenType=Clit
 38	a-	_	PRON	PNG	Number=Sing|Person=1	39	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 95151, 95267|TokenType=Aff
-39	ʃibib	_	VERB	V1	Aspect=Perf|VerbClass=1	69	dep:conj	_	GE= PFV|Gloss= look|RX= V1|Times= 95267, 95383|TokenType=Stem
+39	ʃibib	_	VERB	V1	Aspect=Perf|VerbClass=1	67	dep:conj	_	GE= PFV|Gloss= look|RX= V1|Times= 95267, 95383|TokenType=Stem
 40	=hoːb	_	SCONJ	CONJ	_	36	mark	_	Gloss= =when|RX= =CONJ|Times= 95383, 95500|TokenType=Clit
 41	//	_	PUNCT	PUNCT	_	39	punct	_	GE= PUNCT|RX= PUNCT|Times= 95500, 95997
 42	ʔoːt	_	NOUN	N	Gender=Fem	65	nsubj	_	GE= F|Gloss= child|RX= N,F|Times= 95997, 96247|TokenType=Stem
@@ -1145,7 +1145,7 @@
 4	=aː	_	PRON	PRO	Case=Nom|Number=Plur|Person=3|Poss=Yes	2	nmod:poss	_	GE= =POSS,3PL,NOM|RX= =PRO|Times= 56294, 56514|TokenType=Clit
 5	i-	_	PRON	PNG	_	6	nsubj:aff	_	GE= 3-|RX= PNG-|Times= 56514, 56623|TokenType=Aff
 6	ktiːn	_	VERB	V1,IRG	Aspect=Imp|VerbClass=1|Voice=Mid	9	acl:relcl	_	GE= MID,IPFV|Gloss= know|RX= V1,DER,IRG|Times= 56623, 56733|TokenType=Stem
-7	-n	_	PRON	PNG	Number=Plur	6	nsubj:aff	_	GE= -PL|RX= -PNG|Times= 56733, 56843|TokenType=Aff
+7	-n	_	PRON	PNG	Number=Plur	6	dep	_	GE= -PL|RX= -PNG|Times= 56733, 56843|TokenType=Aff
 8	=i	_	SCONJ	CONJ	_	6	mark	_	GE= =REL|RX= =CONJ|Times= 56843, 56953|TokenType=Clit
 9	kaːm	_	NOUN	N	_	10	nsubj	_	Gloss= camel|RX= N|Times= 56953, 57099|TokenType=Stem
 10	=u	_	AUX	N,COP	Number=Sing|Person=3|VerbType=Cop	18	advcl	_	GE= =COP,3SG|RX= =PRED,N|Times= 57099, 57245|TokenType=Clit
@@ -1224,8 +1224,8 @@
 4	-a	_	PART	_	Number=Plur	3	mark:aff	_	GE= -PL|Times= 69679, 69874|TokenType=Aff
 5	kam	_	NOUN	N	Number=Plur	15	obj	_	GE= PL|Gloss= camel|RX= N|Times= 69874, 70265|TokenType=Stem
 6	//	_	PUNCT	PUNCT	_	5	punct	_	GE= PUNCT|RX= PUNCT|Times= 70265, 71814
-7	aː#	_	X	FS	_	9	det	_	GE= FS|RX= FS|Times= 71814, 72145|TokenType=Unfinished
-8	eː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	7	reparandum	_	GE= DEF,PL,M,ACC=|RX= DET=|Times= 72145, 72311|TokenType=Clit
+7	aː#	_	X	FS	_	8	reparandum	_	GE= FS|RX= FS|Times= 71814, 72145|TokenType=Unfinished
+8	eː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	9	det	_	GE= DEF,PL,M,ACC=|RX= DET=|Times= 72145, 72311|TokenType=Clit
 9	kina	_	PRON	PRO	Reflex=Yes	10	nmod	_	Gloss= owner|RX= PRO,REFL|Times= 72311, 72477|TokenType=Stem
 10	mitti	_	NOUN	N	_	5	acl	_	Gloss= pure_breed|RX= N|Times= 72477, 72587|TokenType=Stem
 11	-a	_	PART	_	Number=Plur	10	mark:aff	_	GE= -PL|Times= 72587, 72698|TokenType=Aff
