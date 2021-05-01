@@ -324,7 +324,7 @@
 26	-a	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	25	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 63115, 63264|TokenType=Aff
 27	=t	_	DET	DET	Definite=Ind|Gender=Fem	25	det	_	GE= =INDF,F|RX= =DET|Times= 63264, 63414|TokenType=Clit
 28	ni-	_	PRON	PNG	Number=Plur|Person=1	25	nsubj:aff	_	GE= 1PL-|RX= PNG-|Times= 63414, 63638|TokenType=Aff
-29	ki	_	AUX	AUX	Aspect=Perf	25	aux	_	GE= PFV|Gloss= become|RX= AUX,PRF|Times= 63638, 63863|TokenType=Stem
+29	ki	_	AUX	AUX	Aspect=Perf	25	cop	_	GE= PFV|Gloss= become|RX= AUX,PRF|Times= 63638, 63863|TokenType=Stem
 30	/	_	PUNCT	PUNCT	_	25	punct	_	GE= PUNCT|RX= PUNCT|Times= 63863, 65384
 
 # sent_id = BEJ_MV_NARR_01_shelter_071-075
@@ -339,7 +339,7 @@
 6	han	_	PART	PTCL	_	5	advmod:fixed	_	Gloss= also|RX= PTCL,FOC|Times= 66611, 66939|TokenType=Stem
 7	kan	_	VERB	V1,IRG	VerbClass=1|Voice=Mid	0	root	_	GE= MID|Gloss= know|RX= V1,DER,IRG|Times= 66939, 67048|TokenType=Stem
 8	-aː	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	7	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 67048, 67157|TokenType=Aff
-9	=ji	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	7	obj:aff	_	GE= =POSS,1SG,ACC|RX= =PRO|Times= 67157, 67266|TokenType=Clit
+9	=ji	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	7	obj	_	GE= =POSS,1SG,ACC|RX= =PRO|Times= 67157, 67266|TokenType=Clit
 10	ki=	_	PART	PTCL,NEG	Aspect=Imp|Polarity=Neg	7	advmod	_	GE= NEG,IPFV=|RX= PTCL=|Times= 67266, 67375|TokenType=Clit
 11	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	7	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 67375, 67484|TokenType=Aff
 12	ki	_	AUX	AUX	Aspect=Perf	7	aux	_	GE= PFV|Gloss= become|RX= AUX,PRF|Times= 67484, 67594|TokenType=Stem
@@ -1003,7 +1003,7 @@
 31	i=	_	DET	DET	Definite=Def|Gender=Masc	32	det	_	GE= DEF,M=|RX= DET=|Times= 25766, 25865|TokenType=Clit
 32	meːk	_	NOUN	N	_	35	obl:mod	_	Gloss= donkey|RX= N|Times= 25865, 25964|TokenType=Stem
 33	-i	_	PART	CASE	Case=Gen	32	case:aff	_	GE= -GEN|RX= -CASE|Times= 25964, 26064|TokenType=Aff
-34	m-	_	NOUN	N	_	35	mark:aff	_	GE= N,AC-|RX= N,V-|Times= 26064, 26163|TokenType=Aff
+34	m-	_	SCONJ	N	_	35	mark:aff	_	GE= N,AC-|RX= N,V-|Times= 26064, 26163|TokenType=Aff
 35	ʔam	_	VERB	V1	VerbClass=1|Voice=Mid	37	ccomp	_	GE= MID|Gloss= ride|RX= V1,DER|Times= 26163, 26262|TokenType=Stem
 36	=eː	_	SCONJ	CONJ	_	35	mark	_	GE= =REL|RX= =CONJ|Times= 26262, 26362|TokenType=Clit
 37	sagi	_	ADJ	ADJ	_	41	parataxis	_	Gloss= far|RX= ADJ|Times= 26362, 26461|TokenType=Stem
@@ -1270,7 +1270,7 @@
 12	=i	_	PRON	PRO	Case=Acc|Number=Sing	11	nmod:poss	_	GE= =POSS1,SG,ACC|RX= =PRO|Times= 78739, 78880|TokenType=Clit
 13	jam	_	NOUN	N	Gender=Masc|Number=Plur	14	obj	_	Gloss= water|RX= N,PL,M|Times= 78880, 79301|TokenType=Stem
 14	gʷʔa	_	VERB	V2	VerbClass=2	0	root	_	Gloss= drink|RX= V2|Times= 79301, 79385|TokenType=Stem
-15	-s	_	AUX	V2	Case=Cau|VerbClass=2	14	aux:aff	_	GE= -CAUS|RX= -V2,DER|Times= 79385, 79469|TokenType=Aff
+15	-s	_	AUX	V2	VerbClass=2|Voice=Cau	14	aux:aff	_	GE= -CAUS|RX= -V2,DER|Times= 79385, 79469|TokenType=Aff
 16	-aː	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	14	mark:aff	_	GE= -CVB,MNR|RX= -PRF|Times= 79469, 79553|TokenType=Aff
 17	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	14	det	_	GE= =INDF,M,ACC|RX= =DET|Times= 79553, 79637|TokenType=Clit
 18	=u	_	AUX	N,COP	Number=Sing|Person=1|VerbType=Cop	14	aux	_	GE= =COP,1SG|RX= =PRED,N|Times= 79637, 79722|TokenType=Clit
@@ -1308,11 +1308,11 @@
 # text_en = I settled them down very well". They told me: "We've come to you because we would have liked to examine the camel", he said.
 # tokenized_text = asganif daːjit siganfoːj aːn hinin / barijoːk ribijaːba / oːkaːm niʃabbeːt areːnaj / idiːnheːb ini //
 1	a-	_	PRON	PNG	Number=Sing|Person=1	3	nsubj:aff	_	GE= 1SG-|RX= PNG-|Times= 85022, 85127|TokenType=Aff
-2	s-	_	AUX	V1	Case=Cau|VerbClass=1	3	aux:aff	_	GE= CAUS-|RX= V1,DER-|Times= 85127, 85233|TokenType=Aff
+2	s-	_	AUX	V1	VerbClass=1|Voice=Cau	3	aux:aff	_	GE= CAUS-|RX= V1,DER-|Times= 85127, 85233|TokenType=Aff
 3	ganif	_	VERB	V1	Aspect=Pfv|VerbClass=1	32	parataxis	_	GE= PFV|Gloss= kneel|ReportedSpeech=Yes|RX= V1|Times= 85233, 85339|TokenType=Stem
 4	daːji	_	ADJ	ADJ	_	7	obl:mod	_	Gloss= good|RX= ADJ|Times= 85339, 85497|TokenType=Stem
 5	=t	_	DET	DET	Definite=Ind|Gender=Fem	4	det	_	GE= =INDF,F|RX= =DET|Times= 85497, 85656|TokenType=Clit
-6	si-	_	AUX	V1	Case=Cau|VerbClass=1	7	aux:aff	_	GE= CAUS-|RX= V1,DER-|Times= 85656, 85761|TokenType=Aff
+6	si-	_	AUX	V1	VerbClass=1|Voice=Cau	7	aux:aff	_	GE= CAUS-|RX= V1,DER-|Times= 85656, 85761|TokenType=Aff
 7	ganf	_	VERB	V1	VerbClass=1	3	ccomp	_	Gloss= make_kneel|RX= V1|Times= 85761, 85867|TokenType=Stem
 8	-oːj	_	SCONJ	N	_	7	mark:aff	_	GE= -N,AC|RX= -N,V|Times= 85867, 85973|TokenType=Aff
 9	aːn	_	PRON	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	GE= PROX,PL,M,NOM|RX= DEM|Times= 85973, 86290|TokenType=Stem
