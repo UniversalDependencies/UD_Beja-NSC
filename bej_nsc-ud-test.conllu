@@ -894,7 +894,7 @@
 8	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=6604|AlignEnd=6841|TokenType=Break
 9	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	10	det	_	AlignBegin=6841|AlignEnd=7011|GE=[DEF].[SG].[M]=|RX=[DET]=|TokenType=Clit
 10	ʔiːd	_	NOUN	N	Gender=Masc	11	obj	_	AlignBegin=7011|AlignEnd=7182|GE=[Aid_feast]|ProperName=Aid_feast|RX=[N].[M]|TokenType=Stem
-11	arraf	_	VERB	V2	VerbClass=2	15	dep:comp	_	AlignBegin=7182|AlignEnd=7352|GE=congratulate|Gloss=congratulate|RX=[V2]|TokenType=Stem
+11	arraf	_	VERB	V2	VerbClass=2	15	compound:svc	_	AlignBegin=7182|AlignEnd=7352|GE=congratulate|Gloss=congratulate|RX=[V2]|TokenType=Stem
 12	-i	_	PRON	TAM,PNG	Aspect=Aor|Number=Sing|Person=1	11	nsubj:aff	_	AlignBegin=7352|AlignEnd=7523|GE=-[AOR].[1SG]|RX=-[TAM].[PNG]|TokenType=InflAff
 13	/	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=7523|AlignEnd=8113|TokenType=Break
 14	a-	_	PRON	PNG	Number=Sing|Person=1	15	nsubj:aff	_	AlignBegin=8113|AlignEnd=8196|GE=[1SG]-|RX=[PNG]-|TokenType=InflAff
@@ -939,7 +939,7 @@
 3	-ej	_	PART	CASE	Case=Voc	2	case:aff	_	AlignBegin=14081|AlignEnd=14167|GE=-[VOC]|RX=-[CASE]|TokenType=InflAff
 4	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	5	det	_	AlignBegin=14167|AlignEnd=14295|GE=[DEF].[SG].[M].[ACC]=|RX=[DET]=|TokenType=Clit
 5	meːk	_	NOUN	N	_	6	obj	_	AlignBegin=14295|AlignEnd=14424|GE=donkey|Gloss=donkey|RX=[N]|TokenType=Stem
-6	fidin	_	VERB	V1	VerbClass=1	9	dep:comp	_	AlignBegin=14424|AlignEnd=14552|GE=move_away|Gloss=move_away|RX=[V1]|TokenType=Stem
+6	fidin	_	VERB	V1	VerbClass=1	9	compound:svc	_	AlignBegin=14424|AlignEnd=14552|GE=move_away|Gloss=move_away|RX=[V1]|TokenType=Stem
 7	-i	_	PRON	TAM,PNG	Gender=Fem|Mood=Imp|Number=Sing	6	nsubj:aff	_	AlignBegin=14552|AlignEnd=14681|GE=-[IMP].[SG].[F]|RX=-[TAM].[PNG]|TokenType=InflAff
 8	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=14681|AlignEnd=14938|TokenType=Break
 9	galeːl	_	VERB	V2	VerbClass=2	13	parataxis	_	AlignBegin=14938|AlignEnd=15040|GE=drive_cattle|Gloss=drive_cattle|ReportedSpeech=Yes|RX=[V2]|TokenType=Stem
@@ -976,7 +976,7 @@
 4	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	5	det	_	AlignBegin=19988|AlignEnd=20204|GE=[DEF].[SG].[M].[ACC]=|RX=[DET]=|TokenType=Clit
 5	meːk	_	NOUN	N	_	7	obj	_	AlignBegin=20204|AlignEnd=20420|GE=donkey|Gloss=donkey|RX=[N]|TokenType=Stem
 6	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	7	nsubj:aff	_	AlignBegin=20420|AlignEnd=20636|GE=[3SG].[F]-|RX=[PNG]-|TokenType=InflAff
-7	fidin	_	VERB	V1	Aspect=Pfv|VerbClass=1	8	dep:comp	_	AlignBegin=20636|AlignEnd=20852|GE=move_away\[PFV]|Gloss=move_away|RX=[V1]|TokenType=Stem
+7	fidin	_	VERB	V1	Aspect=Pfv|VerbClass=1	8	compound:svc	_	AlignBegin=20636|AlignEnd=20852|GE=move_away\[PFV]|Gloss=move_away|RX=[V1]|TokenType=Stem
 8	galeːl	_	VERB	V2	VerbClass=2	27	parataxis	_	AlignBegin=20852|AlignEnd=20996|GE=drive_cattle|Gloss=drive_cattle|RX=[V2]|TokenType=Stem
 9	-tan	_	PRON	TAM,PNG	Aspect=Pfv|Gender=Fem|Number=Sing|Person=3	8	nsubj:aff	_	AlignBegin=20996|AlignEnd=21140|GE=-[PFV].[3SG].[F]|RX=-[TAM].[PNG]|TokenType=InflAff
 10	=hoːb	_	SCONJ	CONJ	_	8	mark	_	AlignBegin=21140|AlignEnd=21284|GE==when|Gloss==when|ReportedSpeech=Yes|RX==[CONJ]|TokenType=Clit
