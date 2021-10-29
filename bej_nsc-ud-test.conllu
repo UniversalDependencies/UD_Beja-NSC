@@ -3,6 +3,7 @@
 # text = tak / kaːm =i / hoː kʷiɖ -ja i- ni //
 # text_en = A man said: "My camel disappeared.
 # phonetic_text = tak / kaːmi / hoː kʷiɖja ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	tak	_	NOUN	N	Gender=Masc	10	nsubj	_	AlignBegin=0|AlignEnd=190|GE=man|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Stem
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=190|AlignEnd=879|TokenType=Break
 3	kaːm	_	NOUN	N	_	7	nsubj	_	AlignBegin=879|AlignEnd=982|GE=camel|Gloss=camel|RX=[SBJ].[N]|TokenType=Stem
@@ -19,6 +20,7 @@
 # text = beːn / i= ʃarg =iːb iː- fi =ajt // i= kaːm =iji haraw -a / a- dif =hoːb // biri dh =i i- jaːm //
 # text_en = I was over there at Sharg and when I left to look for my camel,  it rained over me.
 # phonetic_text = beːn / iʃargiːb iːfajt // ikaːmiji harawa / adifhoːb // biri dhi ijaːm //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	beːn	_	ADV	ADV	_	7	iobj	_	AlignBegin=2926|AlignEnd=3046|GE=there|Gloss=there|RX=[ADV]|TokenType=Stem
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=3046|AlignEnd=3398|TokenType=Break
 3	i=	_	DET	DET	Definite=Def|Gender=Masc	4	det	_	AlignBegin=3398|AlignEnd=3530|GE=[DEF].[M]=|RX=[DET]=|TokenType=Clit
@@ -49,6 +51,7 @@
 # text = mhiːn / i- muːki =eːb oː= biri hariw -eː / liːlaːw -i geːb // kirra -jaː =b iː- ktiː -na i= bʔaɖ i- sini =joː =hoːb / i= mbʔaɖ -i whiː / a- sʔa i- ni //
 # text_en = Looking for a place where to take refuge from the rain,  when I found the wrapped straw mats (a straw tent) next to a rock, I sat down under the tent", he said.
 # phonetic_text = mhiːn / imuːkjeːb oːbiri harweː / liːlaːwi geːb // kirrajaːb iːktiːna ibʔaɖ isinijoːhoːb / imbʔaɖi whiː / asʔa ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	mhiːn	_	NOUN	N	Gender=Masc	8	obj	_	AlignBegin=9063|AlignEnd=9336|GE=place|Gloss=place|RX=[N].[M]|TokenType=Stem
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=9336|AlignEnd=9609|TokenType=Break
 3	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	4	nsubj:aff	_	AlignBegin=9609|AlignEnd=9744|GE=[3SG].[M]-|RX=[PNG]-|TokenType=InflAff
@@ -91,6 +94,7 @@
 # text = uː= mbʔaɖ han / waʤʤa -i gaw iː- kti =jeːt / toː= na / a- kan / hoːj a- moːk i- ni //
 # text_en = Looking for a place where to take refuge from the rain,  when I found the wrapped straw mats ( a straw tent) next to a rock, I sat down under the tent", he said.
 # phonetic_text =  uːmbʔaɖ han / waʤʤaj gaw iːktijeːt / toːna / akan / hoːj amoːk ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=18153|AlignEnd=18282|GE=[DEF].[SG].[M].[NOM]=|RX=[DET]=|TokenType=Clit
 2	mbʔaɖ	_	NOUN	N	Gender=Masc	9	nsubj	_	AlignBegin=18282|AlignEnd=18411|GE=mat|Gloss=mat|RX=[N].[M]|TokenType=Stem
 3	han	_	PART	PTCL	_	2	advmod	_	AlignBegin=18411|AlignEnd=18669|GE=also|Gloss=also|RX=[PTCL].[FOC]|TokenType=Stem
@@ -99,12 +103,12 @@
 6	-i	_	PART	CASE	Case=Gen	5	case:aff	_	AlignBegin=19446|AlignEnd=19634|GE=-[GEN]|RX=-[CASE]|TokenType=InflAff
 7	gaw	_	NOUN	N	Gender=Masc	9	obj	_	AlignBegin=19634|AlignEnd=20011|GE=house|Gloss=house|RX=[N].[M]|TokenType=Stem
 8	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	9	nsubj:aff	_	AlignBegin=20011|AlignEnd=20136|GE=[3SG].[M]-|RX=[PNG]-|TokenType=InflAff
-9	kti	_	VERB	V1,IRG	Aspect=Aor|VerbClass=1	13	acl:fixed	_	AlignBegin=20136|AlignEnd=20261|GE=become\[AOR]|Gloss=become|RX=[V1].[IRG]|TokenType=Stem
-10	=jeːt	_	SCONJ	CONJ	Gender=Fem	9	mark	_	AlignBegin=20261|AlignEnd=20387|GE==[REL].[F]|RX==[CONJ]|TokenType=Clit
-11	/	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=20387|AlignEnd=20764|TokenType=Break
-12	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	13	det	_	AlignBegin=20764|AlignEnd=20867|GE=[DEF].[SG].[F].[ACC]=|RX=[DET]=|TokenType=Clit
-13	na	_	SCONJ	CONJ	_	16	obj	_	AlignBegin=20867|AlignEnd=20970|GE=thing|Gloss=thing|RX=[CONJ]|TokenType=Stem
-14	/	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=20970|AlignEnd=21408|TokenType=Break
+9	kti	_	VERB	V1,IRG	Aspect=Aor|VerbClass=1	16	ccomp	_	AlignBegin=20136|AlignEnd=20261|GE=become\[AOR]|Gloss=become|RX=[V1].[IRG]|TokenType=Stem
+10	=jeːt	_	SCONJ	CONJ	Gender=Fem	9	mark	_	AlignBegin=20261|AlignEnd=20387|ExtPos=SCONJ|GE==[REL].[F]|Idiom=Yes|RX==[CONJ]|TokenType=Clit
+11	/	_	X	PUNCT	_	10	fixed	_	AlignBegin=20387|AlignEnd=20764|InIdiom=Yes|TokenType=Break
+12	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	10	fixed	_	AlignBegin=20764|AlignEnd=20867|GE=[DEF].[SG].[F].[ACC]=|InIdiom=Yes|RX=[DET]=|TokenType=Clit
+13	na	_	NOUN	CONJ	_	10	fixed	_	AlignBegin=20867|AlignEnd=20970|GE=thing|Gloss=thing|InIdiom=Yes|RX=[CONJ]|TokenType=Stem
+14	/	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=20970|AlignEnd=21408|TokenType=Break
 15	a-	_	PRON	PNG	Number=Sing|Person=1	16	nsubj:aff	_	AlignBegin=21408|AlignEnd=21532|GE=[1SG]-|RX=[PNG]-|TokenType=InflAff
 16	kan	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1|Voice=Mid	20	parataxis:mod	_	AlignBegin=21532|AlignEnd=21657|GE=know\[MID].[PFV]|Gloss=know|RX=[V1].[DER].[IRG]|TokenType=Stem
 17	/	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=21657|AlignEnd=22569|TokenType=Break
@@ -119,6 +123,7 @@
 # text = moːk -eː moːk -eː moːk -eː uːn uː= biri / diːseːt ʔit -ja -n =hoːb // tak eːja =heːb i- ni //
 # text_en = "I sheltered for a long time and  when thist rain decreased slowly, a man came towards me", he said.
 # phonetic_text =moːkeː moːkeː moːkeː uːn uːbiri / diːseːt ʔitjanhoːb // tak eːjaheːb ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	moːk	_	VERB	V1	VerbClass=1	3	dep:redup	_	AlignBegin=23859|AlignEnd=24018|GE=take_shelter\[INT]|Gloss=take_shelter|RX=[V1].[DER]|TokenType=Stem
 2	-eː	_	SCONJ	CVB	VerbForm=Conv	1	mark:aff	_	AlignBegin=24018|AlignEnd=24177|GE=-[CVB].[SMLT]|TokenType=DerAff
 3	moːk	_	VERB	V1	VerbClass=1	5	dep:redup	_	AlignBegin=24177|AlignEnd=24336|GE=take_shelter\[INT]|Gloss=take_shelter|RX=[V1].[DER]|TokenType=Stem
@@ -146,6 +151,7 @@
 # text = hoː =b hoːsoː ʃʔag -aː =b =u uː= tak // ʔasal -aː =b iː- kti =jeːb /
 # text_en = "The man was carrying on his shoulder a lamb that he had grilled.
 # phonetic_text =  hoːb hoːsoː ʃʔagaːbu uːtak // ʔasalaːb iːktijeːb /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	hoː	_	NOUN	N	_	4	obj	_	AlignBegin=30643|AlignEnd=30859|GE=lamb|Gloss=lamb|RX=[N]|TokenType=Stem
 2	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	1	det	_	AlignBegin=30859|AlignEnd=31075|GE==[INDF].[M].[ACC]|RX==[DET]|TokenType=Clit
 3	hoːsoː	_	PRON	PRO	Case=Abl	4	dep:comp	_	AlignBegin=31075|AlignEnd=31507|GE=[ABL].[3]|RX=[PRO]|TokenType=Stem
@@ -168,6 +174,7 @@
 # text = ontʔa // bak ʔabk -i -n / w= hi i- ni =oː =hoːb // ajwa / a- di =t
 # text_en = So, when he told me: "Take the lamb like that! " I said: "Yes", [and]
 # phonetic_text = ontʔa // bak ʔabk -i -n / w
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	ontʔa	_	PART	PTCL	_	4	discourse	_	AlignBegin=35009|AlignEnd=35339|GE=now|Gloss=now|RX=[PTCL]|TokenType=Stem
 2	//	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=35339|AlignEnd=35670|TokenType=Break
 3	bak	_	ADV	DEICT	_	4	advmod	_	AlignBegin=35670|AlignEnd=35939|GE=thus|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Stem
@@ -192,6 +199,7 @@
 # text = w= his =i gajjar -an =t / hoːj sallam -am -an i- ni //
 # text_en = I changed my voice, and I took it from him", he said.
 # phonetic_text = ajwa / adit whisi gajjarant / hoːj sallamaman ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=38507|AlignEnd=38641|GE=[DEF].[SG].[M]=|RX=[DET]=|TokenType=Clit
 2	his	_	NOUN	N	Gender=Masc	4	obj	_	AlignBegin=38641|AlignEnd=38775|GE=voice|Gloss=voice|RX=[N].[M]|TokenType=Stem
 3	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	2	nmod:poss	_	AlignBegin=38775|AlignEnd=38910|GE==[POSS].[1SG].[ACC]|RX==[PRO]|TokenType=Clit
@@ -211,6 +219,7 @@
 # text = hawat =t iːjʔaː =t tib -aː =b iː- kti =jeːt sallam -ja =ajt =heːb // bak ʔabk -i -n i- ni =oː =hoːb // hoːj sallam -am -an i- ni //
 # text_en = "He gave me a goatskin full of milk, and when he told me: "Take it!", I took it from him", he said.
 # phonetic_text =  hawatt iːjʔaːt tibaːb iːktijeːt sallamjaːjtheːb // bak ʔabkin ijoːhoːb // hoːj sallamaman ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	hawat	_	NOUN	N	Gender=Fem	11	obj	_	AlignBegin=42616|AlignEnd=42825|GE=goatskin_flask|Gloss=goatskin_flask|RX=[N].[F]|TokenType=Stem
 2	=t	_	DET	DET	Definite=Ind|Gender=Fem	1	det	_	AlignBegin=42825|AlignEnd=43034|GE==[INDF].[F]|RX==[DET]|TokenType=Clit
 3	iːjʔaː	_	NOUN	N	Gender=Fem|Number=Plur	1	nmod	_	AlignBegin=43034|AlignEnd=43243|GE=milk|Gloss=milk|RX=[N].[PL].[F]|TokenType=Stem
@@ -247,6 +256,7 @@
 # text = areː / bʔaɖaɖ =wa i= koːlej =wa sallam -ja =ajt =heːb // daːji =t ʔabk -i -n i- ni =oː =hoːb // hoːj sallam -am -an i- ni //
 # text_en = "Then he gave me a sword and the stick, and when he told me: "So take them well!", I took them from him", he said.
 # phonetic_text = areː / bʔaɖaɖwa ikoːlejwa sallamjaːjtheːb // daːjit ʔabkin ijoːhoːb // hoːj sallamaman ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	areː	_	ADV	PTCL	_	8	discourse	_	AlignBegin=48704|AlignEnd=48951|GE=then|Gloss=then|RX=[PTCL]|TokenType=Stem
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=48951|AlignEnd=50650|TokenType=Break
 3	bʔaɖaɖ	_	NOUN	N	Gender=Masc	6	dep:conj	_	AlignBegin=50650|AlignEnd=50893|GE=sword|Gloss=sword|RX=[N].[M]|TokenType=Stem
@@ -281,6 +291,7 @@
 # text = ontʔa / w= hanʤar // sallam -ja =ajt =heːb //
 # text_en = "So, he gave me the dagger [and]
 # phonetic_text = ontʔa / whanʤar // sallamjaːjtheːb //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	ontʔa	_	PART	PTCL	_	6	discourse	_	AlignBegin=56172|AlignEnd=56424|GE=now|Gloss=now|RX=[PTCL]|TokenType=Stem
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=56424|AlignEnd=57047|TokenType=Break
 3	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	4	det	_	AlignBegin=57047|AlignEnd=57216|GE=[DEF].[SG].[M]=|RX=[DET]=|TokenType=Clit
@@ -296,6 +307,7 @@
 # text = bak ʔabk -i -n i- ni =oː =hoːb / hoːj sallam -am -an =t // ontʔa / doːr =ka toː= ʃa kitʔ -a =t tam -a =t ni- ki /
 # text_en = when he told me: "So take it like that!", I took it from him, and  then, we would cut and eat the meat in turn [and]
 # phonetic_text = bak ʔabkin ijoːhoːb / hoːj sallamamant // ontʔa / doːrka toːʃa kitʔat tamat niki /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	bak	_	PART	DEICT	_	2	advmod	_	AlignBegin=58718|AlignEnd=58986|GE=thus|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Stem
 2	ʔabk	_	VERB	V1	VerbClass=1	6	parataxis	_	AlignBegin=58986|AlignEnd=59075|GE=take|Gloss=take|ReportedSpeech=Yes|RX=[V1]|TokenType=Stem
 3	-i	_	PRON	TAM,PNG	Gender=Fem|Mood=Imp|Number=Sing	2	nsubj:aff	_	AlignBegin=59075|AlignEnd=59164|GE=-[IMP].[SG].[F]|RX=-[TAM].[PNG]|TokenType=InflAff
@@ -331,12 +343,13 @@
 # text = uːn uː= tak / doːr han kan -aː =ji ki= i- ki / ti= takat hiːs =heːb =ajt //
 # text_en = this man had not even recognized me  because he thought I was the woman."
 # phonetic_text = uːn uːtak / doːr han kanaːji kiːki / titakat hiːsheːbaːjt //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=65384|AlignEnd=65579|GE=[PROX].[SG].[M].[NOM]|RX=[DEM]|TokenType=Stem
 2	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=65579|AlignEnd=65676|GE=[DEF].[SG].[M].[NOM]=|RX=[DET]=|TokenType=Clit
 3	tak	_	NOUN	N	Gender=Masc	7	nsubj	_	AlignBegin=65676|AlignEnd=65774|GE=man|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Stem
 4	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=65774|AlignEnd=66284|TokenType=Break
-5	doːr	_	NOUN	N	Gender=Masc	7	obl:mod	_	AlignBegin=66284|AlignEnd=66611|GE=time|Gloss=time|RX=[N].[M]|TokenType=Stem
-6	han	_	PART	PTCL	_	5	advmod:fixed	_	AlignBegin=66611|AlignEnd=66939|GE=also|Gloss=also|RX=[PTCL].[FOC]|TokenType=Stem
+5	doːr	_	NOUN	N	Gender=Masc	7	obl:mod	_	AlignBegin=66284|AlignEnd=66611|GE=time|Gloss=time|Idiom=Yes|RX=[N].[M]|TokenType=Stem
+6	han	_	PART	PTCL	_	5	advmod	_	AlignBegin=66611|AlignEnd=66939|GE=also|Gloss=also|InIdiom=Yes|RX=[PTCL].[FOC]|TokenType=Stem
 7	kan	_	VERB	V1,IRG	VerbClass=1|Voice=Mid	0	root	_	AlignBegin=66939|AlignEnd=67048|GE=know\[MID]|Gloss=know|RX=[V1].[DER].[IRG]|TokenType=Stem
 8	-aː	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	7	mark:aff	_	AlignBegin=67048|AlignEnd=67157|GE=-[CVB].[MNR]|RX=-[PRF]|TokenType=DerAff
 9	=ji	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	7	obj	_	AlignBegin=67157|AlignEnd=67266|GE==[POSS].[1SG].[ACC]|RX==[PRO]|TokenType=Clit
@@ -355,6 +368,7 @@
 # text = ontʔa / daːjeːb // j= halak -a / i- naːʃʔa bʔi -ja -n =hoːb // tak iː- kti =jeːt toː= na i- kan =heːb //
 # text_en = "So, when he had finished undressing properly,   he realized I was a man!"
 # phonetic_text = ontʔa / daːjeːb // jhalaka / inaːʃʔa bʔijanhoːb // tak iːktijeːt toːna ikanheːb //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	ontʔa	_	PART	PTCL	_	10	discourse	_	AlignBegin=71270|AlignEnd=71449|GE=now|Gloss=now|RX=[PTCL]|TokenType=Stem
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=71449|AlignEnd=71629|TokenType=Break
 3	daːjeːb	_	ADV	ADV	_	10	advmod	_	AlignBegin=71629|AlignEnd=71958|GE=good|Gloss=good|RX=[ADV]|TokenType=Stem
@@ -372,10 +386,10 @@
 15	//	_	PUNCT	PUNCT	_	10	punct	_	AlignBegin=74449|AlignEnd=75333|TokenType=Break
 16	tak	_	NOUN	N	Gender=Masc	18	nsubj	_	AlignBegin=75333|AlignEnd=75704|GE=man|Gloss=man|RX=[N].[M]|TokenType=Stem
 17	iː-	_	PRON	PNG	Number=Sing|Person=1	18	nsubj:aff	_	AlignBegin=75704|AlignEnd=75827|GE=[1SG]-|RX=[PNG]-|TokenType=InflAff
-18	kti	_	VERB	V1,IRG	Aspect=Aor|VerbClass=1	21	acl:relcl	_	AlignBegin=75827|AlignEnd=75951|GE=become\[AOR]|Gloss=become|RX=[V1].[IRG]|TokenType=Stem
-19	=jeːt	_	SCONJ	CONJ	Gender=Fem	18	mark	_	AlignBegin=75951|AlignEnd=76075|GE==[REL].[F]|RX==[CONJ]|TokenType=Clit
-20	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	21	det	_	AlignBegin=76075|AlignEnd=76260|GE=[DEF].[SG].[F].[ACC]=|RX=[DET]=|TokenType=Clit
-21	na	_	SCONJ	CONJ	_	23	obj	_	AlignBegin=76260|AlignEnd=76446|GE=thing|Gloss=thing|RX=[CONJ]|TokenType=Stem
+18	kti	_	VERB	V1,IRG	Aspect=Aor|VerbClass=1	23	ccomp	_	AlignBegin=75827|AlignEnd=75951|GE=become\[AOR]|Gloss=become|RX=[V1].[IRG]|TokenType=Stem
+19	=jeːt	_	SCONJ	CONJ	Gender=Fem	18	mark	_	AlignBegin=75951|AlignEnd=76075|ExtPos=SCONJ|GE==[REL].[F]|Idiom=Yes|RX==[CONJ]|TokenType=Clit
+20	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	19	fixed	_	AlignBegin=76075|AlignEnd=76260|GE=[DEF].[SG].[F].[ACC]=|InIdiom=Yes|RX=[DET]=|TokenType=Clit
+21	na	_	NOUN	CONJ	_	19	fixed	_	AlignBegin=76260|AlignEnd=76446|GE=thing|Gloss=thing|InIdiom=Yes|RX=[CONJ]|TokenType=Stem
 22	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	23	nsubj:aff	_	AlignBegin=76446|AlignEnd=76569|GE=[3SG].[M]-|RX=[PNG]-|TokenType=InflAff
 23	kan	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1|Voice=Mid	0	root	_	AlignBegin=76569|AlignEnd=76693|GE=know\[MID].[PFV]|Gloss=know|RX=[V1].[DER].[IRG]|TokenType=Stem
 24	=heːb	_	PRON	PRO	Number=Sing|Person=1	23	obj	_	AlignBegin=76693|AlignEnd=76817|GE==[OBJ].[1SG]|RX==[PRO]|TokenType=Clit
@@ -385,6 +399,7 @@
 # text = i- kan =oː =hoːb / toːt toː= biri i- firʔa =t / ɖaːb -ja -i iː- ha i- ni //
 # text_en = "When he recognized me, he jumped to the sky and, he was running away!", he said.
 # phonetic_text = ikanoːhoːb / toːt toːbiri ifirʔat / ɖaːbjaj iːha ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	2	nsubj:aff	_	AlignBegin=77958|AlignEnd=77990|GE=[3SG].[M]-|RX=[PNG]-|TokenType=InflAff
 2	kan	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1|Voice=Mid	10	advcl	_	AlignBegin=77990|AlignEnd=78022|GE=know\[MID].[PFV]|Gloss=know|RX=[V1].[DER].[IRG]|TokenType=Stem
 3	=oː	_	PRON	PRO	Number=Sing|Person=1	2	obj	_	AlignBegin=78022|AlignEnd=78054|GE==[OBJ].[1SG]|RX==[PRO]|TokenType=Clit
@@ -410,6 +425,7 @@
 # text = a- skʷi i- ni //
 # text_en = "I chased him", he said.
 # phonetic_text = askʷi ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	a-	_	PRON	PNG	Number=Sing|Person=1	2	nsubj:aff	_	AlignBegin=80803|AlignEnd=80904|GE=[1SG]-|RX=[PNG]-|TokenType=InflAff
 2	skʷi	_	VERB	V1	Aspect=Perf|VerbClass=1	4	parataxis	_	AlignBegin=80904|AlignEnd=81006|GE=pursue\[PFV]|Gloss=pursue|ReportedSpeech=Yes|RX=[V1]|TokenType=Stem
 3	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	4	nsubj:aff	_	AlignBegin=81006|AlignEnd=81108|GE=[3SG].[M]-|RX=[PNG]-|TokenType=InflAff
@@ -420,6 +436,7 @@
 # text = a- skʷi -i a- gʷoːj =t // hoːj ɖaːb -ja -i iː- ha //
 # text_en = "I chased him, and I could not (catch up with him), and  he run away from there.
 # phonetic_text = askʷiː agʷoːjt // hoːj ɖaːbjaj iːha //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	a-	_	PRON	PNG	Number=Sing|Person=1	2	nsubj:aff	_	AlignBegin=81414|AlignEnd=81535|GE=[1SG]-|RX=[PNG]-|TokenType=InflAff
 2	skʷi	_	VERB	V1	Aspect=Perf|VerbClass=1	5	parataxis:coord	_	AlignBegin=81535|AlignEnd=81656|GE=pursue\[PFV]|Gloss=pursue|RX=[V1]|TokenType=Stem
 3	-i	_	X	NP	_	2	dep:aff	_	AlignBegin=81656|AlignEnd=81778|GE=-[L]|ProperName=-L|TokenType=InflAff
@@ -439,6 +456,7 @@
 # text = a- gar jʔ -an =t i= gaw =i /
 # text_en = I went back, in my house.
 # phonetic_text = agar jʔant igawi /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	a-	_	PRON	PNG	Number=Sing|Person=1	2	nsubj:aff	_	AlignBegin=84523|AlignEnd=84644|GE=[1SG]-|RX=[PNG]-|TokenType=InflAff
 2	gar	_	VERB	V1	Aspect=Perf|VerbClass=1|Voice=Mid	3	compound	_	AlignBegin=84644|AlignEnd=84765|GE=come_back\[MID].[PFV]|Gloss=come_back|RX=[V1].[DER]|TokenType=Stem
 3	jʔ	_	VERB	V2,IRG	VerbClass=2	0	root	_	AlignBegin=84765|AlignEnd=84845|GE=come|Gloss=come|RX=[V2].[IRG]|TokenType=Stem
@@ -453,6 +471,7 @@
 # text = ameː- sa~sʔ -eː ameː- sa~sʔ -eː ameː- sa~sʔ -eː / uː= biri ʈa~ʈakʷ -i / i= jam =eːb // ji= oː= biri naː =iːb // kaɖaw -i mijʔat a- maːsiw =hoːb // a- nʔa a- tir =t a- ʃibib =hoːb // ʔoːt / suːr =isi / suːfa =t hoːj t- heː =jeːt harʔiː =isi / hamoː =t hoːj hiː -n =eːt / baːji =heːb hiːreːr -eː rh -an =hoːb / a- hagit i- ni //
 # text_en = I remained seated for a long time (against my will, leisurely), the rain was dripping, and  when I heard footsteps which were making noise in the rain water, when I leaned down and looked,  when I saw a girl who has a fringe in front of her and hair behind her walking towards me,  I waited for her", he said.
 # phonetic_text = ameːsasʔeː ameːsasʔeː ameːsasʔeː / uːbiri ʈaʈakʷi / ijameːb // jiʔoːbiri naːjiːb // kaɖawi mijʔat amaːsiwhoːb // anʔa atirt aʃibibhoːb // ʔoːt / suːrisi / suːfat hoːj theːjeːt harʔiːsi / hamoːt hoːj hiːneːt / baːjiheːb hiːreːreː rhanhoːb / ahagit ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	ameː-	_	AUX	V1	VerbClass=1|Voice=Pass	2	aux:aff	_	AlignBegin=85492|AlignEnd=85680|GE=[PASS].[INT]-|RX=[V1].[DER]-|TokenType=DerAff
 2	sa~sʔ	_	VERB	V1	VerbClass=1|Voice=Mid	5	dep:redup	_	AlignBegin=85680|AlignEnd=85869|GE=[PLAC]~sit\[MID]|Gloss=sit|RX=[V1].[DER]|TokenType=Stem
 3	-eː	_	SCONJ	CVB	VerbForm=Conv	2	mark:aff	_	AlignBegin=85869|AlignEnd=86058|GE=-[CVB].[SMLT]|TokenType=DerAff
@@ -533,6 +552,7 @@
 # text = i= mhiːn =i sʔ -eː // koːba =t =iːb iː- fi =t / ʔaːmanaːj =t tam -i =t / sallam -ta =heːb i- ni //
 # text_en = "While I was seated in my place, he (sic) [she] gave me a mouthful of gruel that was in a wooden container", he said.
 # phonetic_text = imhiːni sʔeː // koːbaːtiːb iːfit / aːmanaːjt tamit / sallamtheːb ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=105512|AlignEnd=105605|GE=[DEF].[M]=|RX=[DET]=|TokenType=Clit
 2	mhiːn	_	NOUN	N	Gender=Masc	4	obj	_	AlignBegin=105605|AlignEnd=105698|GE=place|Gloss=place|RX=[N].[M]|TokenType=Stem
 3	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	2	nmod:poss	_	AlignBegin=105698|AlignEnd=105791|GE==[POSS].[1SG].[ACC]|RX==[PRO]|TokenType=Clit
@@ -563,6 +583,7 @@
 # text = bak ʔabik -a -n ti- ni =oː =hoːb // hoːj sallam -am -an i- ni //
 # text_en = "When she told me: "So take it like that!", I took it from her", he said.
 # phonetic_text = bak ʔabkan tijoːhoːb // hoːj sallamaman ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	bak	_	PART	DEICT	_	11	advmod	_	AlignBegin=111791|AlignEnd=112025|GE=thus|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Stem
 2	ʔabik	_	VERB	V1	VerbClass=1	6	parataxis	_	AlignBegin=112025|AlignEnd=112103|GE=take|Gloss=take|ReportedSpeech=Yes|RX=[V1]|TokenType=Stem
 3	-a	_	PRON	TAM,PNG	Gender=Masc|Mood=Imp|Number=Sing	2	nsubj:aff	_	AlignBegin=112103|AlignEnd=112181|GE=-[IMP].[SG].[M]|RX=-[TAM].[PNG]|TokenType=InflAff
@@ -584,6 +605,7 @@
 # text = ʔamuːl =iːb iː- fi -n =t iːjʔaː =t sallam -ta =ajt =heːb ʔabik -a -n ti- ni =oː =hoːb // hoːj sallam -am -an /
 # text_en = "Since she had given me a milk bowl, when she told me: "So take it!", I took it from her.
 # phonetic_text = amuːliːb iːfiːnt iːjʔaːt sallamtaːjtheːb ʔabkan tijoːhoːb // hoːj sallamaman /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	ʔamuːl	_	NOUN	N	Gender=Masc	4	obl:arg	_	AlignBegin=114562|AlignEnd=114755|GE=milk_bowl|Gloss=milk_bowl|RX=[N].[M]|TokenType=Stem
 2	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	1	case	_	AlignBegin=114755|AlignEnd=114948|GE==[LOC].[SG]|RX==[POSTP]|TokenType=Clit
 3	iː-	_	PRON	PNG	_	4	nsubj:aff	_	AlignBegin=114948|AlignEnd=115044|GE=[3]-|RX=[PNG]-|TokenType=InflAff
@@ -614,25 +636,26 @@
 # text = hoːj sallam -am -an =eːt toː= na nuːn / w= ʔaraːw =oː ba= a- akaj =eːt / toː= na / ti- kan =heːb //
 # text_en = Only when I had taken it all from her did she realize that I was not her friend."
 # phonetic_text = hoːj sallamamaneːt toːna nuːn / wʔaraːwoː baːkajeːt / toːna / tikanheːb //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	hoːj	_	PRON	PRO	Case=Abl	2	iobj	_	AlignBegin=118871|AlignEnd=119193|GE=[ABL].[3]|RX=[PRO]|TokenType=Stem
-2	sallam	_	VERB	V2	VerbClass=2	7	acl:fixed	_	AlignBegin=119193|AlignEnd=119273|GE=give|Gloss=give|RX=[V2]|TokenType=Stem
+2	sallam	_	VERB	V2	VerbClass=2	15	advcl	_	AlignBegin=119193|AlignEnd=119273|GE=give|Gloss=give|RX=[V2]|TokenType=Stem
 3	-am	_	AUX	V2	VerbClass=2|Voice=Mid	2	aux:aff	_	AlignBegin=119273|AlignEnd=119354|GE=-[MID]|RX=-[V2].[DER]|TokenType=DerAff
 4	-an	_	PRON	TAM,PNG	Aspect=Pfv|Number=Sing|Person=1	2	nsubj:aff	_	AlignBegin=119354|AlignEnd=119435|GE=-[PFV].[1SG]|RX=-[TAM].[PNG]|TokenType=InflAff
-5	=eːt	_	SCONJ	CONJ	Gender=Fem	2	mark	_	AlignBegin=119435|AlignEnd=119516|GE==[REL].[F]|RX==[CONJ]|TokenType=Clit
-6	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	7	det	_	AlignBegin=119516|AlignEnd=119677|GE=[DEF].[SG].[F].[ACC]=|RX=[DET]=|TokenType=Clit
-7	na	_	SCONJ	CONJ	_	15	obl:mod	_	AlignBegin=119677|AlignEnd=119839|GE=thing|Gloss=thing|RX=[CONJ]|TokenType=Stem
-8	nuːn	_	PART	PTCL	Foreign=Yes	7	advmod	_	AlignBegin=119839|AlignEnd=120162|GE=only|Gloss=only|RX=[PTCL].[BORR].[ARA]|TokenType=Stem
-9	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=120162|AlignEnd=120485|TokenType=Break
+5	=eːt	_	SCONJ	CONJ	Gender=Fem	2	mark	_	AlignBegin=119435|AlignEnd=119516|ExtPos=SCONJ|GE==[REL].[F]|Idiom=Yes|RX==[CONJ]|TokenType=Clit
+6	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	5	fixed	_	AlignBegin=119516|AlignEnd=119677|GE=[DEF].[SG].[F].[ACC]=|InIdiom=Yes|RX=[DET]=|TokenType=Clit
+7	na	_	NOUN	CONJ	_	5	fixed	_	AlignBegin=119677|AlignEnd=119839|GE=thing|Gloss=thing|InIdiom=Yes|RX=[CONJ]|TokenType=Stem
+8	nuːn	_	PART	PTCL	Foreign=Yes	2	advmod	_	AlignBegin=119839|AlignEnd=120162|GE=only|Gloss=only|RX=[PTCL].[BORR].[ARA]|TokenType=Stem
+9	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=120162|AlignEnd=120485|TokenType=Break
 10	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	11	det	_	AlignBegin=120485|AlignEnd=120614|GE=[DEF].[SG].[M]=|RX=[DET]=|TokenType=Clit
 11	ʔaraːw	_	NOUN	N	_	15	obj	_	AlignBegin=120614|AlignEnd=120743|GE=friend|Gloss=friend|RX=[N]|TokenType=Stem
 12	=oː	_	PRON	PRO	Case=Acc|Number=Sing|Person=3|Poss=Yes	11	nmod:poss	_	AlignBegin=120743|AlignEnd=120872|GE==[POSS].[3SG].[ACC]|RX==[PRO]|TokenType=Clit
 13	ba=	_	AUX	PTCL	Mood=Opt	15	advcl	_	AlignBegin=120872|AlignEnd=120968|GE=[OPT]=|RX=[PTCL]=|TokenType=Clit
 14	a-	_	PRON	PNG	Number=Sing|Person=1	15	nsubj:aff	_	AlignBegin=120968|AlignEnd=121065|GE=[1SG]-|RX=[PNG]-|TokenType=InflAff
 15	akaj	_	VERB	V1,IRG,NEG	Mood=Opt|Polarity=Neg|VerbClass=1	19	acl:relcl	_	AlignBegin=121065|AlignEnd=121162|GE=become\[NEG].[OPT]|Gloss=become|RX=[V1].[IRG]|TokenType=Stem
-16	=eːt	_	SCONJ	CONJ	Gender=Fem	15	mark	_	AlignBegin=121162|AlignEnd=121259|GE==[REL].[F]|RX==[CONJ]|TokenType=Clit
+16	=eːt	_	SCONJ	CONJ	Gender=Fem	15	mark	_	AlignBegin=121162|AlignEnd=121259|GE==[REL].[F]|InIdiom=Yes|RX==[CONJ]|TokenType=Clit
 17	/	_	PUNCT	PUNCT	_	15	punct	_	AlignBegin=121259|AlignEnd=121801|TokenType=Break
-18	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	19	det	_	AlignBegin=121801|AlignEnd=121904|GE=[DEF].[SG].[F].[ACC]=|RX=[DET]=|TokenType=Clit
-19	na	_	SCONJ	CONJ	_	22	obj	_	AlignBegin=121904|AlignEnd=122008|GE=thing|Gloss=thing|RX=[CONJ]|TokenType=Stem
+18	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	19	det	_	AlignBegin=121801|AlignEnd=121904|GE=[DEF].[SG].[F].[ACC]=|InIdiom=Yes|RX=[DET]=|TokenType=Clit
+19	na	_	NOUN	CONJ	_	22	obj	_	AlignBegin=121904|AlignEnd=122008|ExtPos=SCONJ|GE=thing|Gloss=thing|InIdiom=Yes|RX=[CONJ]|TokenType=Stem
 20	/	_	PUNCT	PUNCT	_	19	punct	_	AlignBegin=122008|AlignEnd=122894|TokenType=Break
 21	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	22	nsubj:aff	_	AlignBegin=122894|AlignEnd=123013|GE=[3SG].[F]-|RX=[PNG]-|TokenType=InflAff
 22	kan	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1|Voice=Mid	0	root	_	AlignBegin=123013|AlignEnd=123132|GE=know\[MID].[PFV]|Gloss=know|RX=[V1].[DER].[IRG]|TokenType=Stem
@@ -643,6 +666,7 @@
 # text = i- ki sar -oːj =ka / w= hanʤar sallam -an /
 # text_en = "Anyway, I gave her the dagger,
 # phonetic_text = iki saroːjka / whanʤar sallaman /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	2	nsubj:aff	_	AlignBegin=124427|AlignEnd=124599|GE=[3SG].[M]-|RX=[PNG]-|TokenType=InflAff
 2	ki	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	9	advcl	_	AlignBegin=124599|AlignEnd=124771|GE=become\[PFV]|Gloss=become|RX=[V1].[IRG]|TokenType=Stem
 3	sar	_	VERB	V1	VerbClass=1|Voice=Mid	2	csubj	_	AlignBegin=124771|AlignEnd=124885|GE=be_awake\[MID]|Gloss=be_awake|RX=[V1].[DER]|TokenType=Stem
@@ -659,6 +683,7 @@
 # text = oːn ti= ʃaː =t =oːn tam -na ti= i̠ːjʔaː gʷʔa -na /
 # text_en = we ate our meat and we drunk the milk [and]
 # phonetic_text = oːn tiʃaːtoːn tamna tiːjʔa gʷʔana /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=128062|AlignEnd=128465|GE=[PROX].[SG].[M].[ACC]|RX=[DEM]|TokenType=Stem
 2	ti=	_	DET	DET	Definite=Def|Gender=Fem	3	det	_	AlignBegin=128465|AlignEnd=128566|GE=[DEF].[F]=|RX=[DET]=|TokenType=Clit
 3	ʃaː	_	NOUN	N	Gender=Fem	6	obj	_	AlignBegin=128566|AlignEnd=128667|GE=meat|Gloss=meat|RX=[N].[F]|TokenType=Stem
@@ -676,6 +701,7 @@
 # text = ontʔa / kak jʔ -aː =b =wa ?
 # text_en = so, "How have you come?
 # phonetic_text = ontʔa / kak jʔaːbwa /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	ontʔa	_	PART	PTCL	_	4	discourse	_	AlignBegin=131136|AlignEnd=131391|GE=now|Gloss=now|RX=[PTCL]|TokenType=Stem
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=131391|AlignEnd=131979|TokenType=Break
 3	kak	_	ADV	ADV	_	4	advmod	_	AlignBegin=131979|AlignEnd=132265|GE=how|Gloss=how|RX=[ADV].[Q]|TokenType=Stem
@@ -689,6 +715,7 @@
 # text = naːn haːj jʔ -aː =t =oːk =t =u ?
 # text_en = What has brought you there?"
 # phonetic_text = naːn haːj jʔaːtoːktu /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	naːn	_	PRON	PRO	_	3	nsubj	_	AlignBegin=132837|AlignEnd=133174|GE=what|Gloss=what|RX=[PRO].[Q]|TokenType=Stem
 2	haːj	_	ADP	POSTP	Case=Com	3	dep	_	AlignBegin=133174|AlignEnd=133511|GE=[COM]|RX=[POSTP]|TokenType=Stem
 3	jʔ	_	VERB	V2,IRG	VerbClass=2	0	root	_	AlignBegin=133511|AlignEnd=133567|GE=come|Gloss=come|RX=[V2].[IRG]|TokenType=Stem
@@ -703,6 +730,7 @@
 # text = tak rhi -ta ti- ni =oː =hoːb ? oː= tak rh -an a- ni /
 # text_en = When she told me: "Did you see a man? " I said: "I saw the man."
 # phonetic_text = tak rhita tijoːhoːb / oːtak rhan ani /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	tak	_	NOUN	N	Gender=Masc	2	obj	_	AlignBegin=134339|AlignEnd=134576|GE=man|Gloss=man|RX=[N].[M]|TokenType=Stem
 2	rhi	_	VERB	V2	VerbClass=2	5	parataxis	_	AlignBegin=134576|AlignEnd=134694|GE=see|Gloss=see|ReportedSpeech=Yes|RX=[V2]|TokenType=Stem
 3	-ta	_	PRON	TAM,PNG	Aspect=Pfv|Gender=Masc|Number=Sing|Person=2	2	nsubj:aff	_	AlignBegin=134694|AlignEnd=134813|GE=-[PFV].[2SG].[M]|RX=-[TAM].[PNG]|TokenType=InflAff
@@ -723,6 +751,7 @@
 # text = afirej / ti- weːr =heːb iraːnaj uː= tak ʔaraːw =i aka -jeː hoːj giːg -is -ta =ja / ti- di =t =heːb //
 # text_en = You told me: "You did me wrong, gosh! you made the man who is my friend leave for good!"
 # phonetic_text = afirej / tiweːrheːb iraːnaj uːtak ʔaraːwi akajeː hoːj giːgistaja / tidiːtheːb //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	afirej	_	ADJ	ADJ	_	4	obj	_	AlignBegin=136765|AlignEnd=137020|GE=bad|Gloss=bad|RX=[ADJ]|TokenType=Stem
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=137020|AlignEnd=137275|TokenType=Break
 3	ti-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=2	4	nsubj:aff	_	AlignBegin=137275|AlignEnd=137418|GE=[2SG].[M]-|RX=[PNG]-|TokenType=InflAff
@@ -751,6 +780,7 @@
 # text = ʃamat -ti =heːb i- ni //
 # text_en = "She cursed me", he said.
 # phonetic_text = ʃamattiheːb ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	ʃamat	_	VERB	V2	VerbClass=2	5	parataxis	_	AlignBegin=142509|AlignEnd=142620|GE=blame|Gloss=blame|ReportedSpeech=Yes|RX=[V2]|TokenType=Stem
 2	-ti	_	PRON	TAM,PNG	Aspect=Pfv|Gender=Fem|Number=Sing|Person=3	1	nsubj:aff	_	AlignBegin=142620|AlignEnd=142731|GE=-[PFV].[3SG].[F]|RX=-[TAM].[PNG]|TokenType=InflAff
 3	=heːb	_	PRON	PRO	Number=Sing|Person=1	1	obj	_	AlignBegin=142731|AlignEnd=142843|GE==[OBJ].[1SG]|RX==[PRO]|TokenType=Clit
@@ -762,6 +792,7 @@
 # text = ʃamat -ta -n =i =ji ʃamat -eː =ka ani i= mhiːn =i naː -jeː mh -an /
 # text_en = "She blamed me a lot, however I slept there until morning."
 # phonetic_text = ʃamattaniji ʃamateːka ani imhiːni naːjeː mhan /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	ʃamat	_	VERB	V2	VerbClass=2	6	acl	_	AlignBegin=144041|AlignEnd=144120|GE=blame|Gloss=blame|RX=[V2]|TokenType=Stem
 2	-ta	_	PRON	TAM,PNG	Aspect=Pfv|Gender=Fem|Number=Sing|Person=3	1	nsubj:aff	_	AlignBegin=144120|AlignEnd=144200|GE=-[PFV].[3SG].[F]|RX=-[TAM].[PNG]|TokenType=InflAff
 3	-n	_	X	-L	_	1	dep:aff	_	AlignBegin=144200|AlignEnd=144279|GE=-[L]|ProperName=-L|TokenType=InflAff
@@ -784,6 +815,7 @@
 # text = j= halak -a =b =wa / ji= i= tak =iːb areː eːn eː= gaɖʔa =jeː na / ani ti= kina =t =i / ti= sitoːb -oːj ti= a- stoːbi =jeːt a- kteːn =aj // sallam -a =heːb ti- ni =t =heːb /
 # text_en = "As I know myself how to bring the man's clothes and his weapons back to him, give them to me!", she told me, [and]
 # phonetic_text = jhalakabwa / jiʔitakiːb areː eːn eːgaɖʔajeː na / ani tiknaːti / tistoːboːj tiʔastoːbjeːt akteːnaj // sallamaheːb tinitheːb /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	j=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=147206|AlignEnd=147301|GE=[DEF].[M]=|RX=[DET]=|TokenType=Clit
 2	halak	_	NOUN	N	Gender=Masc	29	ccomp	_	AlignBegin=147301|AlignEnd=147396|GE=cloth|Gloss=cloth|RX=[N].[M]|TokenType=Stem
 3	-a	_	PART	_	Number=Plur	2	mark:aff	_	AlignBegin=147396|AlignEnd=147492|GE=-[PL]|TokenType=InflAff
@@ -831,6 +863,7 @@
 # text = hoː sallam -am -ta /
 # text_en = she took them from me, [and]
 # phonetic_text = hoː sallamamta /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	hoː	_	PRON	PRO	Case=Dat|Number=Sing|Person=1	2	iobj	_	AlignBegin=154887|AlignEnd=155285|GE=[1SG].[DAT]|RX=[PRO]|TokenType=Stem
 2	sallam	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=155285|AlignEnd=155418|GE=give|Gloss=give|RX=[V2]|TokenType=Stem
 3	-am	_	AUX	V2	VerbClass=2|Voice=Mid	2	aux:aff	_	AlignBegin=155418|AlignEnd=155551|GE=-[MID]|RX=-[V2].[DER]|TokenType=DerAff
@@ -841,6 +874,7 @@
 # text = bak tʔi -it =eːt ʔiːbaːb / dh =eː ti- ki i- di eːn //
 # text_en = a story like that happened to me", he said, they said.
 # phonetic_text = ˈbak tʔiːˈteːd ʔiːˈbaːb / ˈdheːtek ideːn //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	bak	_	ADV	DEICT	_	5	advmod	_	AlignBegin=156541|AlignEnd=156863|GE=thus|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Stem
 2	tʔi	_	VERB	V1,IRG	VerbClass=1	5	acl:relcl	_	AlignBegin=156863|AlignEnd=156970|GE=resemble|Gloss=resemble|RX=[V1].[IRG]|TokenType=Stem
 3	-it	_	SCONJ	N	_	2	mark:aff	_	AlignBegin=156970|AlignEnd=157078|DerPOS=NOUN|GE=-[VN]|RX=-[N].[V]|TokenType=DerAff
@@ -861,6 +895,7 @@
 # text = tak / ʔeːgirim // ʔajaːj tak -i iː- fi =t amsi iraːnaj rh -i / oː= kina /
 # text_en = "There was an old man of my family and, gosh! I even saw him today.
 # phonetic_text = tak / eːgirim // ʔajaːj taki iːfiːt amsi iraːnej rhi / oːkna /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	tak	_	NOUN	N	Gender=Masc	9	nsubj	_	AlignBegin=0|AlignEnd=351|GE=man|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Stem
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=351|AlignEnd=1157|TokenType=Break
 3	ʔeːgirim	_	NOUN	CN	_	1	nmod	_	AlignBegin=1157|AlignEnd=1424|GE=elder|Gloss=elder|RX=[CN]|TokenType=Stem
@@ -884,6 +919,7 @@
 # text = ʔiːd han jʔ -a =b =u =it / w= ʔiːd arraf -i / a- di =t a- ba i- ni //
 # text_en = The Aid also had come and I went to wish him a blessed Aid", he said.
 # phonetic_text = iːd han jʔabujt / wʔiːd arrafi / adit aba ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	ʔiːd	_	NOUN	N	Gender=Masc	3	nsubj	_	AlignBegin=5895|AlignEnd=6131|GE=[Aid_feast]|ProperName=Aid_feast|RX=[SBJ].[N].[M]|TokenType=Stem
 2	han	_	PART	PTCL	_	1	advmod	_	AlignBegin=6131|AlignEnd=6368|GE=also|Gloss=also|RX=[PTCL]|TokenType=Stem
 3	jʔ	_	VERB	V2,IRG	VerbClass=2	11	dep:conj	_	AlignBegin=6368|AlignEnd=6415|GE=come|Gloss=come|RX=[V2].[IRG]|TokenType=Stem
@@ -910,6 +946,7 @@
 # text = dhaːj jʔ -an =hoːb oː= tak / meːk dh# ## eːja =ajt oː= gaw / tam -ja eːn //
 # text_en = "When I went to visit him, a man, a donkey, hum, came and ate his tent, they said.
 # phonetic_text = dhaːj jʔanhoːb oːtak / meːk dh# ## eːjaːjt oːgaw / tamja eːn //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	dhaːj	_	ADP	POSTP	_	2	iobj	_	AlignBegin=10145|AlignEnd=10442|GE=[DIR]|RX=[POSTP]|TokenType=Stem
 2	jʔ	_	VERB	V2,IRG	VerbClass=2	11	advcl	_	AlignBegin=10442|AlignEnd=10541|GE=come|Gloss=come|RX=[V2].[IRG]|TokenType=Stem
 3	-an	_	PRON	TAM,PNG	Aspect=Pfv|Number=Sing|Person=1	2	nsubj:aff	_	AlignBegin=10541|AlignEnd=10640|GE=-[PFV].[1SG]|RX=-[TAM].[PNG]|TokenType=InflAff
@@ -934,6 +971,7 @@
 # text = t= ʔoːr -ej oː= meːk fidin -i / galeːl -i -n i- di i- ni //
 # text_en = "Girl! chase the donkey away!" he said, he said.
 # phonetic_text = tʔoːrej oːmeːk fidni / galeːlin idi ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	t=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=13911|AlignEnd=13996|GE=[DEF].[F]=|RX=[DET]=|TokenType=Clit
 2	ʔoːr	_	NOUN	N	_	6	vocative	_	AlignBegin=13996|AlignEnd=14081|GE=child|Gloss=child|RX=[N]|TokenType=Stem
 3	-ej	_	PART	CASE	Case=Voc	2	case:aff	_	AlignBegin=14081|AlignEnd=14167|GE=-[VOC]|RX=-[CASE]|TokenType=InflAff
@@ -955,6 +993,7 @@
 # text = əəə dabaloː =t ʔoːr geːb / tiː- fi =aj //
 # text_en = Because there was a small girl with him.
 # phonetic_text = əəə dabaloːt ʔoːr geːb / tiːfaj //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	əəə	_	INTJ	HESIT	_	8	discourse	_	AlignBegin=16164|AlignEnd=16399|GE=er|Gloss=er|RX=[HESIT]|TokenType=Stem
 2	dabaloː	_	ADJ	ADJ	_	4	nmod	_	AlignBegin=16399|AlignEnd=16516|GE=small|Gloss=small|RX=[ADJ]|TokenType=Stem
 3	=t	_	DET	DET	Definite=Ind|Gender=Fem	2	det	_	AlignBegin=16516|AlignEnd=16634|GE==[INDF].[F]|RX==[DET]|TokenType=Clit
@@ -970,6 +1009,7 @@
 # text = t= ʔoːr / oː= meːk ti- fidin galeːl -tan =hoːb / doːr han / hoːb =uːn -ej iraːnaj / oː= meːk ʔam -a =b =wa ti- ni =hoːb ? ani i= meːk -i m- ʔam =eː sagi =b =i i- di i- ni //
 # text_en = When the girl had chased the donkey away, so, when she asked: "Grand father, have you ever ridden a donkey?" he said: "I am far from having ridden a donkey!", he said.
 # phonetic_text = tʔoːr / oːmeːk tifidin galeːltanhoːb / doːr han / hoːbuːnej iraːnaj / oːmeːk ʔamabwa tijihoːb / ani imeːki mʔameː sagiːbi idi ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	t=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=19067|AlignEnd=19150|GE=[DEF].[F]=|RX=[DET]=|TokenType=Clit
 2	ʔoːr	_	NOUN	N	_	8	nsubj	_	AlignBegin=19150|AlignEnd=19233|GE=child|Gloss=child|RX=[SBJ].[N]|TokenType=Stem
 3	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=19233|AlignEnd=19988|TokenType=Break
@@ -1019,11 +1059,12 @@
 # text = doːr / oː= meːk oːn ba= a- akaj / kaːm han ʔam -aː =b =i i- ni // mhaj nafar -a nuːn / naː =t bi= t- ʔam =eːb //
 # text_en = "Once, it's not a donkey but a camel that I rode, he said, that only three men could ride."
 # phonetic_text = doːr / oːmeːk oːn baːkaj / kaːm han amaːbi ini // mhaj nafara nuːn / naːt bitʔameːb //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	doːr	_	NOUN	N	Gender=Masc	8	obl:mod	_	AlignBegin=28614|AlignEnd=28792|GE=time|Gloss=time|RX=[N].[M]|TokenType=Stem
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=28792|AlignEnd=29410|TokenType=Break
 3	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	4	det	_	AlignBegin=29410|AlignEnd=29552|GE=[DEF].[SG].[M].[ACC]=|RX=[DET]=|TokenType=Clit
 4	meːk	_	NOUN	N	_	8	obj	_	AlignBegin=29552|AlignEnd=29695|GE=donkey|Gloss=donkey|RX=[N]|TokenType=Stem
-5	oːn	_	PRON	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	AlignBegin=29695|AlignEnd=29981|GE=[PROX].[SG].[M].[ACC]|RX=[DEM]|TokenType=Stem
+5	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	AlignBegin=29695|AlignEnd=29981|GE=[PROX].[SG].[M].[ACC]|RX=[DEM]|TokenType=Stem
 6	ba=	_	AUX	PTCL	Mood=Opt	8	aux	_	AlignBegin=29981|AlignEnd=30076|GE=[OPT]=|RX=[PTCL]=|TokenType=Clit
 7	a-	_	PRON	PNG	Number=Sing|Person=1	8	nsubj:aff	_	AlignBegin=30076|AlignEnd=30171|GE=[1SG]-|RX=[PNG]-|TokenType=InflAff
 8	akaj	_	VERB	V1,IRG,NEG	Mood=Opt|Polarity=Neg|VerbClass=1	10	acl:relcl	_	AlignBegin=30171|AlignEnd=30267|GE=become\[NEG].[OPT]|Gloss=become|RX=[V1].[IRG]|TokenType=Stem
@@ -1054,6 +1095,7 @@
 # text = ontʔa / beːn / t= ʔoːt -i / i= bhali -jeː =da // i= kaːm -i wanas / dh =eː hadiːd -ja i- ni //
 # text_en = "So, because of the words of this girl, he told me a story about the camel", he said.
 # phonetic_text = ontʔa / beːn / tʔoːti / ibhalijeːda // ikaːmi wanas / dheː hadiːdja ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	ontʔa	_	PART	PTCL	_	24	discourse	_	AlignBegin=35599|AlignEnd=35865|GE=now|Gloss=now|RX=[PTCL]|TokenType=Stem
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=35865|AlignEnd=36566|TokenType=Break
 3	beːn	_	PRON	DEM	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	21	discourse	_	AlignBegin=36566|AlignEnd=36796|GE=[DIST].[SG].[M].[NOM]|RX=[DEM]|TokenType=Stem
@@ -1084,6 +1126,7 @@
 # text = uː= kaːm / kak i- tʔi kaːm a- ni =t sakana -an =hoːb ? / uːn uː= kaːm / uːn ani / doːr -i ɖaːb -eː rh -aː =b =u / oːn oː= kaːm //
 # text_en = When I asked about how the camel looked like, (he said): "This camel I have seen it run once, this camel.
 # phonetic_text = uːkaːm / kak itʔi / kaːm anit sakanajanhoːb / uːn uːkaːm / uːn ani / doːri ɖaːbeː rhaːbu / oːn oːkaːm //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=44118|AlignEnd=44232|GE=[DEF].[SG].[M].[NOM]=|RX=[DET]=|TokenType=Clit
 2	kaːm	_	NOUN	N	_	6	nsubj	_	AlignBegin=44232|AlignEnd=44346|GE=camel|Gloss=camel|RX=[SBJ].[N]|TokenType=Stem
 3	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=44346|AlignEnd=44575|TokenType=Break
@@ -1103,7 +1146,7 @@
 17	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	18	det	_	AlignBegin=46685|AlignEnd=46793|GE=[DEF].[SG].[M].[NOM]=|RX=[DET]=|TokenType=Clit
 18	kaːm	_	NOUN	N	_	25	nsubj	_	AlignBegin=46793|AlignEnd=46902|GE=camel|Gloss=camel|RX=[N]|TokenType=Stem
 19	/	_	PUNCT	PUNCT	_	18	punct	_	AlignBegin=46902|AlignEnd=48072|TokenType=Break
-20	uːn	_	PRON	DEM	Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	21	det	_	AlignBegin=48072|AlignEnd=48243|GE=[PROX].[SG].[M]|RX=[DEM]|TokenType=Stem
+20	uːn	_	DET	DEM	Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	21	det	_	AlignBegin=48072|AlignEnd=48243|GE=[PROX].[SG].[M]|RX=[DEM]|TokenType=Stem
 21	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	27	nsubj	_	AlignBegin=48243|AlignEnd=48415|GE=[1SG].[NOM]|RX=[SBJ].[PRO]|TokenType=Stem
 22	/	_	PUNCT	PUNCT	_	21	punct	_	AlignBegin=48415|AlignEnd=49413|TokenType=Break
 23	doːr	_	NOUN	N	Gender=Masc	25	obl:mod	_	AlignBegin=49413|AlignEnd=49600|GE=time|Gloss=time|RX=[N].[M]|TokenType=Stem
@@ -1124,6 +1167,7 @@
 # text = da / bʔeː =b eːjaː -n =heːb i- ni //
 # text_en = Men came to me one day", he said.
 # phonetic_text = da / bʔeːb eːjaːnheːb ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	da	_	NOUN	N	Gender=Masc|Number=Plur	5	nsubj	_	AlignBegin=52560|AlignEnd=52754|GE=man\[PL]|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Stem
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=52754|AlignEnd=53717|TokenType=Break
 3	bʔeː	_	NOUN	N	Gender=Masc	5	obl:mod	_	AlignBegin=53717|AlignEnd=53884|GE=day|Gloss=day|RX=[N].[M]|TokenType=Stem
@@ -1139,6 +1183,7 @@
 # text = uː= dhaj kass =aː i- ktiːn -n =i kaːm =u =it / ʔajaːj tak =uːn hoːj am- mar~ri -ja eːn eː= nda /
 # text_en = "Because it was a camel that everybody knew; one of our relatives (told) to these men:
 # phonetic_text = uːdhaj kassaː iktiːnni kaːmujt / ajaːj takuːn hoːj ammarrija eːn eːnda /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=55636|AlignEnd=55855|GE=[DEF].[SG].[M].[NOM]=|RX=[DET]=|TokenType=Clit
 2	dhaj	_	NOUN	N	Gender=Masc	6	nsubj	_	AlignBegin=55855|AlignEnd=56075|GE=people|Gloss=people|RX=[SBJ].[N].[COL].[M]|TokenType=Stem
 3	kass	_	DET	DET	_	2	det	_	AlignBegin=56075|AlignEnd=56294|GE=all|Gloss=all|RX=[DET]|TokenType=Stem
@@ -1167,6 +1212,7 @@
 # text = uː= tak ɖaːb -iːni kaːm i- bari /
 # text_en = "The man has a race camel,
 # phonetic_text = uːtak ɖaːbiːni kaːm ibari /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=60529|AlignEnd=60695|GE=[DEF].[SG].[M].[NOM]=|RX=[DET]=|TokenType=Clit
 2	tak	_	NOUN	N	Gender=Masc	7	nsubj	_	AlignBegin=60695|AlignEnd=60861|GE=man|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Stem
 3	ɖaːb	_	VERB	V2	VerbClass=2	5	acl:relcl	_	AlignBegin=60861|AlignEnd=61027|GE=run|Gloss=run|RX=[V2]|TokenType=Stem
@@ -1180,6 +1226,7 @@
 # text = suːr -teːn =aj /
 # text_en = precede it, ... (if you would like to, you would)
 # phonetic_text = suːrteːnaj /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	suːr	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=62190|AlignEnd=62337|GE=precede|Gloss=precede|RX=[V2]|TokenType=Stem
 2	-teːn	_	PRON	TAM,PNG	Aspect=Imp|Number=Plur|Person=2	1	nsubj:aff	_	AlignBegin=62337|AlignEnd=62485|GE=-[IPFV].[2PL]|RX=-[TAM].[PNG]|TokenType=InflAff
 3	=aj	_	SCONJ	CCONJ	_	1	mark	_	AlignBegin=62485|AlignEnd=62633|GE==[COORD]|RX==[CONJ]|TokenType=Clit
@@ -1189,6 +1236,7 @@
 # text = mʔ -aːna di -ja waliːk -a =b =u =it / sagi haːʃ =iː // beːn / ʔarjab =wa mariː =b i= dar =iː /
 # text_en = So, he was calling (others), saying "Come!", from far away in the direction of Aryab.
 # phonetic_text = mʔaːna dija waliːkabujt / sagi haːʃiː // beːn / ʔarjabwa mariːb idariː /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	mʔ	_	VERB	V2,IRG	VerbClass=2	3	parataxis	_	AlignBegin=63076|AlignEnd=63251|GE=come|Gloss=come|ReportedSpeech=Yes|RX=[V2].[IRG]|TokenType=Stem
 2	-aːna	_	PRON	TAM,PNG	Mood=Imp|Number=Plur	1	nsubj:aff	_	AlignBegin=63251|AlignEnd=63427|GE=-[IMP].[PL]|RX=-[TAM].[PNG]|TokenType=InflAff
 3	di	_	VERB	V1,IRG	VerbClass=1	5	advcl	_	AlignBegin=63427|AlignEnd=63602|GE=say|Gloss=say|RX=[V1].[IRG]|TokenType=Stem
@@ -1218,6 +1266,7 @@
 # text = winneːt / naʃʃalam -a kam // aː# eː= kina mitti -a =b // iː- biri -n //
 # text_en = They had very athletic camels, even pure breeds,
 # phonetic_text = winneːt / naʃʃalama kam // aː# eːkna mittijaːb // iːbiriːn //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	winneːt	_	ADV	ADV	_	3	advmod	_	AlignBegin=68424|AlignEnd=68690|GE=plenty|Gloss=plenty|RX=[ADV]|TokenType=Stem
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=68690|AlignEnd=69484|TokenType=Break
 3	naʃʃalam	_	ADJ	ADJ	_	5	acl	_	AlignBegin=69484|AlignEnd=69679|GE=athletic|Gloss=athletic|RX=[ADJ]|TokenType=Stem
@@ -1240,6 +1289,7 @@
 # text = iː- jheː -n =it / eːjaː -n =heːb i- ni //
 # text_en = they took them and they came to me", he said.
 # phonetic_text = iːjheːnit / eːjanheːb ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	iː-	_	PRON	PNG	_	2	nsubj:aff	_	AlignBegin=73636|AlignEnd=73719|GE=[3]-|RX=[PNG]-|TokenType=InflAff
 2	jheː	_	VERB	V1,IRG	Aspect=Pfv|VerbClass=1	6	dep:conj	_	AlignBegin=73719|AlignEnd=73803|GE=take\[PFV]|Gloss=take|RX=[V1].[IRG]|TokenType=Stem
 3	-n	_	PRON	PNG	Number=Plur	2	nsubj:aff	_	AlignBegin=73803|AlignEnd=73887|GE=-[PL]|RX=-[PNG]|TokenType=InflAff
@@ -1256,15 +1306,16 @@
 # text = beːn aː= nda eːjaː -n =eːb oː= doːr / i= kaːm =i jam gʷʔa -s -aː =b =u /
 # text_en = "When these men came,  I had given water to my camel,
 # phonetic_text = beːn aːnda eːjaːneːb oːdoːr / ikaːmi jam gʷʔasaːbu /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	beːn	_	DET	DEM	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=76156|AlignEnd=76440|GE=[DIST].[SG].[M].[NOM]|RX=[DEM]|TokenType=Stem
 2	aː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	3	det	_	AlignBegin=76440|AlignEnd=76582|GE=[DEF].[PL].[M].[NOM]=|RX=[DET]=|TokenType=Clit
 3	nda	_	NOUN	N	Gender=Masc|Number=Plur	4	nsubj	_	AlignBegin=76582|AlignEnd=76724|GE=man\[PL]|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Stem
-4	eːjaː	_	VERB	V2,IRG	Aspect=Pfv|VerbClass=2	8	acl:fixed	_	AlignBegin=76724|AlignEnd=76819|GE=come\[PFV]|Gloss=come|RX=[V2].[IRG]|TokenType=Stem
+4	eːjaː	_	VERB	V2,IRG	Aspect=Pfv|VerbClass=2	14	acl	_	AlignBegin=76724|AlignEnd=76819|GE=come\[PFV]|Gloss=come|RX=[V2].[IRG]|TokenType=Stem
 5	-n	_	PRON	PNG	Number=Plur|Person=3	4	nsubj:aff	_	AlignBegin=76819|AlignEnd=76914|GE=-[3PL]|RX=-[PNG]|TokenType=InflAff
-6	=eːb	_	SCONJ	CONJ	Gender=Masc|Number=Sing	4	mark	_	AlignBegin=76914|AlignEnd=77009|GE==[REL].[SG].[M]|RX==[CONJ]|TokenType=Clit
-7	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	8	det	_	AlignBegin=77009|AlignEnd=77151|GE=[DEF].[SG].[M].[ACC]=|RX=[DET]=|TokenType=Clit
-8	doːr	_	NOUN	N	Gender=Masc	14	nmod	_	AlignBegin=77151|AlignEnd=77293|GE=time|Gloss=time|RX=[N].[M]|TokenType=Stem
-9	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=77293|AlignEnd=78459|TokenType=Break
+6	=eːb	_	SCONJ	CONJ	Gender=Masc|Number=Sing	4	mark	_	AlignBegin=76914|AlignEnd=77009|ExtPos=SCONJ|GE==[REL].[SG].[M]|Idiom=Yes|RX==[CONJ]|TokenType=Clit
+7	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	fixed	_	AlignBegin=77009|AlignEnd=77151|GE=[DEF].[SG].[M].[ACC]=|InIdiom=Yes|RX=[DET]=|TokenType=Clit
+8	doːr	_	NOUN	N	Gender=Masc	6	fixed	_	AlignBegin=77151|AlignEnd=77293|GE=time|Gloss=time|InIdiom=Yes|RX=[N].[M]|TokenType=Stem
+9	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=77293|AlignEnd=78459|TokenType=Break
 10	i=	_	DET	DET	Definite=Def|Gender=Masc	11	det	_	AlignBegin=78459|AlignEnd=78599|GE=[DEF].[M]=|RX=[DET]=|TokenType=Clit
 11	kaːm	_	NOUN	N	_	14	obj	_	AlignBegin=78599|AlignEnd=78739|GE=camel|Gloss=camel|RX=[N]|TokenType=Stem
 12	=i	_	PRON	PRO	Case=Acc|Number=Sing	11	nmod:poss	_	AlignBegin=78739|AlignEnd=78880|GE==[POSS1].[SG].[ACC]|RX==[PRO]|TokenType=Clit
@@ -1280,6 +1331,7 @@
 # text = oːn hallaːn hasara t= ʔabaː =t =iːb kirif -aː =b =u //
 # text_en = but I have met them in the valley."
 # phonetic_text = oːn hallaːn hasara tʔabaːtiːb kirfaːbu //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	oːn	_	PRON	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	8	discourse	_	AlignBegin=80500|AlignEnd=80927|GE=[PROX].[SG].[M].[ACC]|RX=[DEM]|TokenType=Stem
 2	hallaːn	_	ADV	ADV	_	8	discourse	_	AlignBegin=80927|AlignEnd=81355|GE=now|Gloss=now|RX=[ADV]|TokenType=Stem
 3	hasara	_	ADV	PTCL	_	8	advmod	_	AlignBegin=81355|AlignEnd=81783|GE=[ADVS]|RX=[PTCL]|TokenType=Stem
@@ -1297,9 +1349,10 @@
 # text = ja iraːnaj aːn hinin /
 # text_en = gosh, us...
 # phonetic_text = ja iraːnaj aːn hinin /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	ja	_	PART	PTCL	_	4	discourse	_	AlignBegin=83812|AlignEnd=84054|GE=[ADRF]|RX=[PTCL]|TokenType=Stem
 2	iraːnaj	_	INTJ	_	_	4	discourse	_	AlignBegin=84054|AlignEnd=84296|GE=gosh|Gloss=gosh|RX=[EXCL]|TokenType=Stem
-3	aːn	_	PRON	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	AlignBegin=84296|AlignEnd=84538|GE=[PROX].[PL].[M].[NOM]|RX=[DEM]|TokenType=Stem
+3	aːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	AlignBegin=84296|AlignEnd=84538|GE=[PROX].[PL].[M].[NOM]|RX=[DEM]|TokenType=Stem
 4	hinin	_	PRON	PRO	Case=Nom|Number=Plur|Person=1	0	root	_	AlignBegin=84538|AlignEnd=84780|GE=[1PL].[NOM]|RX=[SBJ].[PRO]|TokenType=Stem
 5	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=84780|AlignEnd=85022|TokenType=Break
 
@@ -1307,6 +1360,7 @@
 # text = a- s- ganif daːji =t si- ganf -oːj aːn hinin / barijoːk ribi -jaː =b =a / oː= kaːm ni- ʃabb =eːt areː -na =aj / i- diː -n =heːb i- ni //
 # text_en = I settled them down very well". They told me: "We've come to you because we would have liked to examine the camel", he said.
 # phonetic_text = asganif daːjit siganfoːj aːn hinin / barijoːk ribijaːba / oːkaːm niʃabbeːt areːnaj / idiːnheːb ini //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	a-	_	PRON	PNG	Number=Sing|Person=1	3	nsubj:aff	_	AlignBegin=85022|AlignEnd=85127|GE=[1SG]-|RX=[PNG]-|TokenType=InflAff
 2	s-	_	AUX	V1	VerbClass=1|Voice=Cau	3	aux:aff	_	AlignBegin=85127|AlignEnd=85233|GE=[CAUS]-|RX=[V1].[DER]-|TokenType=DerAff
 3	ganif	_	VERB	V1	Aspect=Pfv|VerbClass=1	32	parataxis	_	AlignBegin=85233|AlignEnd=85339|GE=kneel\[PFV]|Gloss=kneel|ReportedSpeech=Yes|RX=[V1]|TokenType=Stem
@@ -1315,7 +1369,7 @@
 6	si-	_	AUX	V1	VerbClass=1|Voice=Cau	7	aux:aff	_	AlignBegin=85656|AlignEnd=85761|GE=[CAUS]-|RX=[V1].[DER]-|TokenType=DerAff
 7	ganf	_	VERB	V1	VerbClass=1	3	ccomp	_	AlignBegin=85761|AlignEnd=85867|GE=make_kneel|Gloss=make_kneel|RX=[V1]|TokenType=Stem
 8	-oːj	_	SCONJ	N	_	7	mark:aff	_	AlignBegin=85867|AlignEnd=85973|GE=-[N].[AC]|RX=-[N].[V]|TokenType=DerAff
-9	aːn	_	PRON	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	AlignBegin=85973|AlignEnd=86290|GE=[PROX].[PL].[M].[NOM]|RX=[DEM]|TokenType=Stem
+9	aːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	AlignBegin=85973|AlignEnd=86290|GE=[PROX].[PL].[M].[NOM]|RX=[DEM]|TokenType=Stem
 10	hinin	_	PRON	PRO	Case=Nom|Number=Plur|Person=1	13	nsubj	_	AlignBegin=86290|AlignEnd=86607|GE=[1PL].[NOM]|RX=[SBJ].[PRO]|TokenType=Stem
 11	/	_	PUNCT	PUNCT	_	10	punct	_	AlignBegin=86607|AlignEnd=86925|TokenType=Break
 12	barijoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	13	dep:comp	_	AlignBegin=86925|AlignEnd=87328|GE=[POSS].[2SG].[ACC]|RX=[PRO]|TokenType=Stem
@@ -1345,6 +1399,7 @@
 # text = uːn uː= kaːm iraːnaj / fidig -a dʔi -jaː =b =u /
 # text_en = "Gosh, this camel was let loose [and]
 # phonetic_text = uːn uːkaːm iraːnaj / fidiga dʔijaːbu /
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=92425|AlignEnd=92685|GE=[PROX].[SG].[M].[NOM]|RX=[DEM]|TokenType=Stem
 2	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=92685|AlignEnd=92815|GE=[DEF].[SG].[M].[NOM]=|RX=[DET]=|TokenType=Clit
 3	kaːm	_	NOUN	N	_	6	nsubj	_	AlignBegin=92815|AlignEnd=92946|GE=camel|Gloss=camel|RX=[SBJ].[N]|TokenType=Stem
@@ -1362,6 +1417,7 @@
 # text = hamil -aː =b a- kati =jeː kaːm =u =it // haraw -aː =b haraw -aː =b =u //
 # text_en = since I had let my camel loose, it needed to be looked for.
 # phonetic_text = hamlaːb akatijeːk kaːmu // harawaːb harwaːbu //
+# sound_url = https://api.nakala.fr/data/10.34847/nkl.640696i8/5282f1130bbe116ec9d921c5b5560240029b474e
 1	hamil	_	VERB	V2	VerbClass=2	5	dep:comp	_	AlignBegin=94772|AlignEnd=94898|GE=let|Gloss=let|RX=[V2]|TokenType=Stem
 2	-aː	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	1	mark:aff	_	AlignBegin=94898|AlignEnd=95025|GE=-[CVB].[MNR]|RX=-[PRF]|TokenType=InflAff
 3	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	1	det	_	AlignBegin=95025|AlignEnd=95152|GE==[INDF].[M].[ACC]|RX==[DET]|TokenType=Clit
