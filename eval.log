@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
+commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 6 20:16:19 2021 +0200
+Date:   Tue Nov 2 22:17:19 2021 +0100
 Evaluating the following revision of UD_Beja-NSC:
-commit ffb3ad120a8d017e4f114343d54c4573c8eea51a
+commit 4988cec6940969400ba725a922618e0e1211a94b
+Merge: c686195 e1c009e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed May 12 20:39:58 2021 +0200
 Size: counted 1101 of 1101 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.192437715481086.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -17,7 +17,7 @@ Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
 Features: 745 out of 1101 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
-Universal relations: 28 out of 37 found in the corpus.
+Universal relations: 29 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
                TOTAL        582
@@ -34,7 +34,7 @@ Validity: 1
 (weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.605405405405405) = 0.0465696465696466
-(TOTAL score=0.178482087105191) * (availability=1) * (validity=1) = 0.178482087105191
+(weight=0.0769230769230769) * (score{udeprels}=0.627027027027027) = 0.0482328482328482
+(TOTAL score=0.180145288768393) * (availability=1) * (validity=1) = 0.180145288768393
 STARS = 1
-UD_Beja-NSC	0.178482087105191	1
+UD_Beja-NSC	0.180145288768393	1
