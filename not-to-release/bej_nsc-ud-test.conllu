@@ -1234,7 +1234,7 @@
 4	=aː	_	PRON	PRO	Case=Nom|Number=Plur|Person=3|Poss=Yes	2	nmod:poss	_	AlignBegin=56294|AlignEnd=56514|GE==[POSS].[3PL].[NOM]|RX==[PRO]|TokenType=Clit
 5	i-	_	PRON	PNG	_	6	nsubj:aff	_	AlignBegin=56514|AlignEnd=56623|GE=[3]-|RX=[PNG]-|TokenType=InflAff
 6	ktiːn	_	VERB	V1,IRG	Aspect=Imp|VerbClass=1|Voice=Mid	9	acl:relcl	_	AlignBegin=56623|AlignEnd=56733|GE=know\[MID].[IPFV]|Gloss=know|RX=[V1].[DER].[IRG]|TokenType=Stem
-7	-n	_	PRON	PNG	Number=Plur	6	dep	_	AlignBegin=56733|AlignEnd=56843|GE=-[PL]|RX=-[PNG]|TokenType=InflAff
+7	-n	_	PRON	PNG	Number=Plur	6	nsubj:aff	_	AlignBegin=56733|AlignEnd=56843|GE=-[PL]|RX=-[PNG]|TokenType=InflAff
 8	=i	_	SCONJ	CONJ	_	6	mark	_	AlignBegin=56843|AlignEnd=56953|GE==[REL]|RX==[CONJ]|TokenType=Clit
 9	kaːm	_	NOUN	N	_	10	nsubj	_	AlignBegin=56953|AlignEnd=57099|GE=camel|Gloss=camel|RX=[N]|TokenType=Stem
 10	=u	_	AUX	N,COP	Number=Sing|Person=3|VerbType=Cop	18	advcl	_	AlignBegin=57099|AlignEnd=57245|GE==[COP].[3SG]|RX==[PRED].[N]|TokenType=Clit
