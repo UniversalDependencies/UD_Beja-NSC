@@ -554,7 +554,7 @@
 61	=eːt	_	SCONJ	CONJ	Gender=Fem	59	mark	_	AlignBegin=101170|AlignEnd=101267|GE==[REL].[F]|RX==[CONJ]|TokenType=Clit
 62	/	_	PUNCT	PUNCT	_	59	punct	_	AlignBegin=101267|AlignEnd=102158|TokenType=Break
 63	baːji	_	ADP	POSTP	_	65	iobj	_	AlignBegin=102158|AlignEnd=102334|GE=towards|Gloss=towards|RX=[POSTP]|TokenType=Stem
-64	=heːb	_	PRON	PRO	Number=Sing|Person=1	65	nsubj:aff	_	AlignBegin=102334|AlignEnd=102511|GE==[OBJ].[1SG]|RX==[PRO]|TokenType=Clit
+64	=heːb	_	PRON	PRO	Number=Sing|Person=1	65	obj	_	AlignBegin=102334|AlignEnd=102511|GE==[OBJ].[1SG]|RX==[PRO]|TokenType=Clit
 65	hiːreːr	_	VERB	V2	VerbClass=2	67	ccomp	_	AlignBegin=102511|AlignEnd=102687|GE=walk|Gloss=walk|RX=[V2]|TokenType=Stem
 66	-eː	_	SCONJ	CVB	VerbForm=Conv	65	mark:aff	_	AlignBegin=102687|AlignEnd=102864|GE=-[CVB].[SMLT]|TokenType=InflAff
 67	rh	_	VERB	V2	VerbClass=2	72	advcl	_	AlignBegin=102864|AlignEnd=102981|GE=see|Gloss=see|RX=[V2]|TokenType=Stem
