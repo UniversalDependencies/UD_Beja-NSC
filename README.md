@@ -24,7 +24,7 @@ In the SUD version of the Treebank, we operate a morphological segmentation allo
 In order to follow the UD guidelines, the segmentation is changed for the conversion to UD and affixes are merged with their stems.
 A morph-based “UD-like” version is available [here](https://github.com/UniversalDependencies/UD_Beja-NSC/tree/dev/not-to-release).
 
-It counts 857 tokens for 56 sentences (with the UD segmentation).
+**UD_beja-NSC** counts 857 tokens for 56 sentences (with the UD segmentation).
 The original SUD corpus counts 1101 tokens for 56 sentences.
 
 
