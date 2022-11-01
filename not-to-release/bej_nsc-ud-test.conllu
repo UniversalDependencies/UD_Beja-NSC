@@ -23,10 +23,10 @@
 # text_en = I was over there at Sharg and when I left to look for my camel,  it rained over me.
 # phonetic_text = beːn / iʃargiːb iːfajt // ikaːmiji harawa / adifhoːb // biri dhi ijaːm //
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
-1	beːn	_	ADV	ADV	_	7	iobj	_	AlignBegin=2926|AlignEnd=3046|GE=there|Gloss=there|RX=[ADV]|TokenType=Stem
-2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=3046|AlignEnd=3398|TokenType=Break
+1	beːn	_	ADV	ADV	_	4	reparandum	_	AlignBegin=2926|AlignEnd=3046|GE=there|Gloss=there|RX=[ADV]|TokenType=Stem
+2	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=3046|AlignEnd=3398|TokenType=Break
 3	i=	_	DET	DET	Definite=Def|Gender=Masc	4	det	_	AlignBegin=3398|AlignEnd=3530|GE=[DEF].[M]=|RX=[DET]=|TokenType=Clit
-4	ʃarg	_	PROPN	NP	_	1	reparandum	_	AlignBegin=3530|AlignEnd=3662|GE=[Sharg]|ProperName=Sharg|RX=[N].[PROP]|TokenType=Stem
+4	ʃarg	_	PROPN	NP	_	7	obl:arg	_	AlignBegin=3530|AlignEnd=3662|GE=[Sharg]|ProperName=Sharg|RX=[N].[PROP]|TokenType=Stem
 5	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	4	case	_	AlignBegin=3662|AlignEnd=3794|GE==[LOC].[SG]|RX==[POSTP]|TokenType=Clit
 6	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	7	nsubj:aff	_	AlignBegin=3794|AlignEnd=3926|GE=[3SG].[M]-|RX=[PNG]-|TokenType=InflAff
 7	fi	_	VERB	V1,IRG	Aspect=Aor|VerbClass=1	13	dep:conj	_	AlignBegin=3926|AlignEnd=4058|GE=be_there\[AOR]|Gloss=be_there|RX=[V1].[IRG]|TokenType=Stem
@@ -174,7 +174,7 @@
 14	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	11	nsubj:aff	_	AlignBegin=33206|AlignEnd=33340|GE=[3SG].[M]-|RX=[PNG]-|TokenType=InflAff
 15	kti	_	AUX	AUX	Aspect=Perf	11	cop	_	AlignBegin=33340|AlignEnd=33474|GE=become\[AOR]|Gloss=become|RX=[AUX].[PRF]|TokenType=Stem
 16	=jeːb	_	SCONJ	CONJ	Gender=Masc|Number=Sing	11	mark	_	AlignBegin=33474|AlignEnd=33609|GE==[REL].[SG].[M]|RX==[CONJ]|TokenType=Clit
-17	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=33609|AlignEnd=35009|TokenType=Break
+17	/	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=33609|AlignEnd=35009|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_01_shelter_043-047
 # text = ontʔa // bak ʔabk -i -n / w= hi i- ni =oː =hoːb // ajwa / a- di =t
@@ -515,7 +515,7 @@
 22	biri	_	NOUN	N	Gender=Masc	28	nmod	_	AlignBegin=90938|AlignEnd=91060|GE=rain|Gloss=rain|RX=[N].[M]|TokenType=Stem
 23	naː	_	SCONJ	CONJ	_	13	mark	_	AlignBegin=91060|AlignEnd=91243|GE=thing|Gloss=thing|RX=[CONJ]|TokenType=Stem
 24	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	22	case	_	AlignBegin=91243|AlignEnd=91426|GE==[LOC].[SG]|RX==[POSTP]|TokenType=Clit
-25	//	_	PUNCT	PUNCT	_	22	punct	_	AlignBegin=91426|AlignEnd=92040|TokenType=Break
+25	//	_	PUNCT	PUNCT	_	24	punct	_	AlignBegin=91426|AlignEnd=92040|TokenType=Break
 26	kaɖaw	_	VERB	V2	VerbClass=2	30	parataxis	_	AlignBegin=92040|AlignEnd=92261|GE=make_noise|Gloss=make_noise|ReportedSpeech=Yes|RX=[V2]|TokenType=Stem
 27	-i	_	PRON	TAM,PNG	Aspect=Aor|Gender=Masc|Number=Sing|Person=3	26	nsubj:aff	_	AlignBegin=92261|AlignEnd=92482|GE=-[AOR].[3SG].[M]|RX=-[TAM].[PNG]|TokenType=InflAff
 28	mijʔat	_	NOUN	N	Gender=Masc	26	nsubj	_	AlignBegin=92482|AlignEnd=92925|GE=footprint|Gloss=footprint|RX=[N].[M]|TokenType=Stem
@@ -524,14 +524,14 @@
 31	=hoːb	_	SCONJ	CONJ	_	30	mark	_	AlignBegin=93219|AlignEnd=93367|GE==when|Gloss==when|RX==[CONJ]|TokenType=Clit
 32	//	_	PUNCT	PUNCT	_	30	punct	_	AlignBegin=93367|AlignEnd=94454|TokenType=Break
 33	a-	_	PRON	PNG	Number=Sing|Person=1	34	nsubj:aff	_	AlignBegin=94454|AlignEnd=94628|GE=[1SG]-|RX=[PNG]-|TokenType=InflAff
-34	nʔa	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	36	parataxis	_	AlignBegin=94628|AlignEnd=94802|GE=be_down\[PFV]|Gloss=be_down|RX=[V1].[IRG]|TokenType=Stem
-35	a-	_	PRON	PNG	Number=Sing|Person=1	36	nsubj:aff	_	AlignBegin=94802|AlignEnd=94918|GE=[1SG]-|RX=[PNG]-|TokenType=InflAff
-36	tir	_	VERB	V1	Aspect=Perf|VerbClass=1	67	dep:conj	_	AlignBegin=94918|AlignEnd=95034|GE=lean\[PFV]|Gloss=lean|RX=[V1]|TokenType=Stem
-37	=t	_	CCONJ	CCONJ	_	36	cc	_	AlignBegin=95034|AlignEnd=95151|GE==[COORD]|RX==[CONJ]|TokenType=Clit
-38	a-	_	PRON	PNG	Number=Sing|Person=1	36	nsubj:aff	_	AlignBegin=95151|AlignEnd=95267|GE=[1SG]-|RX=[PNG]-|TokenType=InflAff
-39	ʃibib	_	VERB	V1	Aspect=Perf|VerbClass=1	36	ccomp	_	AlignBegin=95267|AlignEnd=95383|GE=look\[PFV]|Gloss=look|RX=[V1]|TokenType=Stem
-40	=hoːb	_	SCONJ	CONJ	_	39	mark	_	AlignBegin=95383|AlignEnd=95500|GE==when|Gloss==when|RX==[CONJ]|TokenType=Clit
-41	//	_	PUNCT	PUNCT	_	36	punct	_	AlignBegin=95500|AlignEnd=95997|TokenType=Break
+34	nʔa	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	39	parataxis	_	AlignBegin=94628|AlignEnd=94802|GE=be_down\[PFV]|Gloss=be_down|RX=[V1].[IRG]|TokenType=Stem
+35	a-	_	PRON	PNG	Number=Sing|Person=1	39	nsubj:aff	_	AlignBegin=94802|AlignEnd=94918|GE=[1SG]-|RX=[PNG]-|TokenType=InflAff
+36	tir	_	VERB	V1	Aspect=Perf|VerbClass=1	39	ccomp	_	AlignBegin=94918|AlignEnd=95034|GE=lean\[PFV]|Gloss=lean|RX=[V1]|TokenType=Stem
+37	=t	_	CCONJ	CCONJ	_	39	cc	_	AlignBegin=95034|AlignEnd=95151|GE==[COORD]|RX==[CONJ]|TokenType=Clit
+38	a-	_	PRON	PNG	Number=Sing|Person=1	39	nsubj:aff	_	AlignBegin=95151|AlignEnd=95267|GE=[1SG]-|RX=[PNG]-|TokenType=InflAff
+39	ʃibib	_	VERB	V1	Aspect=Perf|VerbClass=1	67	dep:conj	_	AlignBegin=95267|AlignEnd=95383|GE=look\[PFV]|Gloss=look|RX=[V1]|TokenType=Stem
+40	=hoːb	_	SCONJ	CONJ	_	36	mark	_	AlignBegin=95383|AlignEnd=95500|GE==when|Gloss==when|RX==[CONJ]|TokenType=Clit
+41	//	_	PUNCT	PUNCT	_	40	punct	_	AlignBegin=95500|AlignEnd=95997|TokenType=Break
 42	ʔoːt	_	NOUN	N	Gender=Fem	65	nsubj	_	AlignBegin=95997|AlignEnd=96247|GE=child\[F]|Gloss=child|RX=[N].[F]|TokenType=Stem
 43	/	_	PUNCT	PUNCT	_	42	punct	_	AlignBegin=96247|AlignEnd=96712|TokenType=Break
 44	suːr	_	ADP	POSTP	_	45	case	_	AlignBegin=96712|AlignEnd=96907|GE=before|Gloss=before|RX=[POSTP]|TokenType=Stem
@@ -1129,7 +1129,7 @@
 27	t-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	28	nsubj:aff	_	AlignBegin=33732|AlignEnd=33829|GE=[3SG].[F]-|RX=[PNG]-|TokenType=InflAff
 28	ʔam	_	VERB	V1,NEG	Mood=Opt|Polarity=Neg|VerbClass=1|Voice=Mid	10	acl:relcl	_	AlignBegin=33829|AlignEnd=33926|GE=ride\[MID].[NEG].[OPT]|Gloss=ride|RX=[V1].[DER]|TokenType=Stem
 29	=eːb	_	SCONJ	CONJ	Gender=Masc|Number=Sing	28	mark	_	AlignBegin=33926|AlignEnd=34024|GE==[REL].[SG].[M]|RX==[CONJ]|TokenType=Clit
-30	//	_	PUNCT	PUNCT	_	17	punct	_	AlignBegin=34024|AlignEnd=35599|GE=//|RX=PUNCT|TokenType=Break
+30	//	_	PUNCT	PUNCT	_	28	punct	_	AlignBegin=34024|AlignEnd=35599|GE=//|RX=PUNCT|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_03_camel_043-053
 # text = ontʔa / beːn / t= ʔoːt -i / i= bhali -jeː =da // i= kaːm -i wanas / dh =eː hadiːd -ja i- ni //
@@ -1286,28 +1286,28 @@
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.dfa3fw9v/9b76a83067e87e8cdb370d60a6cd1e7c50b69506
 1	mʔ	_	VERB	V2,IRG	VerbClass=2	3	parataxis	_	AlignBegin=63076|AlignEnd=63251|GE=come|Gloss=come|ReportedSpeech=Yes|RX=[V2].[IRG]|TokenType=Stem
 2	-aːna	_	PRON	TAM,PNG	Mood=Imp|Number=Plur	1	nsubj:aff	_	AlignBegin=63251|AlignEnd=63427|GE=-[IMP].[PL]|RX=-[TAM].[PNG]|TokenType=InflAff
-3	di	_	VERB	V1,IRG	VerbClass=1	5	advcl	_	AlignBegin=63427|AlignEnd=63602|GE=say|Gloss=say|RX=[V1].[IRG]|TokenType=Stem
+3	di	_	VERB	V1,IRG	VerbClass=1	22	advcl	_	AlignBegin=63427|AlignEnd=63602|GE=say|Gloss=say|RX=[V1].[IRG]|TokenType=Stem
 4	-ja	_	SCONJ	CVB	VerbForm=Conv	3	mark:aff	_	AlignBegin=63602|AlignEnd=63778|GE=-[CVB].[MNR]|TokenType=InflAff
-5	waliːk	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=63778|AlignEnd=63848|GE=call|Gloss=call|RX=[V2]|TokenType=Stem
+5	waliːk	_	VERB	V2	VerbClass=2	22	reparandum	_	AlignBegin=63778|AlignEnd=63848|GE=call|Gloss=call|RX=[V2]|TokenType=Stem
 6	-a	_	SCONJ	CVB	Aspect=Perf|VerbForm=Conv	5	mark:aff	_	AlignBegin=63848|AlignEnd=63918|GE=-[CVB].[MNR]|RX=-[PRF]|TokenType=InflAff
 7	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	5	det	_	AlignBegin=63918|AlignEnd=63988|GE==[INDF].[M].[ACC]|RX==[DET]|TokenType=Clit
-8	=u	_	AUX	N,COP	Number=Sing|Person=3|VerbType=Cop	5	cop	_	AlignBegin=63988|AlignEnd=64058|GE==[COP].[3SG]|RX==[PRED].[N]|TokenType=Clit
-9	=it	_	SCONJ	CONJ	_	5	mark	_	AlignBegin=64058|AlignEnd=64129|GE==[CSL]|RX==[CONJ]|TokenType=Clit
-10	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=64129|AlignEnd=64480|TokenType=Break
+8	=u	_	AUX	N,COP	Number=Sing|Person=3|VerbType=Cop	22	cop	_	AlignBegin=63988|AlignEnd=64058|GE==[COP].[3SG]|RX==[PRED].[N]|TokenType=Clit
+9	=it	_	SCONJ	CONJ	_	22	mark	_	AlignBegin=64058|AlignEnd=64129|GE==[CSL]|RX==[CONJ]|TokenType=Clit
+10	/	_	PUNCT	PUNCT	_	22	punct	_	AlignBegin=64129|AlignEnd=64480|TokenType=Break
 11	sagi	_	ADJ	ADJ	_	12	amod	_	AlignBegin=64480|AlignEnd=64715|GE=far|Gloss=far|RX=[ADJ]|TokenType=Stem
-12	haːʃ	_	NOUN	N	Gender=Masc	6	reparandum	_	AlignBegin=64715|AlignEnd=64832|GE=land|Gloss=land|RX=[N].[M]|TokenType=Stem
-13	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	12	case	_	AlignBegin=64832|AlignEnd=64950|GE==[ABL].[SG]|RX==[POSTP]|TokenType=Clit
-14	//	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=64950|AlignEnd=65185|TokenType=Break
-15	beːn	_	ADV	ADV	_	12	reparandum	_	AlignBegin=65185|AlignEnd=65353|GE=there|Gloss=there|RX=[ADV]|TokenType=Stem
-16	/	_	PUNCT	PUNCT	_	15	punct	_	AlignBegin=65353|AlignEnd=65734|TokenType=Break
-17	ʔarjab	_	PROPN	NP	_	15	reparandum	_	AlignBegin=65734|AlignEnd=65930|GE=[Aryab]|ProperName=Aryab|RX=[N].[PROP]|TokenType=Stem
+12	haːʃ	_	NOUN	N	Gender=Masc	22	reparandum	_	AlignBegin=64715|AlignEnd=64832|GE=land|Gloss=land|RX=[N].[M]|TokenType=Stem
+13	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	22	case	_	AlignBegin=64832|AlignEnd=64950|GE==[ABL].[SG]|RX==[POSTP]|TokenType=Clit
+14	//	_	PUNCT	PUNCT	_	22	punct	_	AlignBegin=64950|AlignEnd=65185|TokenType=Break
+15	beːn	_	ADV	ADV	_	22	reparandum	_	AlignBegin=65185|AlignEnd=65353|GE=there|Gloss=there|RX=[ADV]|TokenType=Stem
+16	/	_	PUNCT	PUNCT	_	22	punct	_	AlignBegin=65353|AlignEnd=65734|TokenType=Break
+17	ʔarjab	_	PROPN	NP	_	22	reparandum	_	AlignBegin=65734|AlignEnd=65930|GE=[Aryab]|ProperName=Aryab|RX=[N].[PROP]|TokenType=Stem
 18	=wa	_	CCONJ	CCONJ	_	17	cc	_	AlignBegin=65930|AlignEnd=66126|GE==[COORD]|RX==[CONJ]|TokenType=Clit
-19	mariː	_	ADV	ADV	_	17	reparandum	_	AlignBegin=66126|AlignEnd=66322|GE=from_the_direction|Gloss=from_the_direction|RX=[ADV]|TokenType=Stem
+19	mariː	_	ADV	ADV	_	22	reparandum	_	AlignBegin=66126|AlignEnd=66322|GE=from_the_direction|Gloss=from_the_direction|RX=[ADV]|TokenType=Stem
 20	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	19	det	_	AlignBegin=66322|AlignEnd=66518|GE==[INDF].[M].[ACC]|RX==[DET]|TokenType=Clit
 21	i=	_	DET	DET	Definite=Def|Gender=Masc	22	det	_	AlignBegin=66518|AlignEnd=66648|GE=[DEF].[M]=|RX=[DET]=|TokenType=Clit
-22	dar	_	NOUN	N	Gender=Masc	19	reparandum	_	AlignBegin=66648|AlignEnd=66779|GE=side|Gloss=side|RX=[N].[M]|TokenType=Stem
+22	dar	_	NOUN	N	Gender=Masc	0	root	_	AlignBegin=66648|AlignEnd=66779|GE=side|Gloss=side|RX=[N].[M]|TokenType=Stem
 23	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	22	case	_	AlignBegin=66779|AlignEnd=66910|GE==[ABL].[SG]|RX==[POSTP]|TokenType=Clit
-24	/	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=66910|AlignEnd=68424|TokenType=Break
+24	/	_	PUNCT	PUNCT	_	22	punct	_	AlignBegin=66910|AlignEnd=68424|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_03_camel_080-085
 # text = winneːt / naʃʃalam -a kam // aː# eː= kina mitti -a =b // iː- biri -n //
@@ -1321,8 +1321,8 @@
 4	-a	_	DET	_	Number=Plur	3	dep:comp	_	AlignBegin=69679|AlignEnd=69874|GE=-[PL]|TokenType=InflAff
 5	kam	_	NOUN	N	Number=Plur	15	obj	_	AlignBegin=69874|AlignEnd=70265|GE=camel\[PL]|Gloss=camel|RX=[N]|TokenType=Stem
 6	//	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=70265|AlignEnd=71814|TokenType=Break
-7	aː#	_	X	FS	_	8	reparandum	_	AlignBegin=71814|AlignEnd=72145|GE=[FS]|RX=[FS]|TokenType=Unfinished
-8	eː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	9	det	_	AlignBegin=72145|AlignEnd=72311|GE=[DEF].[PL].[M].[ACC]=|RX=[DET]=|TokenType=Clit
+7	aː#	_	X	FS	_	9	dep	_	AlignBegin=71814|AlignEnd=72145|GE=[FS]|RX=[FS]|TokenType=Unfinished
+8	eː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	7	reparandum	_	AlignBegin=72145|AlignEnd=72311|GE=[DEF].[PL].[M].[ACC]=|RX=[DET]=|TokenType=Clit
 9	kina	_	PRON	PRO	Reflex=Yes	10	nmod	_	AlignBegin=72311|AlignEnd=72477|GE=owner|Gloss=owner|RX=[PRO].[REFL]|TokenType=Stem
 10	mitti	_	NOUN	N	_	5	nmod	_	AlignBegin=72477|AlignEnd=72587|GE=pure_breed|Gloss=pure_breed|RX=[N]|TokenType=Stem
 11	-a	_	DET	_	Number=Plur	10	dep:comp	_	AlignBegin=72587|AlignEnd=72698|GE=-[PL]|TokenType=InflAff
