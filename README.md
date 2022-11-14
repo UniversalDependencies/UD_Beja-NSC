@@ -59,6 +59,6 @@ Features: converted from manual
 Relations: converted from manual
 Contributors: Vanhove, Martine; Ziane, Rayan; Kahane, Sylvain; Guillaume, Bruno
 Contributing: elsewhere
-Contact: Martine.VANHOVE@cnrs.fr; sylvain@kahane.fr
+Contact: martine.vanhove@cnrs.fr; sylvain@kahane.fr
 ===============================================================================
 </pre>
