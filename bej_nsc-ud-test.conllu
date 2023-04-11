@@ -36,7 +36,7 @@
 15	=hoːb	_	SCONJ	CONJ	_	14	mark	_	AlignBegin=6885|AlignEnd=6972|GE==when|Gloss==when|RX==[CONJ]|TokenType=Clit
 16	//	_	PUNCT	PUNCT	_	14	punct	_	AlignBegin=6972|AlignEnd=7232|TokenType=Break
 17	biri	_	NOUN	N	Gender=Masc	20	nsubj	_	AlignBegin=7232|AlignEnd=7478|GE=rain|Gloss=rain|RX=[N].[M]|TokenType=Stem
-18	dh	_	ADP	POSTP	_	20	iobj	_	AlignBegin=7478|AlignEnd=7601|GE=[DIR]|RX=[POSTP]|TokenType=Stem
+18	dh	_	ADP	POSTP	_	20	obl:mod	_	AlignBegin=7478|AlignEnd=7601|GE=[DIR]|RX=[POSTP]|TokenType=Stem
 19	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	17	nmod:poss	_	AlignBegin=7601|AlignEnd=7724|GE==[POSS].[1SG].[ACC]|RX==[PRO]|TokenType=Clit
 20	ijaːm	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=7724|AlignEnd=7970|GE=[3SG].[M]-rain\[INT].[PFV]|Gloss=rain|MGloss=3SG.M-rain\INT.PFV|MSeg=i-jaːm|RX=[PNG]-[V1].[DER]|TokenType=Stem
 21	//	_	PUNCT	PUNCT	_	20	punct	_	AlignBegin=7970|AlignEnd=9063|TokenType=Break
@@ -101,7 +101,7 @@
 # sent_id = BEJ_MV_NARR_01_shelter_034-039
 # text = moːkeː moːkeː moːkeː uːn uː= biri / diːseːt ʔitjan =hoːb // tak eːja =heːb ini //
 # text_en = "I sheltered for a long time and  when thist rain decreased slowly, a man came towards me", he said.
-# phonetic_text =moːkeː moːkeː moːkeː uːn uːbiri / diːseːt ʔitjanhoːb // tak eːjaheːb ini //
+# phonetic_text = moːkeː moːkeː moːkeː uːn uːbiri / diːseːt ʔitjanhoːb // tak eːjaheːb ini //
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.d67a57yq/883c5f613e52b14063d6c2a5541417cab054595c
 1	moːkeː	_	NOUN	V1	_	2	dep:redup	_	AlignBegin=23859|AlignEnd=24177|GE=take_shelter\[INT]-[CVB].[SMLT]|Gloss=take_shelter|MGloss=take_shelter\INT-CVB.SMLT|MSeg=moːk-eː|RX=[V1].[DER]|TokenType=Stem
 2	moːkeː	_	NOUN	V1	_	3	dep:redup	_	AlignBegin=24177|AlignEnd=24495|GE=take_shelter\[INT]-[CVB].[SMLT]|Gloss=take_shelter|MGloss=take_shelter\INT-CVB.SMLT|MSeg=moːk-eː|RX=[V1].[DER]|TokenType=Stem
@@ -433,7 +433,7 @@
 46	hiːn	_	VERB	V1,IRG	Aspect=Aor|Number=Plur|VerbClass=1	30	acl:relcl	_	AlignBegin=100976|AlignEnd=101170|GE=be_there\[AOR]-[3PL]|Gloss=be_there|MGloss=be_there\AOR-3PL|MSeg=hiː-n|RX=[V1].[IRG]-[PNG]|TokenType=Stem
 47	=eːt	_	SCONJ	CONJ	Gender=Fem	46	mark	_	AlignBegin=101170|AlignEnd=101267|GE==[REL].[F]|RX==[CONJ]|TokenType=Clit
 48	/	_	PUNCT	PUNCT	_	46	punct	_	AlignBegin=101267|AlignEnd=102158|TokenType=Break
-49	baːji	_	ADP	POSTP	_	51	iobj	_	AlignBegin=102158|AlignEnd=102334|GE=towards|Gloss=towards|RX=[POSTP]|TokenType=Stem
+49	baːji	_	ADP	POSTP	_	51	obl:mod	_	AlignBegin=102158|AlignEnd=102334|GE=towards|Gloss=towards|RX=[POSTP]|TokenType=Stem
 50	=heːb	_	PRON	PRO	Number=Sing|Person=1	51	obj	_	AlignBegin=102334|AlignEnd=102511|GE==[OBJ].[1SG]|RX==[PRO]|TokenType=Clit
 51	hiːreːreː	_	VERB	V2	VerbClass=2	52	ccomp	_	AlignBegin=102511|AlignEnd=102864|GE=walk-[CVB].[SMLT]|Gloss=walk|MGloss=walk-CVB.SMLT|MSeg=hiːreːr-eː|RX=[V2]|TokenType=Stem
 52	rhan	_	VERB	V2	Number=Sing|VerbClass=2	55	advcl	_	AlignBegin=102864|AlignEnd=103099|GE=see-[PFV].[1SG]|Gloss=see|MGloss=see-PFV.1SG|MSeg=rh-an|RX=[V2]-[TAM].[PNG]|TokenType=Stem
@@ -654,7 +654,7 @@
 5	=ka	_	ADP	POSTP	Case=Dis	4	case	_	AlignBegin=144704|AlignEnd=144837|GE==[DISTR]|RX==[POSTP]|TokenType=Clit
 6	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	10	nsubj	_	AlignBegin=144837|AlignEnd=145236|GE=[1SG].[NOM]|RX=[SBJ].[PRO]|TokenType=Stem
 7	i=	_	DET	DET	Definite=Def|Gender=Masc	8	det	_	AlignBegin=145236|AlignEnd=145368|GE=[DEF].[M]=|RX=[DET]=|TokenType=Clit
-8	mhiːn	_	NOUN	N	Gender=Masc	10	iobj	_	AlignBegin=145368|AlignEnd=145501|GE=place|Gloss=place|RX=[N].[M]|TokenType=Stem
+8	mhiːn	_	NOUN	N	Gender=Masc	10	obl:mod	_	AlignBegin=145368|AlignEnd=145501|GE=place|Gloss=place|RX=[N].[M]|TokenType=Stem
 9	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	8	nmod:poss	_	AlignBegin=145501|AlignEnd=145634|GE==[POSS].[1SG].[ACC]|RX==[PRO]|TokenType=Clit
 10	naːjeː	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=145634|AlignEnd=146033|GE=spend_the_night-[CVB].[SMLT]|Gloss=spend_the_night|MGloss=spend_the_night-CVB.SMLT|MSeg=naː-jeː|RX=[V2]|TokenType=Stem
 11	mhan	_	VERB	V2	Number=Sing|VerbClass=2	10	advcl	_	AlignBegin=146033|AlignEnd=146431|GE=be_in_morning-[PFV].[1SG]|Gloss=be_in_morning|MGloss=be_in_morning-PFV.1SG|MSeg=mh-an|RX=[V2]-[TAM].[PNG]|TokenType=Stem
@@ -776,7 +776,7 @@
 # text_en = "When I went to visit him, a man, a donkey, hum, came and ate his tent, they said.
 # phonetic_text = dhaːj jʔanhoːb oːtak / meːk dh# ## eːjaːjt oːgaw / tamja eːn //
 # sound_url = https://api.nakala.fr/data/10.34847/nkl.dfa3fw9v/9b76a83067e87e8cdb370d60a6cd1e7c50b69506
-1	dhaːj	_	ADP	POSTP	_	2	iobj	_	AlignBegin=10145|AlignEnd=10442|GE=[DIR]|RX=[POSTP]|TokenType=Stem
+1	dhaːj	_	ADP	POSTP	_	2	obl:mod	_	AlignBegin=10145|AlignEnd=10442|GE=[DIR]|RX=[POSTP]|TokenType=Stem
 2	jʔan	_	VERB	V2,IRG	Number=Sing|VerbClass=2	10	advcl	_	AlignBegin=10442|AlignEnd=10640|GE=come-[PFV].[1SG]|Gloss=come|MGloss=come-PFV.1SG|MSeg=jʔ-an|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Stem
 3	=hoːb	_	SCONJ	CONJ	_	2	mark	_	AlignBegin=10640|AlignEnd=10740|GE==when|Gloss==when|RX==[CONJ]|TokenType=Clit
 4	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	5	det	_	AlignBegin=10740|AlignEnd=10888|GE=[DEF].[SG].[M].[ACC]=|RX=[DET]=|TokenType=Clit
@@ -819,7 +819,7 @@
 2	dabaloː	_	ADJ	ADJ	_	4	nmod	_	AlignBegin=16399|AlignEnd=16516|GE=small|Gloss=small|RX=[ADJ]|TokenType=Stem
 3	=t	_	DET	DET	Definite=Ind|Gender=Fem	2	det	_	AlignBegin=16516|AlignEnd=16634|GE==[INDF].[F]|RX==[DET]|TokenType=Clit
 4	ʔoːr	_	NOUN	N	_	7	nsubj	_	AlignBegin=16634|AlignEnd=16869|GE=child|Gloss=child|RX=[SBJ].[N]|TokenType=Stem
-5	geːb	_	ADP	POSTP	_	7	iobj	_	AlignBegin=16869|AlignEnd=17104|GE=beside|Gloss=beside|RX=[POSTP]|TokenType=Stem
+5	geːb	_	ADP	POSTP	_	7	obl:mod	_	AlignBegin=16869|AlignEnd=17104|GE=beside|Gloss=beside|RX=[POSTP]|TokenType=Stem
 6	/	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=17104|AlignEnd=17339|TokenType=Break
 7	tiːfi	_	VERB	V1,IRG	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	0	root	_	AlignBegin=17339|AlignEnd=17475|GE=[3SG].[F]-be_there\[AOR]|Gloss=be_there|MGloss=3SG.F-be_there\AOR|MSeg=tiː-fi|RX=[PNG]-[V1].[IRG]|TokenType=Stem
 8	=aj	_	SCONJ	CONJ	_	7	mark	_	AlignBegin=17475|AlignEnd=17543|GE==[CSL]|RX==[CONJ]|TokenType=Clit
