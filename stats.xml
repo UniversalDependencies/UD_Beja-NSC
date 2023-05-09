@@ -93,14 +93,14 @@
     <dep name="dislocated">5</dep>
     <dep name="dislocated:subj">1</dep>
     <dep name="fixed">14</dep>
-    <dep name="iobj">20</dep>
+    <dep name="iobj">15</dep>
     <dep name="mark">48</dep>
     <dep name="nmod">16</dep>
     <dep name="nmod:poss">16</dep>
     <dep name="nsubj">39</dep>
     <dep name="nummod:det">1</dep>
     <dep name="obj">75</dep>
-    <dep name="obl:arg">12</dep>
+    <dep name="obl:arg">17</dep>
     <dep name="obl:mod">9</dep>
     <dep name="parataxis">45</dep>
     <dep name="parataxis:coord">2</dep>
