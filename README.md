@@ -15,18 +15,12 @@ Sentences are annotated with the following metadata :
 
 # Structure
 
-This version of the treebank is based on the dependency parsing of the original corpus first file (`BEJ_MV_NARR_01_SHELTER`) and a selection of sentences from a file called (`BEJ_MV_NARR_03_CAMEL`).
-
 The data are spoken data, so the segmentation of sentences is a semantically relevant segmentation of utterances, where punctuation represents the end of intonative units (a single `/` for a minor unit and a double `//` for major units).
 
-In the SUD version of the Treebank, we operate a morphological segmentation allowing us to highlight dependency relations between the stem and its affixes or clitics.
+In the SUD version of the Treebank, we operate a morphological segmentation allowing us to highlight dependency relations between the root and its affixes or clitics.
 
-In order to follow the UD guidelines, the segmentation is changed for the conversion to UD and affixes are merged with their stems.
+In order to follow the UD guidelines, the segmentation is changed for the conversion to UD and affixes are merged with their root.
 A morph-based “UD-like” version is available [here](https://github.com/UniversalDependencies/UD_Beja-NSC/tree/dev/not-to-release).
-
-**UD_beja-NSC** counts 857 tokens for 56 sentences (with the UD segmentation).
-The original SUD corpus counts 1101 tokens for 56 sentences.
-
 
 # Reference
 
@@ -39,11 +33,14 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 
 # Changelog
 
-* 2022-05-15 v 2.10
+* 2023-11-15 v2.13
+ * Two samples added (06_foreigner and 11_coffee).
+
+* 2022-05-15 v2.10
   * New conversion in UD with a new segmentation based on words.
 
 * 2021-05-15 v2.8
-  * Initial release in Universal Dependencies.
+  * Initial release in Universal Dependencies. Two samples (01_shelter and 03_camel).
 
 
 <pre>
