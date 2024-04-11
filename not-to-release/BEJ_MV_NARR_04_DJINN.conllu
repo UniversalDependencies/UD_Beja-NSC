@@ -1,0 +1,862 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = BEJ_MV_NARR_04_djinn_001-010
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 0, 9712
+# phonetic_text = oːn i= soːk =iːb // kiraːj ah -iːt gali =b / gaw // dikʷkʷaːn hoːj iː- fi =jeː =naː =iːb // a- ki i- ni //
+# text = oːn i= soːk =iːb // kiraːj ahiːt gali =b / gaw // dikʷkʷaːn hoːj iːfi =jeː =naː =iːb // aki ini //
+# text_en =  "At Souakin, I lived in a house in which there was a shop and which I had rented from some people", he said.
+1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=0|AlignEnd=353|GE=[PROX].[SG].[M].[ACC]|RX=[DEM]|TokenType=Root
+2	i=	_	DET	DET	Definite=Def|Gender=Masc	3	det	_	AlignBegin=353|AlignEnd=471|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+3	soːk	_	PROPN	N	_	4	dep:comp	_	AlignBegin=471|AlignEnd=589|GE=[Souakin]|RX=[N].[PROP]|TokenType=Root
+4	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	7	obl:arg	_	AlignBegin=589|AlignEnd=706|GE=[LOC].[SG]|RX=[POSTP]|TokenType=Clit
+5	//	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=706|AlignEnd=1060|GE=[//]|TokenType=Break
+6	kiraːj	_	NOUN	N	Gender=Masc	7	obj	_	AlignBegin=2273|AlignEnd=2545|GE=payment|RX=[N].[M]|TokenType=Root
+7	ahiːt	_	VERB	V1	VerbClass=1	20	advcl	_	AlignBegin=2545|AlignEnd=2817|GE=take[CVB].[SEQ]|MGloss=take[CVB].[SEQ]|MSeg=ah-iːt|RX=[V1].[IRG]|TokenType=Root
+8	gali	_	NUM	NUM	_	7	dislocated	_	AlignBegin=2817|AlignEnd=2953|GE=one|RX=[NUM]|TokenType=Root
+9	=b	_	DET	DET	Case=Acc|Gender=Masc	8	det	_	AlignBegin=2953|AlignEnd=3089|GE=[INDF].[M].[ACC]|RX=[DET]|TokenType=Clit
+10	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=3089|AlignEnd=3360|GE=[/]|TokenType=Break
+11	gaw	_	NOUN	N	Gender=Masc	15	nsubj	_	AlignBegin=3828|AlignEnd=4044|GE=house|RX=[N].[M]|TokenType=Root
+12	//	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=4044|AlignEnd=4260|GE=[//]|TokenType=Break
+13	dikʷkʷaːn	_	NOUN	N	Gender=Masc	11	reparandum	_	AlignBegin=5383|AlignEnd=5737|GE=shop|RX=[N].[M]|TokenType=Root
+14	hoːj	_	ADP	PRO	_	15	obl:arg	_	AlignBegin=5737|AlignEnd=6091|GE=[3DAT/ABL]|RX=[PRO]|TokenType=Root
+15	iːfi	_	VERB	V1	Aspect=Aor|Gender=Masc|Number=Sing|VerbClass=1	16	dep:comp	_	AlignBegin=6091|AlignEnd=6233|GE=[3SG].[M]be_there\AOR|MGloss=[3SG].[M]be_there\AOR|MSeg=iː-fi|RX=[PNG][V1].[IRG]|TokenType=Root
+16	=jeː	_	SCONJ	CONJ.REL	PronType=Rel	17	acl:relcl	_	AlignBegin=6233|AlignEnd=6304|GE=[REL]|RX=[CONJ]|TokenType=Clit
+17	=naː	_	NOUN	CONJ	_	18	dep:comp	_	AlignBegin=6304|AlignEnd=6375|GE=thing|RX=[N.F]|TokenType=Clit
+18	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	20	obl:arg	_	AlignBegin=6375|AlignEnd=6445|GE=[LOC].[SG]|RX=[POSTP]|TokenType=Clit
+19	//	_	PUNCT	PUNCT	_	18	punct	_	AlignBegin=6445|AlignEnd=6797|GE=[//]|TokenType=Break
+20	aki	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	21	parataxis	_	AlignBegin=7216|AlignEnd=7449|GE=[1SG]become\PFV|MGloss=[1SG]become\PFV|MSeg=a-ki|RX=[PNG][V1].[IRG]|TokenType=Root
+21	ini	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=7449|AlignEnd=7682|GE=[3SG].[M]say\PFV|MGloss=[3SG].[M]say\PFV|MSeg=i-ni|RX=[PNG][V1].[IRG]|TokenType=Root
+22	//	_	PUNCT	PUNCT	_	21	punct	_	AlignBegin=7682|AlignEnd=7915|GE=[//]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_011-023
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 9712, 19503
+# phonetic_text = tak // oː= tʔa / oːt ti= ʃawweː =t =iji / ɖiwa iː- fi -ina =ajt // hadal tak // ragaːga / gʷʔaʤi ʔeːja =ajt =heːb //
+# text = tak // oːtʔa / oːt ti= ʃawweː =t =iji / ɖiwa iːfiina =ajt // hadal tak // ragaːga / gʷʔaʤi ʔeːja =ajt =heːb //
+# text_en =  A man... So, there was a family of my neighbourhood and a black man, tall and stout, and one-eyed came to me.
+1	tak	_	NOUN	N	Gender=Masc	7	nmod	_	AlignBegin=9712|AlignEnd=9932|GE=man|RX=[N].[M]|TokenType=Root
+2	//	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=9932|AlignEnd=10151|GE=[//]|TokenType=Break
+3	oːtʔa	_	ADV	_	_	1	reparandum	_	GE=now|RX=[ADV]|TokenType=Root
+4	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=11301|AlignEnd=11558|GE=[/]|TokenType=Break
+5	oːt	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	AlignBegin=12986|AlignEnd=13304|GE=[PROX].[SG].[F].[ACC]|RX=[DEM]|TokenType=Root
+6	ti=	_	DET	DET	Definite=Def|Gender=Fem	7	det	_	AlignBegin=13304|AlignEnd=13384|GE=[DEF].[F]|RX=[DET]|TokenType=Clit
+7	ʃawweː	_	NOUN	N	Gender=Fem	11	nmod	_	AlignBegin=13384|AlignEnd=13464|GE=neighborhood|RX=[N].[F]|TokenType=Root
+8	=t	_	DET	DET	Gender=Fem	7	det	_	AlignBegin=13464|AlignEnd=13544|GE=[INDF].[F]|RX=[DET]|TokenType=Clit
+9	=iji	_	PRON	PRO	Case=Gen|Number=Sing|Person=1|Poss=Yes	7	nmod:poss	_	AlignBegin=13544|AlignEnd=13622|GE=[POSS].[1SG].[GEN]|RX=[PRO]|TokenType=Clit
+10	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=13622|AlignEnd=13939|GE=[/]|TokenType=Break
+11	ɖiwa	_	NOUN	N	Gender=Masc|Number=Plur	12	nsubj	_	AlignBegin=14995|AlignEnd=15292|GE=family|RX=[SBJ].[N].[M].[PL]|TokenType=Root
+12	iːfiina	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	21	dep:conj	_	AlignBegin=15292|AlignEnd=15514|GE=[3]be_there\AOR[PL]|MGloss=[3]be_there\AOR[PL]|MSeg=iː-fi-ina|RX=[PNG][V1].[IRG][PNG]|TokenType=Root
+13	=ajt	_	CCONJ	CONJ	_	12	cc	_	AlignBegin=15514|AlignEnd=15589|GE=[COORD]|RX=[CONJ]|TokenType=Clit
+14	//	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=15589|AlignEnd=15887|GE=[//]|TokenType=Break
+15	hadal	_	ADJ	ADJ	_	16	amod	_	AlignBegin=16434|AlignEnd=16640|GE=black|RX=[ADJ]|TokenType=Root
+16	tak	_	NOUN	N	Gender=Masc	21	nsubj	_	AlignBegin=16640|AlignEnd=16846|GE=man|RX=[SBJ].[N].[M]|TokenType=Root
+17	//	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=16846|AlignEnd=17053|GE=[//]|TokenType=Break
+18	ragaːga	_	ADJ	ADJ	_	16	amod	_	AlignBegin=17053|AlignEnd=17359|GE=tall_and_stout|RX=[ADJ]|TokenType=Root
+19	/	_	PUNCT	PUNCT	_	18	punct	_	AlignBegin=17359|AlignEnd=17665|GE=[/]|TokenType=Break
+20	gʷʔaʤi	_	ADJ	N	_	16	amod	_	AlignBegin=17824|AlignEnd=18190|GE=one-eyed|RX=[ADJ]|TokenType=Root
+21	ʔeːja	_	VERB	V2	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbClass=2	0	root	_	AlignBegin=18190|AlignEnd=18312|GE=come\PFV.3SG.M|RX=[V2].[IRG]|TokenType=Root
+22	=ajt	_	CCONJ	CONJ	_	21	cc	_	AlignBegin=18312|AlignEnd=18434|GE=[COORD]|RX=[CONJ]|TokenType=Clit
+23	=heːb	_	PRON	PRO	Number=Sing|Person=1	21	obj	_	AlignBegin=18434|AlignEnd=18556|GE=[OBJ].[1SG]|RX=[PRO]|TokenType=Clit
+24	//	_	PUNCT	PUNCT	_	21	punct	_	AlignBegin=18556|AlignEnd=18923|GE=[//]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_024-027
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 19503, 22158
+# phonetic_text = oːn aneːb // oːn oː= mhiːn / ʔar =eː eː- f -eːn /
+# text = oːn aneːb // oːn oː= mhiːn / ʔar =eː eːfeːn /
+# text_en = (He said:): "As for me, (in) this place there are my children.
+1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	2	discourse	_	AlignBegin=19503|AlignEnd=19634|GE=[PROX].[SG].[M].[ACC]|RX=[DEM]|TokenType=Root
+2	aneːb	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	10	discourse	_	AlignBegin=19634|AlignEnd=19765|GE=[1SG].[ACC]|RX=[PRO]|TokenType=Root
+3	//	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=19765|AlignEnd=19897|GE=[//]|TokenType=Break
+4	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	AlignBegin=20470|AlignEnd=20661|GE=[PROX].[SG].[M].[ACC]|RX=[DEM]|TokenType=Root
+5	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	det	_	AlignBegin=20661|AlignEnd=20757|GE=[DEF].[SG].[M].[ACC]|RX=[DET]|TokenType=Clit
+6	mhiːn	_	NOUN	N	Gender=Masc	10	obj	_	AlignBegin=20757|AlignEnd=20852|GE=place|RX=[N].[M]|TokenType=Root
+7	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=20852|AlignEnd=21043|GE=[/]|TokenType=Break
+8	ʔar	_	NOUN	N	_	10	obj	_	AlignBegin=21043|AlignEnd=21187|GE=child|RX=[SBJ].[N]|TokenType=Root
+9	=eː	_	PRON	PRO	Case=Acc|Number=Plur|Person=1|Poss=Yes	8	nmod:poss	_	AlignBegin=21187|AlignEnd=21332|GE=[POSS].[1PL].[ACC]|RX=[PRO]|TokenType=Clit
+10	eːfeːn	_	VERB	V1	Aspect=Imp|Number=Plur|VerbClass=1	0	root	_	AlignBegin=21332|AlignEnd=21621|GE=[3]be_there\IPFV[PL]|MGloss=[3]be_there\IPFV[PL]|MSeg=eː-f-eːn|RX=[PNG][V1].[IRG][PNG]|TokenType=Root
+11	/	_	PUNCT	PUNCT	_	10	punct	_	AlignBegin=21621|AlignEnd=21910|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_029-031
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 22159, 24948
+# phonetic_text = aːn j= ʔar =i ti= dhaːj jʔ -eːn =eːt =oːk / hi -jaː /
+# text = aːn j= ʔar =i ti= dhaːj jʔeːn =eːt =oːk / hijaː /
+# text_en = Give (everything) to my children what they come to you for!
+1	aːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	3	det	_	AlignBegin=22159|AlignEnd=22504|GE=[PROX].[PL].[M].[NOM]|RX=[DEM]|TokenType=Root
+2	j=	_	DET	DET	Definite=Def|Gender=Masc	3	det	_	AlignBegin=22504|AlignEnd=22619|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+3	ʔar	_	NOUN	N	_	11	dislocated	_	AlignBegin=22619|AlignEnd=22734|GE=child|RX=[SBJ].[N]|TokenType=Root
+4	=i	_	PRON	PRO	Case=Nom|Number=Sing|Person=1|Poss=Yes	3	nmod:poss	_	AlignBegin=22734|AlignEnd=22849|GE=[POSS].[1SG].[NOM]|RX=[PRO]|TokenType=Clit
+5	ti=	_	SCONJ	REL	Definite=Def|Gender=Fem|PronType=Rel	3	acl:relcl	_	AlignBegin=22849|AlignEnd=23021|GE=[DEF].[F]|RX=[REL]|TokenType=Clit
+6	dhaːj	_	ADP	POSTP	_	7	obl:arg	_	AlignBegin=23021|AlignEnd=23194|GE=[DIR]|RX=[POSTP]|TokenType=Root
+7	jʔeːn	_	VERB	V2	Number=Plur|VerbClass=2	5	dep:comp	_	AlignBegin=23194|AlignEnd=23366|GE=come[IPFV].[3PL]|MGloss=come[IPFV].[3PL]|MSeg=jʔ-eːn|RX=[V2].[IRG][TAM].[PNG]|TokenType=Root
+8	=eːt	_	PART	PTCL	_	7	obl:arg	_	AlignBegin=23366|AlignEnd=23452|GE=[RCPT]|RX=[PTCL]|TokenType=Clit
+9	=oːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	7	obj	_	AlignBegin=23452|AlignEnd=23539|GE=[POSS].[2SG].[ACC]|RX=[PRO]|TokenType=Clit
+10	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=23539|AlignEnd=23882|GE=[/]|TokenType=Break
+11	hijaː	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=23882|AlignEnd=24140|GE=give[IMP].[SG].[M]|MGloss=give[IMP].[SG].[M]|MSeg=hi-jaː|RX=[V1].[IRG][TAM].[PNG]|TokenType=Root
+12	/	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=24140|AlignEnd=24397|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_032-043
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 24948, 32326
+# phonetic_text = uːn ani dh =oːk / a- dleːli =jeːk // deːm sawaːkin =iːb / eː- feː =aj // deːm sawaːkin =iː / digʷagʷ -a mʔ -a // i- d =heːb i- ni //
+# text = uːn ani dh =oːk / adleːli =jeːk // deːm sawaːkin =iːb / eːfi =aj // deːm sawaːkin =iː / digʷagʷa mʔa // id =heːb ini //
+# text_en = If I am late (to pay) you, since I live in Deem Souakin, join me in Deem Souakin!" he told me, he said.
+1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	2	discourse	_	AlignBegin=24948|AlignEnd=25157|GE=[PROX].[SG].[M].[NOM]|RX=[DEM]|TokenType=Root
+2	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	6	nsubj	_	AlignBegin=25157|AlignEnd=25366|GE=[1SG].[NOM]|RX=[SBJ].[PRO]|TokenType=Root
+3	dh	_	ADP	POSTP	_	6	obl:arg	_	AlignBegin=25366|AlignEnd=25470|GE=[DIR]|RX=[POSTP]|TokenType=Root
+4	=oːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	3	dep:comp	_	AlignBegin=25470|AlignEnd=25575|GE=[POSS].[2SG].[ACC]|RX=[PRO]|TokenType=Clit
+5	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=25575|AlignEnd=25784|GE=[/]|TokenType=Break
+6	adleːli	_	VERB	V1	Aspect=Imp|Number=Sing|VerbClass=1	7	dep:comp	_	AlignBegin=25893|AlignEnd=26225|GE=[1SG]delay\IPFV|MGloss=[1SG]delay\IPFV|MSeg=a-dleːli|RX=[PNG][V1]|TokenType=Root
+7	=jeːk	_	SCONJ	CONJ	_	13	dep	_	AlignBegin=26225|AlignEnd=26391|GE=if|RX=[CONJ]|TokenType=Clit
+8	//	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=26391|AlignEnd=26889|GE=[//]|TokenType=Break
+9	deːm	_	NOUN	N	_	10	nmod	_	AlignBegin=27106|AlignEnd=27428|GE=[Deem]|RX=[N].[PROP]|TokenType=Root
+10	sawaːkin	_	PROPN	N	_	11	dep:comp	_	AlignBegin=27428|AlignEnd=27589|GE=[Souakin]|RX=[N].[PROP]|TokenType=Root
+11	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	13	obl:arg	_	AlignBegin=27589|AlignEnd=27750|GE=[LOC].[SG]|RX=[POSTP]|TokenType=Clit
+12	/	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=27750|AlignEnd=28072|GE=[/]|TokenType=Break
+13	eːfi	_	VERB	V1	Aspect=Imp|Number=Sing|VerbClass=1	14	dep:comp	_	AlignBegin=28072|AlignEnd=28218|GE=[1SG]be_there\IPFV|MGloss=[1SG]be_there\IPFV|MSeg=eː-fi|RX=[PNG][V1].[IRG]|TokenType=Root
+14	=aj	_	SCONJ	CONJ	_	20	dep	_	AlignBegin=28218|AlignEnd=28292|GE=[CSL]|RX=[CONJ]|TokenType=Clit
+15	//	_	PUNCT	PUNCT	_	14	punct	_	AlignBegin=28292|AlignEnd=28512|GE=[//]|TokenType=Break
+16	deːm	_	PROPN	N	_	17	nmod	_	AlignBegin=28653|AlignEnd=28938|GE=[Deem]|RX=[N].[PROP]|TokenType=Root
+17	sawaːkin	_	PROPN	N	_	18	dep:comp	_	AlignBegin=28938|AlignEnd=29080|GE=[Souakin]|RX=[N].[PROP]|TokenType=Root
+18	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	20	obl:arg	_	AlignBegin=29080|AlignEnd=29223|GE=[ABL].[SG]|RX=[POSTP]|TokenType=Clit
+19	/	_	PUNCT	PUNCT	_	18	punct	_	AlignBegin=29223|AlignEnd=29509|GE=[/]|TokenType=Break
+20	digʷagʷa	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	21	dep:conj	_	AlignBegin=29993|AlignEnd=30208|GE=be_swift[IMP].[SG].[M]|MGloss=be_swift[IMP].[SG].[M]|MSeg=digʷagʷ-a|RX=[V1].[DER][TAM].[PNG]|TokenType=Root
+21	mʔa	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	23	parataxis	_	AlignBegin=30208|AlignEnd=30423|GE=come[IMP].[SG].[M]|MGloss=come[IMP].[SG].[M]|MSeg=mʔ-a|RX=[V2].[IRG][TAM].[PNG]|TokenType=Root
+22	//	_	PUNCT	PUNCT	_	21	punct	_	AlignBegin=30423|AlignEnd=30638|GE=[//]|TokenType=Break
+23	id	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=30958|AlignEnd=31086|GE=[3SG].[M]say\PFV|MGloss=[3SG].[M]say\PFV|MSeg=i-d|RX=[PNG][V1].[IRG]|TokenType=Root
+24	=heːb	_	PRON	PRO	Number=Sing|Person=1	23	obj	_	AlignBegin=31086|AlignEnd=31149|GE=[OBJ].[1SG]|RX=[PRO]|TokenType=Clit
+25	ini	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	23	discourse	_	AlignBegin=31149|AlignEnd=31340|GE=[3SG].[M]say\PFV|MGloss=[3SG].[M]say\PFV|MSeg=i-ni|RX=[PNG][V1].[IRG]|TokenType=Root
+26	//	_	PUNCT	PUNCT	_	23	punct	_	AlignBegin=31340|AlignEnd=31531|GE=[//]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_045-045
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 32327, 33882
+# phonetic_text = daːji =t a- ni =t //
+# text = daːji =t ani =t //
+# text_en =  "Fine!", I said and
+1	daːji	_	ADJ	ADJ	_	3	parataxis	_	AlignBegin=32327|AlignEnd=32455|GE=good|RX=[ADJ]|TokenType=Root
+2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=32455|AlignEnd=32583|GE=[INDF].[F]|RX=[DET]|TokenType=Clit
+3	ani	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	0	root	_	AlignBegin=32583|AlignEnd=32753|GE=[1SG]say\PFV|MGloss=[1SG]say\PFV|MSeg=a-ni|RX=[PNG][V1].[IRG]|TokenType=Root
+4	=t	_	CCONJ	CONJ	_	3	cc	_	AlignBegin=32753|AlignEnd=32839|GE=[COORD]|RX=[CONJ]|TokenType=Clit
+5	//	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=32839|AlignEnd=33094|GE=[//]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_047-048
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 33883, 35678
+# phonetic_text = doːr -a =ji a- sini /
+# text = doːra =ji asni /
+# text_en =  I waited a long time, and
+1	doːra	_	NOUN	N	Gender=Masc|Number=Plur	3	obj	_	AlignBegin=33883|AlignEnd=34107|GE=time[PL]|MGloss=time[PL]|MSeg=doːr-a|RX=[N].[M]|TokenType=Root
+2	=ji	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	1	nmod:poss	_	AlignBegin=34107|AlignEnd=34218|GE=[POSS].[1SG].[ACC]|RX=[PRO]|TokenType=Clit
+3	asni	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	0	root	_	AlignBegin=34218|AlignEnd=34553|GE=[1SG]wait\PFV|MGloss=[1SG]wait\PFV|MSeg=a-sni|RX=[PNG][V1]|TokenType=Root
+4	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=34553|AlignEnd=34887|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_050-055
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 35678, 40975
+# phonetic_text = uː= tak han / uː= jaf wi= dhaːj iː- fi / guːd -jaː -n =eːb oː= doːr / a- dif i- ni //
+# text_en = then, when the man also had a lot of unpaid bills, I left", he said.
+# text = uː= tak han / uː= jaf wi= dhaːj iːfi / guːdjan =eːb oː= doːr / adif ini //
+1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=36159|AlignEnd=36261|GE=[DEF].[SG].[M].[NOM]|RX=[DET]|TokenType=Clit
+2	tak	_	NOUN	N	Gender=Masc	9	nsubj	_	AlignBegin=36261|AlignEnd=36362|GE=man|RX=[SBJ].[N].[M]|TokenType=Root
+3	han	_	PART	PTCL	_	2	advmod	_	AlignBegin=36362|AlignEnd=36565|GE=also|RX=[PTCL].[FOC]|TokenType=Root
+4	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=36565|AlignEnd=36769|GE=[/]|TokenType=Break
+5	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	det	_	AlignBegin=36769|AlignEnd=36901|GE=[DEF].[SG].[M].[NOM]|RX=[DET]|TokenType=Clit
+6	jaf	_	NOUN	N	Gender=Masc	11	nsubj	_	AlignBegin=36901|AlignEnd=37033|GE=mouth|RX=[N].[M]|TokenType=Root
+7	wi=	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	9	mark	_	AlignBegin=37033|AlignEnd=37165|GE=[REL].[SG].[M]|RX=[CONJ]|TokenType=Clit
+8	dhaːj	_	ADP	POSTP	_	9	obl:arg	_	AlignBegin=37165|AlignEnd=37297|GE=[DIR]|RX=[POSTP]|TokenType=Root
+9	iːfi	_	VERB	V1	Aspect=Aor|Gender=Masc|Number=Sing|VerbClass=1	6	acl:relcl	_	AlignBegin=37297|AlignEnd=37561|GE=[3SG].[M]be_there\AOR|MGloss=[3SG].[M]be_there\AOR|MSeg=iː-fi|RX=[PNG][V1].[IRG]|TokenType=Root
+10	/	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=37561|AlignEnd=37823|GE=[/]|TokenType=Break
+11	guːdjan	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	12	dep:comp	_	AlignBegin=37823|AlignEnd=38111|GE=increase[PFV].[3SG].[M][L]|MGloss=increase[PFV].[3SG].[M][L]|MSeg=guːd-ja-n|RX=[V2][TAM].[PNG]|TokenType=Root
+12	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	14	acl:relcl	_	AlignBegin=38111|AlignEnd=38208|GE=[REL].[M]|RX=[CONJ]|TokenType=Clit
+13	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	14	det	_	AlignBegin=38208|AlignEnd=38400|GE=[DEF].[SG].[M].[ACC]|RX=[DET]|TokenType=Clit
+14	doːr	_	NOUN	N	Gender=Masc	16	obl:mod	_	AlignBegin=38400|AlignEnd=38593|GE=time|RX=[N].[M]|TokenType=Root
+15	/	_	PUNCT	PUNCT	_	14	punct	_	AlignBegin=38593|AlignEnd=38977|GE=[/]|TokenType=Break
+16	adif	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	17	parataxis	_	AlignBegin=40280|AlignEnd=40512|GE=[1SG]leave\PFV|MGloss=[1SG]leave\PFV|MSeg=a-dif|RX=[PNG][V1]|TokenType=Root
+17	ini	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=40512|AlignEnd=40744|GE=[3SG].[M]say\PFV|MGloss=[3SG].[M]say\PFV|MSeg=i-ni|RX=[PNG][V1].[IRG]|TokenType=Root
+18	//	_	PUNCT	PUNCT	_	17	punct	_	AlignBegin=40744|AlignEnd=40975|GE=[//]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_056-056
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 40975, 42214
+# phonetic_text = deːm sawaːkin a- ba i- ni //
+# text = deːm sawaːkin aba ini //
+# text_en =  I went to Deem Souakin, he said.
+1	deːm	_	PROPN	N	_	2	nmod	_	AlignBegin=40975|AlignEnd=41223|GE=[Deem]|RX=[N].[PROP]|TokenType=Root
+2	sawaːkin	_	PROPN	N	_	3	obj	_	AlignBegin=41223|AlignEnd=41471|GE=[Souakin]|RX=[N].[PROP]|TokenType=Root
+3	aba	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	4	parataxis	_	AlignBegin=41471|AlignEnd=41719|GE=[1SG]go\INT.PFV|MGloss=[1SG]go\INT.PFV|MSeg=a-ba|RX=[PNG][V1].[DER].[IRG]|TokenType=Root
+4	ini	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=41719|AlignEnd=41967|GE=[3SG].[M]say\PFV|MGloss=[3SG].[M]say\PFV|MSeg=i-ni|RX=[PNG][V1].[IRG]|TokenType=Root
+5	//	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=41967|AlignEnd=42214|GE=[//]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_057-058
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 42214, 44640
+# phonetic_text = barʔuːt -eː =d ʔiːbaːb -an //
+# text = barʔuːteː =d ʔiːbaːban //
+# text_en =  I travelled to Port-Soudan.
+1	barʔuːteː	_	PROPN	N	Number=Plur	2	dep:comp	_	AlignBegin=42214|AlignEnd=42492|GE=[Port-Soudan][GEN].[PL]|MGloss=[Port-Soudan][GEN].[PL]|MSeg=barʔuːt-eː|RX=[N].[PROP][CASE]|TokenType=Root
+2	=d	_	ADP	POSTP	_	3	obl:arg	_	AlignBegin=42492|AlignEnd=42632|GE=[DIR]|RX=[POSTP]|TokenType=Clit
+3	ʔiːbaːban	_	VERB	V2	Number=Sing|VerbClass=2	0	root	_	AlignBegin=42632|AlignEnd=43050|GE=travel[PFV].[1SG]|MGloss=travel[PFV].[1SG]|MSeg=ʔiːbaːb-an|RX=[V2][TAM].[PNG]|TokenType=Root
+4	//	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=43050|AlignEnd=43468|GE=[//]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_059-066
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 44640, 51011
+# phonetic_text = deːm sawaːkin =eːb / haːda~doːj -an =eːb oː= doːr / hadal bissa / gʷʔaʤi / harʔiː sa~sak -jaː i- ni //
+# text = deːm sawaːkin =eːb / haːda~doːjan =eːb oː= doːr / hadal bissa / gʷʔaʤi / harʔiː sa~sakja ini //
+# text_en = When I had wandered in Deem Souakin, a black cat, one-eyed, followed me continuously", he said.
+1	deːm	_	PROPN	N	_	2	nmod	_	AlignBegin=44640|AlignEnd=44921|GE=[Deem]|RX=[N].[PROP]|TokenType=Root
+2	sawaːkin	_	PROPN	N	_	3	dep:comp	_	AlignBegin=44921|AlignEnd=45061|GE=[Souakin]|RX=[N].[PROP]|TokenType=Root
+3	=eːb	_	ADP	POSTP	Case=Loc|Number=Plur	5	obl:arg	_	AlignBegin=45061|AlignEnd=45202|GE=[LOC].[PL]|RX=[POSTP]|TokenType=Clit
+4	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=45202|AlignEnd=45483|GE=[/]|TokenType=Break
+5	haːda~doːjan	_	VERB	V2	Number=Sing|VerbClass=2	8	acl:relcl	_	AlignBegin=45483|AlignEnd=45817|GE=[wander~PLAC][PFV].[1SG]|MGloss=[wander~PLAC][PFV].[1SG]|MSeg=haːda~doːj-an|RX=[V2].[DER][TAM].[PNG]|TokenType=Root
+6	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	5	mark	_	AlignBegin=45817|AlignEnd=45983|GE=[REL].[M]|RX=[CONJ]|TokenType=Clit
+7	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	8	det	_	AlignBegin=45983|AlignEnd=46233|GE=[DEF].[SG].[M].[ACC]|RX=[DET]|TokenType=Clit
+8	doːr	_	NOUN	N	Gender=Masc	16	obl:mod	_	AlignBegin=46233|AlignEnd=46483|GE=time|RX=[N].[M]|TokenType=Root
+9	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=46483|AlignEnd=46984|GE=[/]|TokenType=Break
+10	hadal	_	ADJ	ADJ	_	11	amod	_	AlignBegin=47674|AlignEnd=47989|GE=black|RX=[ADJ]|TokenType=Root
+11	bissa	_	NOUN	N	_	16	nsubj	_	AlignBegin=47989|AlignEnd=48304|GE=cat|RX=[SBJ].[N]|TokenType=Root
+12	/	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=48304|AlignEnd=48619|GE=[/]|TokenType=Break
+13	gʷʔaʤi	_	ADJ	N	_	11	amod	_	AlignBegin=49044|AlignEnd=49330|GE=one-eyed|RX=[ADJ]|TokenType=Root
+14	/	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=49330|AlignEnd=49616|GE=[/]|TokenType=Break
+15	harʔiː	_	ADP	POSTP	_	16	obl:arg	_	AlignBegin=49899|AlignEnd=50177|GE=after|RX=[POSTP]|TokenType=Root
+16	sa~sakja	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	17	parataxis	_	AlignBegin=50177|AlignEnd=50455|GE=[PLAC~go][PFV].[3SG].[M]|MGloss=[PLAC~go][PFV].[3SG].[M]|MSeg=sa~sak-ja|RX=[V2].[DER][TAM].[PNG]|TokenType=Root
+17	ini	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=50455|AlignEnd=50733|GE=[3SG].[M]say|MGloss=[3SG].[M]say|MSeg=i-ni|RX=[PNG][V1].[IRG]|TokenType=Root
+18	//	_	PUNCT	PUNCT	_	17	punct	_	AlignBegin=50733|AlignEnd=51011|GE=[//]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_067-067
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 51011, 52964
+# phonetic_text = oːn a- jha -n =i gabal -eː =ka harʔ =i sa~sak -jaː /
+# text = oːn ajhan =i gabaleː =ka harʔiː sa~sakja /
+# text_en =  In whatever direction I took it was following me on and off.
+1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	2	discourse	_	AlignBegin=51011|AlignEnd=51337|GE=[PROX].[SG].[M].[ACC]|RX=[DEM]|TokenType=Root
+2	ajhan	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	4	acl:relcl	_	AlignBegin=51337|AlignEnd=51583|GE=[1SG]take\PFV[L]|MGloss=[1SG]take\PFV[L]|MSeg=a-jha-n|RX=[PNG][V1].[IRG]|TokenType=Root
+3	=i	_	SCONJ	CONJ.REL	PronType=Rel	2	mark	_	AlignBegin=51583|AlignEnd=51663|GE=[REL]|RX=[CONJ]|TokenType=Clit
+4	gabaleː	_	NOUN	N	Gender=Masc|Number=Plur	5	dep:comp	_	AlignBegin=51663|AlignEnd=51881|GE=direction[GEN].[PL]|MGloss=direction[GEN].[PL]|MSeg=gabal-eː|RX=[N].[M][CASE]|TokenType=Root
+5	=ka	_	ADP	POSTP	_	7	obl:arg	_	AlignBegin=51881|AlignEnd=51989|GE=[DISTR]|RX=[POSTP]|TokenType=Clit
+6	harʔiː	_	ADP	POSTP	_	7	obl:arg	_	AlignBegin=51989|AlignEnd=52152|GE=after|RX=[POSTP]|TokenType=Root
+7	sa~sakja	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	0	root	_	AlignBegin=52315|AlignEnd=52641|GE=[PLAC~go][PFV].[3SG].[M]|MGloss=[PLAC~go][PFV].[3SG].[M]|MSeg=sa~sak-ja|RX=[V2].[DER][TAM].[PNG]|TokenType=Root
+8	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=52641|AlignEnd=52964|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_068-072
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 52964, 56393
+# phonetic_text = uːn uː= tak / oː= mhiːn ʃaga -am -ani di -jaː =joː =ju =it / haːra~riw /
+# text = uːn uː= tak / oː= mhiːn ʃagaamani dijaː =joː =ju =it / haːra~riw /
+# text_en =  That man since he had told me: "I work in this place", I looked for him a lot.
+1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=52964|AlignEnd=53190|GE=[PROX].[SG].[M].[NOM]|RX=[DEM]|TokenType=Root
+2	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=53190|AlignEnd=53303|GE=[DEF].[SG].[M].[NOM]|RX=[DET]|TokenType=Clit
+3	tak	_	NOUN	N	Gender=Masc	8	nsubj	_	AlignBegin=53303|AlignEnd=53416|GE=man|RX=[SBJ].[N].[M]|TokenType=Root
+4	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=53416|AlignEnd=53642|GE=[/]|TokenType=Break
+5	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	det	_	AlignBegin=54215|AlignEnd=54395|GE=[DEF].[SG].[M].[ACC]|RX=[DET]|TokenType=Clit
+6	mhiːn	_	NOUN	N	Gender=Masc	7	obj	_	AlignBegin=54395|AlignEnd=54576|GE=place|RX=[N].[M]|TokenType=Root
+7	ʃagaamani	_	VERB	V2	Number=Sing|VerbClass=2	8	parataxis	_	AlignBegin=54576|AlignEnd=54937|GE=work[MID][IPFV].[1SG]|MGloss=work[MID][IPFV].[1SG]|MSeg=ʃaga-am-ani|RX=[V2][V2].[DER][TAM].[PNG]|TokenType=Root
+8	dijaː	_	VERB	V1	VerbClass=1	11	dep:comp	_	AlignBegin=54937|AlignEnd=55081|GE=say[CVB].[MNR]|MGloss=say[CVB].[MNR]|MSeg=di-jaː|RX=[V1].[IRG][PRF]|TokenType=Root
+9	=joː	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	8	obj	_	AlignBegin=55081|AlignEnd=55153|GE=[POSS].[1SG].[ACC]|RX=[PRO]|TokenType=Clit
+10	=ju	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	8	cop	_	AlignBegin=55153|AlignEnd=55225|GE=[COP].[3SG]|RX=[PRED].[N]|TokenType=Clit
+11	=it	_	SCONJ	CONJ	_	13	dep	_	AlignBegin=55225|AlignEnd=55298|GE=[CSL]|RX=[CONJ]|TokenType=Clit
+12	/	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=55298|AlignEnd=55659|GE=[/]|TokenType=Break
+13	haːra~riw	_	VERB	V1	Aspect=Perf|Number=Sing|Person=1|VerbClass=1	0	root	_	AlignBegin=55659|AlignEnd=55948|GE=seek\INT~PLAC\PFV.[1SG]|RX=[V1].[DER]|TokenType=Root
+14	/	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=55948|AlignEnd=56237|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_073-074
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 56393, 57532
+# phonetic_text = oː= dhaj sakana -an /
+# text = oː= dhaj sakanaan /
+# text_en =  I asked people for information.
+1	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=56393|AlignEnd=56561|GE=[DEF].[SG].[M].[ACC]|RX=[DET]|TokenType=Clit
+2	dhaj	_	NOUN	N	Gender=Masc|Number=Coll	3	obj	_	AlignBegin=56561|AlignEnd=56728|GE=people|RX=[N].[COL].[M]|TokenType=Root
+3	sakanaan	_	VERB	V2	Number=Sing|VerbClass=2	0	root	_	AlignBegin=56728|AlignEnd=57063|GE=ask_for_news[PFV].[1SG]|MGloss=ask_for_news[PFV].[1SG]|MSeg=sakana-an|RX=[V2][TAM].[PNG]|TokenType=Root
+4	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=57063|AlignEnd=57398|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_075-079
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 57532, 62736
+# phonetic_text = tak kan -ti hi -it =heːb i- rib =hoːb // w= haːdoː -ti dh =i guːd -jaː -n =hoːb // ʔagar i- ni //
+# text = tak kanti hiit =heːb irib =hoːb // w= haːdoːti dh =i guːdjan =hoːb // ʔagar ini //
+# text_en =  When no one could inform me, when I had wandered more, I came back, he said.
+1	tak	_	NOUN	N	Gender=Masc	2	nsubj	_	AlignBegin=57532|AlignEnd=57824|GE=man|RX=[SBJ].[N].[M]|TokenType=Root
+2	kanti	_	VERB	V1	VerbClass=1	6	dep:comp	_	AlignBegin=57824|AlignEnd=58116|GE=know[CVB].[GNRL]|MGloss=know[CVB].[GNRL]|MSeg=kan-ti|RX=[V1].[DER].[IRG]|TokenType=Root
+3	hiit	_	AUX	AUX.BENF	_	2	aux	_	AlignBegin=58116|AlignEnd=58310|GE=give[VN]|MGloss=give[VN]|MSeg=hi-it|RX=[AUX].[BENF][N].[V]|TokenType=Root
+4	=heːb	_	PRON	PRO	Number=Sing|Person=1	2	obj	_	AlignBegin=58310|AlignEnd=58408|GE=[OBJ].[1SG]|RX=[PRO]|TokenType=Clit
+5	irib	_	AUX	AUX.CONTR	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Neg	2	aux	_	AlignBegin=58408|AlignEnd=58602|GE=[3SG].[M]refuse\PFV|MGloss=[3SG].[M]refuse\PFV|MSeg=i-rib|RX=[PNG][AUX].[NEG].[CONTR]|TokenType=Root
+6	=hoːb	_	SCONJ	CONJ	_	12	dep	_	AlignBegin=58602|AlignEnd=58700|GE=when|RX=[CONJ]|TokenType=Clit
+7	//	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=58700|AlignEnd=58991|GE=[//]|TokenType=Break
+8	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	9	det	_	AlignBegin=59421|AlignEnd=59554|GE=[DEF].[SG].[M]|RX=[DET]|TokenType=Clit
+9	haːdoːti	_	VERB	V2	VerbClass=2	12	nsubj	_	AlignBegin=59554|AlignEnd=59821|GE=wander[N].[AC]|MGloss=wander[N].[AC]|MSeg=haːdoː-ti|RX=[V2][N].[V]|TokenType=Root
+10	dh	_	ADP	POSTP	_	12	obl:arg	_	AlignBegin=59821|AlignEnd=60021|GE=[DIR]|RX=[POSTP]|TokenType=Root
+11	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	10	dep:comp	_	AlignBegin=60021|AlignEnd=60221|GE=[POSS].[1SG].[NOM]|RX=[PRO]|TokenType=Clit
+12	guːdjan	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	15	advcl	_	AlignBegin=60221|AlignEnd=60521|GE=increase[PFV].[3SG].[M][L]|MGloss=increase[PFV].[3SG].[M][L]|MSeg=guːd-ja-n|RX=[V2][TAM].[PNG]|TokenType=Root
+13	=hoːb	_	SCONJ	CONJ	_	12	mark	_	AlignBegin=60521|AlignEnd=60621|GE=when|RX=[CONJ]|TokenType=Clit
+14	//	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=60621|AlignEnd=61021|GE=[//]|TokenType=Break
+15	ʔagar	_	VERB	V1	Aspect=Perf|Number=Sing|Person=1|VerbClass=1|Voice=Mid	16	parataxis	_	AlignBegin=61021|AlignEnd=61218|GE=come_back\MID.PFV.1SG|RX=[V1].[DER]|TokenType=Root
+16	ini	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=61218|AlignEnd=61415|GE=[3SG].[M]say\PFV|MGloss=[3SG].[M]say\PFV|MSeg=i-ni|RX=[PNG][V1].[IRG]|TokenType=Root
+17	//	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=61415|AlignEnd=61611|GE=[//]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_081-085
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 63352, 67709
+# phonetic_text = doːr -a =ji ʃaga -am -an =hoːb //  ʔeːja =heːb i- ni / uːn i= raw =uːn i= gʷʔaʤi //
+# text = ʔagar =t areː doːra =ji ʃagaaman =hoːb // ʔeːja =heːb ini / uːn i= raw =uːn i= gʷʔaʤi //
+# text_en =  I came back and then, when I have been working for a long time he came to me, he said, our one-eyed friend.
+1	ʔagar	_	VERB	N	_	6	dep:conj	_	AlignBegin=63352|AlignEnd=63493|GE=come_back\MID.PFV.1SG|RX=[V1].[DER]|TokenType=Root
+2	=t	_	CCONJ	N	_	1	cc	_	AlignBegin=63352|AlignEnd=63493|GE=[COORD]|RX=[CONJ]|TokenType=Clit
+3	areː	_	PART	N	_	4	cc	_	AlignBegin=63352|AlignEnd=63493|GE=then|RX=[PTCL]|TokenType=Root
+4	doːra	_	NOUN	N	Gender=Masc|Number=Plur	6	obj	_	AlignBegin=63352|AlignEnd=63634|GE=time[PL]|MGloss=time[PL]|MSeg=doːr-a|RX=[N].[M]|TokenType=Root
+5	=ji	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	4	nmod:poss	_	AlignBegin=63634|AlignEnd=63776|GE=[POSS].[1SG].[ACC]|RX=[PRO]|TokenType=Clit
+6	ʃagaaman	_	VERB	V2	Number=Sing|VerbClass=2	7	dep:comp	_	AlignBegin=63776|AlignEnd=64094|GE=work[MID][PFV].[1SG]|MGloss=work[MID][PFV].[1SG]|MSeg=ʃaga-am-an|RX=[V2][V2].[DER][TAM].[PNG]|TokenType=Root
+7	=hoːb	_	SCONJ	CONJ	_	9	dep	_	AlignBegin=64094|AlignEnd=64200|GE=when|RX=[CONJ]|TokenType=Clit
+8	//	_	PUNCT	_	_	7	punct	_	GE=[//]|TokenType=Break
+9	ʔeːja	_	VERB	V2	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbClass=2	11	parataxis	_	AlignBegin=65164|AlignEnd=65284|GE=come\PFV.3SG.M|RX=[V2].[IRG]|TokenType=Root
+10	=heːb	_	PRON	PRO	Number=Sing|Person=1	9	obj	_	AlignBegin=65284|AlignEnd=65403|GE=[OBJ].[1SG]|RX=[PRO]|TokenType=Clit
+11	ini	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=65403|AlignEnd=65642|GE=[3SG].[M]say\PFV|MGloss=[3SG].[M]say\PFV|MSeg=i-ni|RX=[PNG][V1].[IRG]|TokenType=Root
+12	/	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=65642|AlignEnd=65880|GE=[/]|TokenType=Break
+13	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	15	det	_	AlignBegin=65880|AlignEnd=66194|GE=[PROX].[SG].[M].[NOM]|RX=[DEM]|TokenType=Root
+14	i=	_	DET	DET	Definite=Def|Gender=Masc	15	det	_	AlignBegin=66194|AlignEnd=66299|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+15	raw	_	NOUN	N	_	9	dislocated:subj	_	AlignBegin=66299|AlignEnd=66404|GE=friend|RX=[SBJ].[N]|TokenType=Root
+16	=uːn	_	PRON	PRO	Case=Nom|Number=Plur|Person=1|Poss=Yes	15	nmod:poss	_	AlignBegin=66404|AlignEnd=66508|GE=[POSS].[1PL].[NOM]|RX=[PRO]|TokenType=Clit
+17	i=	_	DET	DET	Definite=Def|Gender=Masc	18	det	_	AlignBegin=66508|AlignEnd=66665|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+18	gʷʔaʤi	_	ADJ	N	_	15	nmod	_	AlignBegin=66665|AlignEnd=66822|GE=one-eyed|RX=[ADJ]|TokenType=Root
+19	//	_	PUNCT	PUNCT	_	15	punct	_	AlignBegin=66822|AlignEnd=67136|GE=[//]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_086-087
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 67709, 68363
+# phonetic_text = ʔeːja =ajt =heːb /
+# text = ʔeːja =ajt =heːb /
+# text_en =  He came to me and
+1	ʔeːja	_	VERB	V2	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbClass=2	0	root	_	AlignBegin=67709|AlignEnd=67782|GE=come\PFV.3SG.M|RX=[V2].[IRG]|TokenType=Root
+2	=ajt	_	CCONJ	CONJ	_	1	cc	_	AlignBegin=67782|AlignEnd=67855|GE=[COORD]|RX=[CONJ]|TokenType=Clit
+3	=heːb	_	PRON	PRO	Number=Sing|Person=1	1	obj	_	AlignBegin=67855|AlignEnd=67929|GE=[OBJ].[1SG]|RX=[PRO]|TokenType=Clit
+4	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=67929|AlignEnd=68148|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_088-088
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 68363, 69878
+# phonetic_text = naːn ti- ʃik =hoːn i- ni =t =heːb //
+# text = naːn tiʃik =hoːn ini =t =heːb //
+# text_en =  "How much did you borrow me?" (lit. us) he said to me, and
+1	naːn	_	PRON	PRO	PartType=Int	2	obj	_	AlignBegin=68363|AlignEnd=68742|GE=what|RX=[PRO].[Q]|TokenType=Root
+2	tiʃik	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	4	parataxis	_	AlignBegin=68742|AlignEnd=68994|GE=[2SG].[M]borrow\PFV|MGloss=[2SG].[M]borrow\PFV|MSeg=ti-ʃik|RX=[PNG][V1]|TokenType=Root
+3	=hoːn	_	PRON	PRO	Case=Acc|Number=Plur|Person=1|Polite=Form	2	obj	_	AlignBegin=68994|AlignEnd=69121|GE=[OBJ].[1PL]|RX=[PRO].[POL]|TokenType=Clit
+4	ini	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=69121|AlignEnd=69311|GE=[3SG].[M]say\PFV|MGloss=[3SG].[M]say\PFV|MSeg=i-ni|RX=[PNG][V1].[IRG]|TokenType=Root
+5	=t	_	CCONJ	CONJ	_	4	cc	_	AlignBegin=69311|AlignEnd=69406|GE=[COORD]|RX=[CONJ]|TokenType=Clit
+6	=heːb	_	PRON	PRO	Number=Sing|Person=1	4	obj	_	AlignBegin=69406|AlignEnd=69500|GE=[OBJ].[1SG]|RX=[PRO]|TokenType=Clit
+7	//	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=69500|AlignEnd=69878|GE=[//]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_089-090
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 69878, 71742
+# phonetic_text = dabaluː =na i- hi =t =heːb //
+# text = dabaluː =na ihi =t =heːb //
+# text_en =  he gave me a bit of money.
+1	dabaluː	_	ADJ	ADJ	_	2	amod	_	AlignBegin=69878|AlignEnd=70117|GE=small|RX=[ADJ]|TokenType=Root
+2	=na	_	NOUN	N	Gender=Fem	3	obj	_	AlignBegin=70117|AlignEnd=70356|GE=thing|RX=[N].[F]|TokenType=Clit
+3	ihi	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=70356|AlignEnd=70596|GE=[3SG].[M]give\PFV|MGloss=[3SG].[M]give\PFV|MSeg=i-hi|RX=[PNG][V1].[IRG]|TokenType=Root
+4	=t	_	CCONJ	CONJ	_	3	cc	_	AlignBegin=70596|AlignEnd=70716|GE=[COORD]|RX=[CONJ]|TokenType=Clit
+5	=heːb	_	PRON	PRO	Number=Sing|Person=1	3	obj	_	AlignBegin=70716|AlignEnd=70834|GE=[OBJ].[1SG]|RX=[PRO]|TokenType=Clit
+6	//	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=70834|AlignEnd=71311|GE=[//]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_091-092
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 71742, 73577
+# phonetic_text = areː digʷagʷ -a mʔ -a i- d =heːb //
+# text = areː digʷagʷa mʔa id =heːb //
+# text_en =  "Then, join me!", he told me.
+1	areː	_	PART	PTCL	_	2	discourse	_	AlignBegin=71742|AlignEnd=72032|GE=then|RX=[PTCL]|TokenType=Root
+2	digʷagʷa	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	3	dep:conj	_	AlignBegin=72032|AlignEnd=72322|GE=be_swift[IMP].[SG].[M]|MGloss=be_swift[IMP].[SG].[M]|MSeg=digʷagʷ-a|RX=[V1].[DER][TAM].[PNG]|TokenType=Root
+3	mʔa	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	4	parataxis	_	AlignBegin=72322|AlignEnd=72612|GE=come[IMP].[SG].[M]|MGloss=come[IMP].[SG].[M]|MSeg=mʔ-a|RX=[V2].[IRG][TAM].[PNG]|TokenType=Root
+4	id	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=72612|AlignEnd=72806|GE=[3SG].[M]say\PFV|MGloss=[3SG].[M]say\PFV|MSeg=i-d|RX=[PNG][V1].[IRG]|TokenType=Root
+5	=heːb	_	PRON	PRO	Number=Sing|Person=1	4	obj	_	AlignBegin=72806|AlignEnd=72902|GE=[OBJ].[1SG]|RX=[PRO]|TokenType=Clit
+6	//	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=72902|AlignEnd=73193|GE=[//]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_093-093
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 73577, 74762
+# phonetic_text = waʤʤa =b i- hi =t =heːb //
+# text = waʤʤa =b ihi =t =heːb //
+# text_en =  He gave me an appointment.
+1	waʤʤa	_	NOUN	N	Gender=Masc	3	obj	_	AlignBegin=73577|AlignEnd=73775|GE=appointment|RX=[N].[M]|TokenType=Root
+2	=b	_	DET	DET	Case=Acc|Gender=Masc	1	det	_	AlignBegin=73775|AlignEnd=73972|GE=[INDF].[M].[ACC]|RX=[DET]|TokenType=Clit
+3	ihi	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=73972|AlignEnd=74170|GE=[3SG].[M]give\PFV|MGloss=[3SG].[M]give\PFV|MSeg=i-hi|RX=[PNG][V1].[IRG]|TokenType=Root
+4	=t	_	CCONJ	CONJ	_	3	cc	_	AlignBegin=74170|AlignEnd=74269|GE=[COORD]|RX=[CONJ]|TokenType=Clit
+5	=heːb	_	PRON	PRO	Number=Sing|Person=1	3	obj	_	AlignBegin=74269|AlignEnd=74367|GE=[OBJ].[1SG]|RX=[PRO]|TokenType=Clit
+6	//	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=74367|AlignEnd=74762|GE=[//]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_094-097
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 74762, 79624
+# phonetic_text = waʤʤa =i ʔeːja -n =eːb oː= doːr / hoːj a- dif //
+# text = waʤʤa =i ʔeːjan =eːb oː= doːr / hoːj adif //
+# text_en =  When the (day of) my appointment came, I left from there.
+1	waʤʤa	_	NOUN	N	Gender=Masc	3	nsubj	_	AlignBegin=74762|AlignEnd=74974|GE=appointment|RX=[N].[M]|TokenType=Root
+2	=i	_	PRON	PRO	Case=Nom|Number=Sing|Person=1|Poss=Yes	1	nmod:poss	_	AlignBegin=74974|AlignEnd=75185|GE=[POSS].[1SG].[NOM]|RX=[PRO]|TokenType=Clit
+3	ʔeːjan	_	VERB	V2	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbClass=2	6	acl:relcl	_	AlignBegin=75185|AlignEnd=75467|GE=come\PFV.3SG.M[L]|MGloss=come\PFV.3SG.M[L]|MSeg=ʔeːja-n|RX=[V2].[IRG]|TokenType=Root
+4	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	3	mark	_	AlignBegin=75467|AlignEnd=75608|GE=[REL].[M]|RX=[CONJ]|TokenType=Clit
+5	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	det	_	AlignBegin=75608|AlignEnd=75820|GE=[DEF].[SG].[M].[ACC]|RX=[DET]|TokenType=Clit
+6	doːr	_	NOUN	N	Gender=Masc	9	obl:mod	_	AlignBegin=75820|AlignEnd=76031|GE=time|RX=[N].[M]|TokenType=Root
+7	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=76031|AlignEnd=76453|GE=[/]|TokenType=Break
+8	hoːj	_	ADP	PRO	_	9	obl:arg	_	AlignBegin=77421|AlignEnd=77679|GE=[3DAT/ABL]|RX=[PRO]|TokenType=Root
+9	adif	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	0	root	_	AlignBegin=77679|AlignEnd=77937|GE=[1SG]leave\PFV|MGloss=[1SG]leave\PFV|MSeg=a-dif|RX=[PNG][V1]|TokenType=Root
+10	//	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=77937|AlignEnd=78196|GE=[//]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_098-104
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 79624, 82948
+# phonetic_text = uːn i= bissa / tikʷ / t= ʔarabijaːj =t =iː a- ni =hoːb / bass whi =i i- ngad /
+# text = uːn i= bissa / tikʷ / t= ʔarabijaːj =t =iː ani =hoːb / bass whiː ingad /
+# text_en = This cat, when I got off the car quickly, simply stopped beneath me.
+1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=79624|AlignEnd=79838|GE=[PROX].[SG].[M].[NOM]|RX=[DEM]|TokenType=Root
+2	i=	_	DET	DET	Definite=Def|Gender=Masc	3	det	_	AlignBegin=79838|AlignEnd=79945|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+3	bissa	_	NOUN	N	_	16	dislocated:subj	_	AlignBegin=79945|AlignEnd=80052|GE=cat|RX=[SBJ].[N]|TokenType=Root
+4	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=80052|AlignEnd=80267|GE=[/]|TokenType=Break
+5	tikʷ	_	VERB	V2	VerbClass=2	16	advcl	_	AlignBegin=80402|AlignEnd=80465|GE=go_down|RX=[V2]|TokenType=Root
+6	/	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=80465|AlignEnd=80528|GE=[/]|TokenType=Break
+7	t=	_	DET	DET	Definite=Def|Gender=Fem	8	det	_	AlignBegin=80798|AlignEnd=80872|GE=[DEF].[F]|RX=[DET]|TokenType=Clit
+8	ʔarabijaːj	_	NOUN	N	Gender=Fem	5	obl:arg	_	AlignBegin=80872|AlignEnd=80946|GE=car|RX=[N].[F].[BORR].[ARA]|TokenType=Root
+9	=t	_	DET	DET	Gender=Fem	8	det	_	AlignBegin=80946|AlignEnd=81020|GE=[INDF].[F]|RX=[DET]|TokenType=Clit
+10	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	8	case	_	AlignBegin=81020|AlignEnd=81094|GE=[ABL].[SG]|RX=[POSTP]|TokenType=Clit
+11	ani	_	AUX	LV	Number=Sing|VerbType=Light	5	aux	_	AlignBegin=81094|AlignEnd=81292|GE=[1SG]say|MGloss=[1SG]say|MSeg=a-ni|RX=[PNG][LV]|TokenType=Root
+12	=hoːb	_	SCONJ	CONJ	_	5	mark	_	AlignBegin=81292|AlignEnd=81390|GE=when|RX=[CONJ]|TokenType=Clit
+13	/	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=81390|AlignEnd=81687|GE=[/]|TokenType=Break
+14	bass	_	PART	PTCL	_	16	discourse	_	AlignBegin=81687|AlignEnd=81949|GE=only|RX=[PTCL].[BORR].[ARA]|TokenType=Root
+15	whiː	_	ADP	POSTP	_	16	obl:arg	_	AlignBegin=81949|AlignEnd=82080|GE=under|RX=[POSTP]|TokenType=Root
+16	ingad	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=82211|AlignEnd=82473|GE=[3SG].[M]stop|MGloss=[3SG].[M]stop|MSeg=i-ngad|RX=[PNG][V1].[IRG]|TokenType=Root
+17	/	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=82473|AlignEnd=82737|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_105-108
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 82948, 85627
+# phonetic_text = miaːw / i- ni =t =ka harʔ =i hiːreːr -jaː /
+# text = miaːw / ini =t =ka harʔiː hiːreːrja /
+# text_en = Each time it miaowed it walked behind me.
+1	miaːw	_	INTJ	ONOM	_	3	parataxis	_	AlignBegin=82948|AlignEnd=83234|GE=miaow|RX=[ONOM]|TokenType=Root
+2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=83234|AlignEnd=83519|GE=[/]|TokenType=Break
+3	ini	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	5	dep:comp	_	AlignBegin=83638|AlignEnd=83798|GE=[3SG].[M]say\PFV|MGloss=[3SG].[M]say\PFV|MSeg=i-ni|RX=[PNG][V1].[IRG]|TokenType=Root
+4	=t	_	CCONJ	CONJ	_	3	cc	_	AlignBegin=83798|AlignEnd=83878|GE=[COORD]|RX=[CONJ]|TokenType=Clit
+5	=ka	_	ADP	POSTP	_	6	obl:arg	_	AlignBegin=83878|AlignEnd=83957|GE=[DISTR]|RX=[POSTP]|TokenType=Clit
+6	harʔiː	_	ADP	POSTP	_	7	obl:arg	_	AlignBegin=83957|AlignEnd=84117|GE=behind|RX=[POSTP]|TokenType=Root
+7	hiːreːrja	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	0	root	_	AlignBegin=84276|AlignEnd=84595|GE=walk[PFV].[3SG].[M]|MGloss=walk[PFV].[3SG].[M]|MSeg=hiːreːr-ja|RX=[V2][TAM].[PNG]|TokenType=Root
+8	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=84595|AlignEnd=84915|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_109-113
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 85627, 90125
+# phonetic_text = ontʔa / oːn oː= tak sakana -am -an =hoːb / naː =t rh -at a- rib =t /
+# text = ontʔa / oːn oː= tak sakanaaman =hoːb / naː =t rhat arib =t /
+# text_en =  So, when I asked about this man, I did not see anything.
+1	ontʔa	_	ADV	PTCL	_	5	discourse	_	AlignBegin=85627|AlignEnd=85861|GE=now|RX=[PTCL]|TokenType=Root
+2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=85861|AlignEnd=86095|GE=[/]|TokenType=Break
+3	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	AlignBegin=86865|AlignEnd=87204|GE=[PROX].[SG].[M].[ACC]|RX=[DEM]|TokenType=Root
+4	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	5	det	_	AlignBegin=87204|AlignEnd=87374|GE=[DEF].[SG].[M].[ACC]|RX=[DET]|TokenType=Clit
+5	tak	_	NOUN	N	Gender=Masc	6	obj	_	AlignBegin=87374|AlignEnd=87543|GE=man|RX=[N].[M]|TokenType=Root
+6	sakanaaman	_	VERB	V2	Number=Sing|VerbClass=2	7	dep:comp	_	AlignBegin=87543|AlignEnd=87798|GE=ask_for_news[MID][PFV].[1SG]|MGloss=ask_for_news[MID][PFV].[1SG]|MSeg=sakana-am-an|RX=[V2][V2].[DER][TAM].[PNG]|TokenType=Root
+7	=hoːb	_	SCONJ	CONJ	_	11	dep	_	AlignBegin=87798|AlignEnd=87882|GE=when|RX=[CONJ]|TokenType=Clit
+8	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=87882|AlignEnd=88221|GE=[/]|TokenType=Break
+9	naː	_	NOUN	N	Gender=Fem	11	obj	_	AlignBegin=88221|AlignEnd=88365|GE=thing|RX=[N].[F]|TokenType=Root
+10	=t	_	DET	DET	Gender=Fem	9	det	_	AlignBegin=88365|AlignEnd=88508|GE=[INDF].[F]|RX=[DET]|TokenType=Clit
+11	rhat	_	NOUN	V2	_	0	root	_	AlignBegin=88508|AlignEnd=88795|GE=see[VN]|MGloss=see[VN]|MSeg=rh-at|RX=[V2][N].[V]|TokenType=Root
+12	arib	_	AUX	AUX.CONTR	Aspect=Perf|Number=Sing|Polarity=Neg	11	aux	_	AlignBegin=88795|AlignEnd=88987|GE=[1SG]refuse\PFV|MGloss=[1SG]refuse\PFV|MSeg=a-rib|RX=[PNG][AUX].[NEG].[CONTR]|TokenType=Root
+13	=t	_	CCONJ	CONJ	_	11	cc	_	AlignBegin=88987|AlignEnd=89082|GE=[COORD]|RX=[CONJ]|TokenType=Clit
+14	/	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=89082|AlignEnd=89369|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_114-115
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 90125, 90968
+# phonetic_text = ʔagar i- ni //
+# text = ʔagar ini //
+# text_en =  I went back, he said.
+1	ʔagar	_	VERB	V1	Aspect=Perf|Number=Sing|Person=1|VerbClass=1|Voice=Mid	2	parataxis	_	AlignBegin=90125|AlignEnd=90323|GE=come_back\MID.PFV.[1SG]|RX=[V1].[DER]|TokenType=Root
+2	ini	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=90323|AlignEnd=90521|GE=[3SG].[M]say\PFV|MGloss=[3SG].[M]say\PFV|MSeg=i-ni|RX=[PNG][V1].[IRG]|TokenType=Root
+3	//	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=90521|AlignEnd=90719|GE=[//]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_117-123
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 90968, 97579
+# phonetic_text = i= soːk =ijoː =da // mhasi areː / jin -aː =t a- sni =t a- dgi /
+# text_en = "Once more, I waited a few days and went back to Souakin.
+# text = mhasi i= soːk =ijoː =da // mhasi areː / jinaː =t asni =t adgi /
+1	mhasi	_	DET	DET	_	3	dep	_	AlignBegin=91949|AlignEnd=92041|GE=again|RX=[PTCL]|TokenType=Root
+2	i=	_	DET	DET	Definite=Def|Gender=Masc	3	det	_	AlignBegin=91949|AlignEnd=92041|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+3	soːk	_	PROPN	N	_	5	dep:comp	_	AlignBegin=92041|AlignEnd=92133|GE=[Souakin]|RX=[N].[PROP]|TokenType=Root
+4	=ijoː	_	PRON	PRO	Case=Gen|Number=Sing|Person=3|Poss=Yes	3	nmod:poss	_	AlignBegin=92133|AlignEnd=92225|GE=[POSS].[3SG].[GEN]|RX=[PRO]|TokenType=Clit
+5	=da	_	ADP	POSTP	_	12	obl:arg	_	AlignBegin=92225|AlignEnd=92318|GE=[DIR]|RX=[POSTP]|TokenType=Clit
+6	//	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=92318|AlignEnd=92687|GE=[//]|TokenType=Break
+7	mhasi	_	PART	PTCL	_	8	advmod	_	AlignBegin=93621|AlignEnd=93829|GE=again|RX=[PTCL]|TokenType=Root
+8	areː	_	PART	PTCL	_	10	discourse	_	AlignBegin=93829|AlignEnd=94037|GE=then|RX=[PTCL]|TokenType=Root
+9	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=94037|AlignEnd=94246|GE=[/]|TokenType=Break
+10	jinaː	_	NOUN	N	Gender=Fem|Number=Plur	12	obj	_	AlignBegin=95041|AlignEnd=95277|GE=day[PL]|MGloss=day[PL]|MSeg=jin-aː|RX=[N].[F]|TokenType=Root
+11	=t	_	DET	DET	Gender=Fem	10	det	_	AlignBegin=95277|AlignEnd=95394|GE=[INDF].[F]|RX=[DET]|TokenType=Clit
+12	asni	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	14	dep:conj	_	AlignBegin=95394|AlignEnd=95630|GE=[1SG]wait\PFV|MGloss=[1SG]wait\PFV|MSeg=a-sni|RX=[PNG][V1]|TokenType=Root
+13	=t	_	CCONJ	CONJ	_	12	cc	_	AlignBegin=95630|AlignEnd=95747|GE=[COORD]|RX=[CONJ]|TokenType=Clit
+14	adgi	_	VERB	V2	Aspect=Perf|Number=Sing|VerbClass=1	0	root	_	AlignBegin=95747|AlignEnd=96100|GE=[1SG]take_back\PFV|MGloss=[1SG]take_back\PFV|MSeg=a-dgi|RX=[PNG][V1]|TokenType=Root
+15	/	_	PUNCT	PUNCT	_	14	punct	_	AlignBegin=96100|AlignEnd=96453|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_124-124
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 97579, 98515
+# phonetic_text = uːn i= bissa i- sn =heːb /
+# text = uːn i= bissa isn =heːb /
+# text_en =  this cat was waiting for me.
+1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=97579|AlignEnd=97813|GE=[PROX].[SG].[M].[NOM]|RX=[DEM]|TokenType=Root
+2	i=	_	DET	DET	Definite=Def|Gender=Masc	3	det	_	AlignBegin=97813|AlignEnd=97930|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+3	bissa	_	NOUN	N	_	4	nsubj	_	AlignBegin=97930|AlignEnd=98047|GE=cat|RX=[SBJ].[N]|TokenType=Root
+4	isn	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=98047|AlignEnd=98203|GE=[3SG].[M]wait\PFV|MGloss=[3SG].[M]wait\PFV|MSeg=i-sn|RX=[PNG][V1]|TokenType=Root
+5	=heːb	_	PRON	PRO	Number=Sing|Person=1	4	obj	_	AlignBegin=98203|AlignEnd=98281|GE=[OBJ].[1SG]|RX=[PRO]|TokenType=Clit
+6	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=98281|AlignEnd=98515|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_125-126
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 98515, 100298
+# phonetic_text = naː =t hoːj a- gam i= damaːn =i /
+# text = naː =t hoːj agam i= damaːn =i /
+# text_en =  I did not understand anything about my state,
+1	naː	_	NOUN	N	Gender=Fem	4	obl:mod	_	AlignBegin=98515|AlignEnd=98681|GE=thing|RX=[N].[F]|TokenType=Root
+2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=98681|AlignEnd=98847|GE=[INDF].[F]|RX=[DET]|TokenType=Clit
+3	hoːj	_	ADP	PRO	_	4	obl:arg	_	AlignBegin=98847|AlignEnd=99179|GE=[3DAT/ABL]|RX=[PRO]|TokenType=Root
+4	agam	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1|Voice=Mid	0	root	_	AlignBegin=99179|AlignEnd=99511|GE=[1SG]ignore\MID.PFV|MGloss=[1SG]ignore\MID.PFV|MSeg=a-gam|RX=[PNG][V1].[DER]|TokenType=Root
+5	i=	_	DET	DET	Definite=Def|Gender=Masc	6	det	_	AlignBegin=99511|AlignEnd=99622|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+6	damaːn	_	NOUN	N	Gender=Masc	4	dislocated	_	AlignBegin=99622|AlignEnd=99733|GE=time|RX=[N].[M]|TokenType=Root
+7	=i	_	PRON	PRO	Case=Nom|Number=Sing|Person=1|Poss=Yes	6	nmod:poss	_	AlignBegin=99733|AlignEnd=99843|GE=[POSS].[1SG].[NOM]|RX=[PRO]|TokenType=Clit
+8	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=99843|AlignEnd=100173|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_127-129
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 100298, 104357
+# phonetic_text = i= kina =ji han i= tak -i ginha =eːb / i= maːl =i wi= iː- biri =i daːj -jaː /
+# text = i= kna =ji han i= taki ginh =eːb / i= maːl =i wi= iːbri =i daːja /
+# text_en = even all the fortune I had were the man's debts.
+1	i=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=100298|AlignEnd=100407|GE=[DEF].[SG].[M]|RX=[DET]|TokenType=Clit
+2	kna	_	PRON	PRO	Reflex=Yes	4	discourse	_	AlignBegin=100407|AlignEnd=100516|GE=owner|RX=[PRO].[REFL]|TokenType=Root
+3	=ji	_	PRON	PRO	Case=Nom|Number=Sing|Person=1|Poss=Yes	2	nmod:poss	_	AlignBegin=100516|AlignEnd=100626|GE=[POSS].[1SG].[NOM]|RX=[PRO]|TokenType=Clit
+4	han	_	PART	PTCL	_	6	discourse	_	AlignBegin=100626|AlignEnd=100954|GE=also|RX=[PTCL].[FOC]|TokenType=Root
+5	i=	_	DET	DET	Definite=Def|Gender=Masc	6	det	_	AlignBegin=100954|AlignEnd=101063|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+6	taki	_	NOUN	N	Gender=Masc	7	nmod	_	AlignBegin=101063|AlignEnd=101282|GE=man[GEN]|MGloss=man[GEN]|MSeg=tak-i|RX=[SBJ].[N].[M][CASE]|TokenType=Root
+7	ginh	_	NOUN	N	Gender=Masc|Number=Plur	8	dep:comp	_	AlignBegin=101282|AlignEnd=101446|GE=chest|RX=[N].[PL].[M]|TokenType=Root
+8	=eːb	_	ADP	POSTP	Case=Loc|Number=Plur	16	obl:arg	_	AlignBegin=101446|AlignEnd=101610|GE=[LOC].[PL]|RX=[POSTP]|TokenType=Clit
+9	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=101610|AlignEnd=101940|GE=[/]|TokenType=Break
+10	i=	_	DET	DET	Definite=Def|Gender=Masc	11	det	_	AlignBegin=101940|AlignEnd=102084|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+11	maːl	_	NOUN	N	Gender=Masc	16	nsubj	_	AlignBegin=102084|AlignEnd=102228|GE=treasure|RX=[N].[M].[BORR].[ARA]|TokenType=Root
+12	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	11	nmod:poss	_	AlignBegin=102228|AlignEnd=102373|GE=[POSS].[1SG].[ACC]|RX=[PRO]|TokenType=Clit
+13	wi=	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	14	mark	_	AlignBegin=102373|AlignEnd=102481|GE=[REL].[SG].[M]|RX=[CONJ]|TokenType=Clit
+14	iːbri	_	VERB	V1	Aspect=Aor|Number=Sing|VerbClass=1	11	acl:relcl	_	AlignBegin=102481|AlignEnd=102697|GE=[1SG]have\AOR|MGloss=[1SG]have\AOR|MSeg=iː-bri|RX=[PNG][V1].[IRG]|TokenType=Root
+15	=i	_	SCONJ	CONJ.REL	PronType=Rel	14	dep:comp	_	AlignBegin=102697|AlignEnd=102806|GE=[REL]|RX=[CONJ]|TokenType=Clit
+16	daːja	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	0	root	_	AlignBegin=102806|AlignEnd=103239|GE=be_there[PFV].[3SG].[M]|MGloss=be_there[PFV].[3SG].[M]|MSeg=daː-ja|RX=[V2][TAM].[PNG]|TokenType=Root
+17	/	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=103239|AlignEnd=103671|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_130-140
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 104357, 113282
+# phonetic_text = ahaː / uː= nifʔa wi= iː- biri =eː / ti= sak -i =i gallab -tan =oː =hoːb // haːda~doːj -eː / tak ʃarif // oːn ʃaːtaːj / iː- fi -ina =aj / dhaːj jʔ -an =ajt //
+# text = ahaː / uː= nfʔa wi= iːbri =eː / ti= sak =ji gallabtan =oː =hoːb // haːda~doːjeː / tak ʃarif // oːn ʃaːtaːj / iːfiina =j / dhaːj jʔan =ajt //
+# text_en =  Hum, When I could not know what to do about the fortune I had,  as I was wandering, I came towards a man from the Ashraf tribe who was in the area of Shatay.
+1	ahaː	_	INTJ	_	_	4	discourse	_	AlignBegin=104357|AlignEnd=104549|GE=ahaː|RX=[FILL]|TokenType=Root
+2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=104549|AlignEnd=104741|GE=[/]|TokenType=Break
+3	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	det	_	AlignBegin=104741|AlignEnd=104929|GE=[DEF].[SG].[M].[NOM]|RX=[DET]|TokenType=Clit
+4	nfʔa	_	NOUN	N	Gender=Masc	12	obj	_	AlignBegin=104929|AlignEnd=105116|GE=fortune|RX=[SBJ].[N].[M]|TokenType=Root
+5	wi=	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	6	mark	_	AlignBegin=105116|AlignEnd=105210|GE=[REL].[SG].[M]|RX=[CONJ]|TokenType=Clit
+6	iːbri	_	VERB	V1	Aspect=Aor|Number=Sing|VerbClass=1	4	acl:relcl	_	AlignBegin=105210|AlignEnd=105398|GE=[1SG]have\AOR|MGloss=[1SG]have\AOR|MSeg=iː-bri|RX=[PNG][V1].[IRG]|TokenType=Root
+7	=eː	_	SCONJ	POSTP	_	6	dep:comp	_	AlignBegin=105398|AlignEnd=105491|GE=[REL]|RX=[CONJ]|TokenType=Clit
+8	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=105491|AlignEnd=105865|GE=[/]|TokenType=Break
+9	ti=	_	DET	REL	Definite=Def|Gender=Fem	10	det	_	AlignBegin=106305|AlignEnd=106422|GE=[DEF].[F]|RX=[DET]|TokenType=Clit
+10	sak	_	NOUN	V2	_	12	nsubj	_	AlignBegin=106422|AlignEnd=106539|GE=do\N.AC|RX=[N.][V].[F]|TokenType=Root
+11	=ji	_	PRON	TAM.PNG	Case=Gen|Number=Sing|Person=1	10	nmod:poss	_	AlignBegin=106539|AlignEnd=106656|GE=[POSS].[1SG].[GEN]|RX=[PRO]|TokenType=Clit
+12	gallabtan	_	VERB	V2	Gender=Fem|Number=Sing|VerbClass=2	16	acl	_	AlignBegin=106773|AlignEnd=107007|GE=tire_out[PFV].[3SG].[F]|MGloss=tire_out[PFV].[3SG].[F]|MSeg=gallab-tan|RX=[V2][TAM].[PNG]|TokenType=Root
+13	=oː	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	12	obj	_	AlignBegin=107007|AlignEnd=107124|GE=[OBJ].[1SG]|RX=[PRO]|TokenType=Clit
+14	=hoːb	_	SCONJ	CONJ	_	12	mark	_	AlignBegin=107124|AlignEnd=107241|GE=when|RX=[CONJ]|TokenType=Clit
+15	//	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=107241|AlignEnd=107708|GE=[//]|TokenType=Break
+16	haːda~doːjeː	_	NOUN	V2	_	28	obl:mod	_	AlignBegin=107708|AlignEnd=108033|GE=[wander~PLAC][CVB].[SMLT]|MGloss=[wander~PLAC][CVB].[SMLT]|MSeg=haːda~doːj-eː|RX=[V2].[DER]|TokenType=Root
+17	/	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=108033|AlignEnd=108358|GE=[/]|TokenType=Break
+18	tak	_	NOUN	N	Gender=Masc	27	obl:arg	_	AlignBegin=108949|AlignEnd=109257|GE=man|RX=[N].[M]|TokenType=Root
+19	ʃarif	_	PROPN	N	_	18	appos	_	AlignBegin=109257|AlignEnd=109565|GE=[Ashraf]|RX=[N].[PROP]|TokenType=Root
+20	//	_	PUNCT	PUNCT	_	19	punct	_	AlignBegin=109565|AlignEnd=109873|GE=[//]|TokenType=Break
+21	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	22	det	_	AlignBegin=110348|AlignEnd=110597|GE=[PROX].[SG].[M].[ACC]|RX=[DEM]|TokenType=Root
+22	ʃaːtaːj	_	PROPN	N	_	24	obj	_	AlignBegin=110597|AlignEnd=110846|GE=[Shatay]|RX=[N].[PROP]|TokenType=Root
+23	/	_	PUNCT	PUNCT	_	22	punct	_	AlignBegin=110846|AlignEnd=111094|GE=[/]|TokenType=Break
+24	iːfiina	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	19	acl:relcl	_	AlignBegin=111094|AlignEnd=111328|GE=[3]be_there\AOR[PL]|MGloss=[3]be_there\AOR[PL]|MSeg=iː-fi-ina|RX=[PNG][V1].[IRG][PNG]|TokenType=Root
+25	=j	_	SCONJ	CONJ	_	24	mark	_	AlignBegin=111328|AlignEnd=111406|GE=[REL]|RX=[CONJ]|TokenType=Clit
+26	/	_	PUNCT	PUNCT	_	24	punct	_	AlignBegin=111406|AlignEnd=111717|GE=[/]|TokenType=Break
+27	dhaːj	_	ADP	POSTP	_	28	obl:arg	_	AlignBegin=111717|AlignEnd=111927|GE=[DIR]|RX=[POSTP]|TokenType=Root
+28	jʔan	_	VERB	V2	Number=Sing|VerbClass=2	0	root	_	AlignBegin=111927|AlignEnd=112067|GE=come[PFV].[1SG]|MGloss=come[PFV].[1SG]|MSeg=jʔ-an|RX=[V2].[IRG][TAM].[PNG]|TokenType=Root
+29	=ajt	_	SCONJ	CONJ	_	28	dep:conj	_	AlignBegin=112067|AlignEnd=112137|GE=[CSL]|RX=[CONJ]|TokenType=Clit
+30	//	_	PUNCT	PUNCT	_	29	punct	_	AlignBegin=112137|AlignEnd=112347|GE=[//]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_142-149
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 113283, 119310
+# phonetic_text = jaː iraːni / bak tʔi -it =eː =na i- ni =hoːb jhaː / oːn oː= gaw suːriː / dhaj hanka =oːk // hoːj ak -aː =b =a /
+# text = jaː iraːni / bak tʔiit =eː =na ini =hoːb jhaː / oːn oː= gaw suːriː / dhaj hanka =oːk // hoːj akaː =b =a /
+# text_en = Gosh! when he said something like that: "Hey! Formerly, people were living in this house before you.
+1	jaː	_	PART	PTCL	_	2	dep:comp	_	AlignBegin=113283|AlignEnd=113463|GE=[ADRF]|RX=[PTCL]|TokenType=Root
+2	iraːni	_	INTJ	_	_	5	vocative	_	AlignBegin=113463|AlignEnd=113643|GE=gosh|RX=[EXCL]|TokenType=Root
+3	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=113643|AlignEnd=113822|GE=[/]|TokenType=Break
+4	bak	_	PART	DEICT	_	5	advmod	_	AlignBegin=113822|AlignEnd=114069|GE=thus|RX=[DEICT].[MNR]|TokenType=Root
+5	tʔiit	_	NOUN	V1	_	6	dep:comp	_	AlignBegin=114069|AlignEnd=114193|GE=resemble[VN]|MGloss=resemble[VN]|MSeg=tʔi-it|RX=[V1].[IRG][N].[V]|TokenType=Root
+6	=eː	_	SCONJ	CONJ.REL	PronType=Rel	7	acl:relcl	_	AlignBegin=114193|AlignEnd=114255|GE=[REL]|RX=[CONJ]|TokenType=Clit
+7	=na	_	NOUN	CONJ	_	8	obj	_	AlignBegin=114255|AlignEnd=114316|GE=thing|RX=[N.F]|TokenType=Clit
+8	ini	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	9	dep:comp	_	AlignBegin=114316|AlignEnd=114480|GE=[3SG].[M]say\PFV|MGloss=[3SG].[M]say\PFV|MSeg=i-ni|RX=[PNG][V1].[IRG]|TokenType=Root
+9	=hoːb	_	SCONJ	CONJ	_	22	dep	_	AlignBegin=114480|AlignEnd=114563|GE=when|RX=[CONJ]|TokenType=Clit
+10	jhaː	_	PART	PTCL	Gender=Masc|Number=Sing	22	vocative	_	AlignBegin=114563|AlignEnd=114810|GE=[ADRF].[SG].[M]|RX=[PTCL]|TokenType=Root
+11	/	_	PUNCT	PUNCT	_	10	punct	_	AlignBegin=114810|AlignEnd=115059|GE=[/]|TokenType=Break
+12	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	AlignBegin=115345|AlignEnd=115617|GE=[PROX].[SG].[M].[ACC]|RX=[DEM]|TokenType=Root
+13	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	14	det	_	AlignBegin=115617|AlignEnd=115753|GE=[DEF].[SG].[M].[ACC]|RX=[DET]|TokenType=Clit
+14	gaw	_	NOUN	N	Gender=Masc	22	obj	_	AlignBegin=115753|AlignEnd=115889|GE=house|RX=[N].[M]|TokenType=Root
+15	suːriː	_	ADV	ADV	_	22	advmod	_	AlignBegin=115889|AlignEnd=116161|GE=before|RX=[ADV]|TokenType=Root
+16	/	_	PUNCT	PUNCT	_	15	punct	_	AlignBegin=116161|AlignEnd=116432|GE=[/]|TokenType=Break
+17	dhaj	_	NOUN	N	Gender=Masc|Number=Coll	22	nsubj	_	AlignBegin=116832|AlignEnd=117129|GE=people|RX=[SBJ].[N].[COL].[M]|TokenType=Root
+18	hanka	_	ADP	POSTP	_	22	discourse	_	AlignBegin=117129|AlignEnd=117277|GE=before|RX=[POSTP]|TokenType=Root
+19	=oːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	18	dep:comp	_	AlignBegin=117277|AlignEnd=117426|GE=[POSS].[2SG].[ACC]|RX=[PRO]|TokenType=Clit
+20	//	_	PUNCT	PUNCT	_	18	punct	_	AlignBegin=117426|AlignEnd=117723|GE=[//]|TokenType=Break
+21	hoːj	_	ADP	PRO	_	22	obl:arg	_	AlignBegin=117723|AlignEnd=118011|GE=[3DAT/ABL]|RX=[PRO]|TokenType=Root
+22	akaː	_	VERB	V1	VerbClass=1	0	root	_	AlignBegin=118011|AlignEnd=118155|GE=become[CVB].[MNR]|MGloss=become[CVB].[MNR]|MSeg=ak-aː|RX=[V1].[IRG][PRF]|TokenType=Root
+23	=b	_	DET	DET	Case=Acc|Gender=Masc	22	det	_	AlignBegin=118155|AlignEnd=118227|GE=[INDF].[M].[ACC]|RX=[DET]|TokenType=Clit
+24	=a	_	AUX	N.COP	Number=Plur|Person=3|VerbType=Cop	22	cop	_	AlignBegin=118227|AlignEnd=118299|GE=[COP].[3PL]|RX=[PRED].[N]|TokenType=Clit
+25	/	_	PUNCT	PUNCT	_	22	punct	_	AlignBegin=118299|AlignEnd=118588|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_150-156
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 119310, 123057
+# phonetic_text = umbaruːk // ʔakr -a ginʔ =iː / i= tak -i ginha =eːb / ti- bari =jeː =na baː= raːt -a /
+# text = umbaruːk // ʔakra ginʔ =iː / i= taki ginha =eːb / tibari =jeː =na baː= raːta /
+# text_en = You, by all means, don't try to get your debts paid! (lit. don't look for what you have in the man's chest!)
+1	umbaruːk	_	PRON	PRO	Case=Nom|Gender=Masc|Number=Sing|Person=2	16	dislocated:subj	_	AlignBegin=119310|AlignEnd=119620|GE=[2SG].[M].[NOM]|RX=[SBJ].[PRO]|TokenType=Root
+2	//	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=119620|AlignEnd=119929|GE=[//]|TokenType=Break
+3	ʔakra	_	VERB	V1	VerbClass=1	4	acl	_	AlignBegin=120040|AlignEnd=120288|GE=be_strong[CVB].[MNR]|MGloss=be_strong[CVB].[MNR]|MSeg=ʔakr-a|RX=[V1]|TokenType=Root
+4	ginʔ	_	NOUN	N	Gender=Masc	5	dep:comp	_	AlignBegin=120288|AlignEnd=120412|GE=heart|RX=[N].[M]|TokenType=Root
+5	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	8	discourse	_	AlignBegin=120412|AlignEnd=120536|GE=[ABL].[SG]|RX=[POSTP]|TokenType=Clit
+6	/	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=120536|AlignEnd=120785|GE=[/]|TokenType=Break
+7	i=	_	DET	DET	Definite=Def|Gender=Masc	8	det	_	AlignBegin=120988|AlignEnd=121071|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+8	taki	_	NOUN	N	Gender=Masc	9	nmod	_	AlignBegin=121071|AlignEnd=121238|GE=man[GEN]|MGloss=man[GEN]|MSeg=tak-i|RX=[N].[M][CASE]|TokenType=Root
+9	ginha	_	NOUN	N	Gender=Masc|Number=Plur	10	dep:comp	_	AlignBegin=121238|AlignEnd=121363|GE=chest|RX=[N].[PL].[M]|TokenType=Root
+10	=eːb	_	ADP	POSTP	Case=Loc|Number=Plur	16	obl:arg	_	AlignBegin=121363|AlignEnd=121488|GE=[LOC].[PL]|RX=[POSTP]|TokenType=Clit
+11	/	_	PUNCT	PUNCT	_	10	punct	_	AlignBegin=121488|AlignEnd=121737|GE=[/]|TokenType=Break
+12	tibari	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	14	acl:relcl	_	AlignBegin=121840|AlignEnd=122044|GE=[2SG].[M]have|MGloss=[2SG].[M]have|MSeg=ti-bari|RX=[PNG][V1].[IRG]|TokenType=Root
+13	=jeː	_	SCONJ	CONJ.REL	PronType=Rel	12	mark	_	AlignBegin=122044|AlignEnd=122146|GE=[REL]|RX=[CONJ]|TokenType=Clit
+14	=na	_	NOUN	CONJ	_	16	obj	_	AlignBegin=122146|AlignEnd=122246|GE=thing|RX=[N.F]|TokenType=Clit
+15	baː=	_	PART	PTCL	Mood=Imp|Polarity=Neg	16	advmod	_	AlignBegin=122246|AlignEnd=122381|GE=[NEG].[PROH]|RX=[PTCL]|TokenType=Clit
+16	raːta	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	0	root	_	AlignBegin=122381|AlignEnd=122652|GE=ask[IMP].[SG].[M]|MGloss=ask[IMP].[SG].[M]|MSeg=raːt-a|RX=[V2][TAM].[PNG]|TokenType=Root
+17	/	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=122652|AlignEnd=123057|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_157-160
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 123057, 128097
+# phonetic_text = oː= tak wʔi= mitja -ti =ji / uː= dhaj suːriː hoːj gʷirija -am -iːn =i / tak =u ʤaːntaːji =b =u /
+# text = oː= tak wʔi= mitjati =ji / uː= dhaj suːriː hoːj gʷirijaamiːn =i / tak =u
+# text_en = The man whom you described, formerly, it was a man about whom people complained,
+1	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=123057|AlignEnd=123271|GE=[DEF].[SG].[M].[ACC]|RX=[DET]|TokenType=Clit
+2	tak	_	NOUN	N	Gender=Masc	11	dislocated	_	AlignBegin=123271|AlignEnd=123485|GE=man|RX=[N].[M]|TokenType=Root
+3	wʔi=	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	4	dep:comp	_	AlignBegin=123485|AlignEnd=123592|GE=[REL].[SG].[M]|RX=[CONJ]|TokenType=Clit
+4	mitjati	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	2	acl:relcl	_	AlignBegin=123592|AlignEnd=123806|GE=describe[AOR].[2SG].[M]|MGloss=describe[AOR].[2SG].[M]|MSeg=mitja-ti|RX=[V2][TAM].[PNG]|TokenType=Root
+5	=ji	_	SCONJ	CONJ.REL	PronType=Rel	4	mark	_	AlignBegin=123806|AlignEnd=123913|GE=[REL]|RX=[CONJ]|TokenType=Clit
+6	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=123913|AlignEnd=124342|GE=[/]|TokenType=Break
+7	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	det	_	AlignBegin=124786|AlignEnd=124952|GE=[DEF].[SG].[M].[NOM]|RX=[DET]|TokenType=Clit
+8	dhaj	_	NOUN	N	Gender=Masc|Number=Coll	11	nsubj	_	AlignBegin=124952|AlignEnd=125117|GE=people|RX=[SBJ].[N].[COL].[M]|TokenType=Root
+9	suːriː	_	ADV	ADV	_	11	advmod	_	AlignBegin=125117|AlignEnd=125448|GE=before|RX=[ADV]|TokenType=Root
+10	hoːj	_	ADP	PRO	_	11	obl:arg	_	AlignBegin=125448|AlignEnd=125779|GE=[3DAT/ABL]|RX=[PRO]|TokenType=Root
+11	gʷirijaamiːn	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	14	acl:relcl	_	AlignBegin=125779|AlignEnd=126028|GE=complain[MID][IPFV].[3SG].[M]|MGloss=complain[MID][IPFV].[3SG].[M]|MSeg=gʷirija-am-iːn|RX=[V2][V2].[DER][TAM].[PNG]|TokenType=Root
+12	=i	_	SCONJ	CONJ.REL	PronType=Rel	11	mark	_	AlignBegin=126028|AlignEnd=126110|GE=[REL]|RX=[CONJ]|TokenType=Clit
+13	/	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=126110|AlignEnd=126439|GE=[/]|TokenType=Break
+14	tak	_	NOUN	N	Gender=Masc	0	root	_	AlignBegin=126439|AlignEnd=126643|GE=man|RX=[N].[M]|TokenType=Root
+15	=u	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	14	cop	_	AlignBegin=126643|AlignEnd=126846|GE=[COP].[3SG]|RX=[PRED].[N]|TokenType=Clit
+
+# sent_id = BEJ_MV_NARR_04_djinn_160-161
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 123057, 128097
+# phonetic_text = oː= tak wʔi= mitja -ti =ji / uː= dhaj suːriː hoːj gʷirija -am -iːn =i / tak =u ʤaːntaːji =b =u /
+# text = ʤaːntaːji =b =u /
+# text_en =  it was a jinni.
+1	ʤaːntaːji	_	NOUN	N	_	0	root	_	AlignBegin=126846|AlignEnd=126982|GE=jinni|RX=[N]|TokenType=Root
+2	=b	_	DET	DET	Case=Acc|Gender=Masc	1	det	_	AlignBegin=126982|AlignEnd=127118|GE=[INDF].[M].[ACC]|RX=[DET]|TokenType=Clit
+3	=u	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	1	cop	_	AlignBegin=127118|AlignEnd=127253|GE=[COP].[3SG]|RX=[PRED].[N]|TokenType=Clit
+4	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=127253|AlignEnd=127661|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_162-162
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 128097, 131122
+# phonetic_text = ɖa~ɖib -ti =eːk wari =t hariw -a naː =t teː- t- giːm =eːk /
+# text = ɖa~ɖibti =eːk wari =t hariwa naː =t teːtgiːm =eːk /
+# text_en =  Look for another job for you, since you can't do anything else.
+1	ɖa~ɖibti	_	VERB	V2	VerbClass=2	5	ccomp	_	AlignBegin=128097|AlignEnd=128381|GE=[PLAC~fall][N].[AC]|MGloss=[PLAC~fall][N].[AC]|MSeg=ɖa~ɖib-ti|RX=[V2].[DER][N].[V]|TokenType=Root
+2	=eːk	_	PRON	PRO	Case=Acc|Number=Plur|Person=2|Poss=Yes	1	obl:mod	_	AlignBegin=128381|AlignEnd=128522|GE=[POSS].[2PL].[ACC]|RX=[PRO]|TokenType=Clit
+3	wari	_	NOUN	N	_	1	obl:mod	_	AlignBegin=128522|AlignEnd=128734|GE=other|RX=[N]|TokenType=Root
+4	=t	_	DET	DET	Gender=Fem	3	det	_	AlignBegin=128734|AlignEnd=128947|GE=[INDF].[F]|RX=[DET]|TokenType=Clit
+5	hariwa	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=128947|AlignEnd=129372|GE=seek[IMP].[SG].[M]|MGloss=seek[IMP].[SG].[M]|MSeg=hariw-a|RX=[V1][TAM].[PNG]|TokenType=Root
+6	naː	_	NOUN	N	Gender=Fem	8	obj	_	AlignBegin=129372|AlignEnd=129584|GE=thing|RX=[N].[F]|TokenType=Root
+7	=t	_	DET	DET	Gender=Fem	6	det	_	AlignBegin=129584|AlignEnd=129797|GE=[INDF].[F]|RX=[DET]|TokenType=Clit
+8	teːtgiːm	_	VERB	V1	Aspect=Imp|Number=Sing|VerbClass=1	9	dep:comp	_	AlignBegin=129797|AlignEnd=130115|GE=[2SG][MID]ignore\IPFV|MGloss=[2SG][MID]ignore\IPFV|MSeg=teː-t-giːm|RX=[PNG][V1].[DER][V1]|TokenType=Root
+9	=eːk	_	SCONJ	CONJ	_	5	dislocated:mod	_	AlignBegin=130115|AlignEnd=130222|GE=if|RX=[CONJ]|TokenType=Clit
+10	/	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=130222|AlignEnd=130648|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_164-166
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 131123, 133148
+# phonetic_text = i= tak -i ginha =eːb / ti- bari =jeː =na baː= hariw -a /
+# text = i= taki ginha =eːb / tibari =jeː =na baː= hariwa /
+# text_en =  don't try to get your debts paid! (lit. don't look for what you have in the man's chest!)
+1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=131123|AlignEnd=131196|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+2	taki	_	NOUN	N	Gender=Masc	3	nmod	_	AlignBegin=131196|AlignEnd=131341|GE=man[GEN]|MGloss=man[GEN]|MSeg=tak-i|RX=[N].[M][CASE]|TokenType=Root
+3	ginha	_	NOUN	N	Gender=Masc|Number=Plur	10	obl:arg	_	AlignBegin=131341|AlignEnd=131450|GE=chest|RX=[N].[PL].[M]|TokenType=Root
+4	=eːb	_	ADP	POSTP	Case=Loc|Number=Plur	3	case	_	AlignBegin=131450|AlignEnd=131559|GE=[LOC].[PL]|RX=[POSTP]|TokenType=Clit
+5	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=131559|AlignEnd=131777|GE=[/]|TokenType=Break
+6	tibari	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	8	acl:relcl	_	AlignBegin=131777|AlignEnd=131977|GE=[2SG].[M]have\IPFV|MGloss=[2SG].[M]have\IPFV|MSeg=ti-bari|RX=[PNG][V1].[IRG]|TokenType=Root
+7	=jeː	_	SCONJ	CONJ.REL	PronType=Rel	6	mark	_	AlignBegin=131977|AlignEnd=132077|GE=[REL]|RX=[CONJ]|TokenType=Clit
+8	=na	_	NOUN	CONJ	_	10	obj	_	AlignBegin=132077|AlignEnd=132179|GE=thing|RX=[N.F]|TokenType=Clit
+9	baː=	_	PART	PTCL	Mood=Imp|Polarity=Neg	10	advmod	_	AlignBegin=132179|AlignEnd=132313|GE=[NEG].[PROH]|RX=[PTCL]|TokenType=Clit
+10	hariwa	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=132313|AlignEnd=132581|GE=seek[IMP].[SG].[M]|MGloss=seek[IMP].[SG].[M]|MSeg=hariw-a|RX=[V1][TAM].[PNG]|TokenType=Root
+11	/	_	PUNCT	PUNCT	_	10	punct	_	AlignBegin=132581|AlignEnd=132982|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_168-171
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 134057, 138736
+# phonetic_text = baroːk i= kina =joːk i= ʃuːk =eːk sallam -jaːn =hoːb // ti- firʔa =jaː i- d =heːb i- ni //
+# text = baroːk i= kna =joːk i= ʃuːk =eːk sallamjaːn =hoːb // tifirʔa =jaː id =heːb ini //
+# text_en = Since nothing happened to you (lit. when they (the jinns) gave your soul)
+1	baroːk	_	PRON	PRO	Case=Acc|Gender=Masc|Number=Sing|Person=2	8	obj	_	AlignBegin=134057|AlignEnd=134504|GE=[2SG].[M].[ACC]|RX=[PRO]|TokenType=Root
+2	i=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=134504|AlignEnd=134653|GE=[DEF].[SG].[M]|RX=[DET]|TokenType=Clit
+3	kna	_	PRON	PRO	Reflex=Yes	1	discourse	_	AlignBegin=134653|AlignEnd=134802|GE=owner|RX=[PRO].[REFL]|TokenType=Root
+4	=joːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	3	nmod:poss	_	AlignBegin=134802|AlignEnd=134951|GE=[POSS].[2SG].[ACC]|RX=[PRO]|TokenType=Clit
+5	i=	_	DET	DET	Definite=Def|Gender=Masc	6	det	_	AlignBegin=134951|AlignEnd=135100|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+6	ʃuːk	_	NOUN	N	Gender=Masc|Number=Plur	8	obj	_	AlignBegin=135100|AlignEnd=135249|GE=soul|RX=[N].[PL].[M]|TokenType=Root
+7	=eːk	_	PRON	PRO	Case=Acc|Number=Plur|Person=2|Poss=Yes	6	nmod:poss	_	AlignBegin=135249|AlignEnd=135398|GE=[POSS].[2PL].[ACC]|RX=[PRO]|TokenType=Clit
+8	sallamjaːn	_	VERB	V2	Number=Plur|VerbClass=2	11	advcl	_	AlignBegin=135398|AlignEnd=135696|GE=give[PFV].[3PL]|MGloss=give[PFV].[3PL]|MSeg=sallam-jaːn|RX=[V2][TAM].[PNG]|TokenType=Root
+9	=hoːb	_	SCONJ	CONJ	_	8	mark	_	AlignBegin=135696|AlignEnd=135845|GE=when|RX=[CONJ]|TokenType=Clit
+10	//	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=135845|AlignEnd=136290|GE=[//]|TokenType=Break
+11	tifirʔa	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1|Voice=Mid	13	parataxis	_	AlignBegin=136907|AlignEnd=137115|GE=[2SG].[M]take_out\MID.PFV|MGloss=[2SG].[M]take_out\MID.PFV|MSeg=ti-firʔa|RX=[PNG][V1].[DER]|TokenType=Root
+12	=jaː	_	PART	PTCL	_	11	discourse	_	AlignBegin=137115|AlignEnd=137219|GE=[EMPH]|RX=[PTCL]|TokenType=Clit
+13	id	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=137219|AlignEnd=137427|GE=[3SG].[M]say\PFV|MGloss=[3SG].[M]say\PFV|MSeg=i-d|RX=[PNG][V1].[IRG]|TokenType=Root
+14	=heːb	_	PRON	PRO	Number=Sing|Person=1	13	obj	_	AlignBegin=137427|AlignEnd=137531|GE=[OBJ].[1SG]|RX=[PRO]|TokenType=Clit
+15	ini	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	13	discourse	_	AlignBegin=137531|AlignEnd=137843|GE=[3SG].[M]say\PFV|MGloss=[3SG].[M]say\PFV|MSeg=i-ni|RX=[PNG][V1].[IRG]|TokenType=Root
+16	//	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=137843|AlignEnd=138153|GE=[//]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_172-174
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 138736, 141614
+# phonetic_text = i= gaw =i ʔiːbaːb -an =t / ʔiʃ ɖa~ɖib =i wari =b ɖa~ɖib -an /
+# text = i= gaw =i ʔiːbaːban =t / ʔiʃ ɖa~ɖib =i wari =b ɖa~ɖiban /
+# text_en =  I travelled back home and I abandoned my business for others,
+1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=138736|AlignEnd=138865|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+2	gaw	_	NOUN	N	Gender=Masc	4	obj	_	AlignBegin=138865|AlignEnd=138994|GE=house|RX=[N].[M]|TokenType=Root
+3	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	2	nmod:poss	_	AlignBegin=138994|AlignEnd=139122|GE=[POSS].[1SG].[ACC]|RX=[PRO]|TokenType=Clit
+4	ʔiːbaːban	_	VERB	V2	Number=Sing|VerbClass=2	12	dep:conj	_	AlignBegin=139122|AlignEnd=139380|GE=travel[PFV].[1SG]|MGloss=travel[PFV].[1SG]|MSeg=ʔiːbaːb-an|RX=[V2][TAM].[PNG]|TokenType=Root
+5	=t	_	CCONJ	CONJ	_	4	cc	_	AlignBegin=139380|AlignEnd=139508|GE=[COORD]|RX=[CONJ]|TokenType=Clit
+6	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=139508|AlignEnd=139893|GE=[/]|TokenType=Break
+7	ʔiʃ	_	VERB	V1	VerbClass=1	8	acl	_	AlignBegin=139893|AlignEnd=140201|GE=let|RX=[V1]|TokenType=Root
+8	ɖa~ɖib	_	NOUN	N	Gender=Masc	12	obj	_	AlignBegin=140201|AlignEnd=140355|GE=job|RX=[N].[M]|TokenType=Root
+9	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	8	nmod	_	AlignBegin=140355|AlignEnd=140509|GE=[POSS].[1SG].[ACC]|RX=[PRO]|TokenType=Clit
+10	wari	_	NOUN	N	_	8	nmod	_	AlignBegin=140509|AlignEnd=140663|GE=other|RX=[N]|TokenType=Root
+11	=b	_	DET	DET	Case=Acc|Gender=Masc	10	det	_	AlignBegin=140663|AlignEnd=140817|GE=[INDF].[M].[ACC]|RX=[DET]|TokenType=Clit
+12	ɖa~ɖiban	_	VERB	V2	Number=Sing|VerbClass=2	0	root	_	AlignBegin=140817|AlignEnd=141125|GE=[PLAC~fall][PFV].[1SG]|MGloss=[PLAC~fall][PFV].[1SG]|MSeg=ɖa~ɖib-an|RX=[V2].[DER][TAM].[PNG]|TokenType=Root
+13	/	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=141125|AlignEnd=141432|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_175-176
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 141614, 143823
+# phonetic_text = hoːj libaːb -an i= ɖa~ɖib =i i= raw =eːb /
+# text = hoːj libaːban i= ɖa~ɖib =i i= raw =eːb /
+# text_en =  I was pleased with the other jobs.
+1	hoːj	_	ADP	PRO	_	2	obl:arg	_	AlignBegin=141614|AlignEnd=142009|GE=[3DAT/ABL]|RX=[PRO]|TokenType=Root
+2	libaːban	_	VERB	V2	Number=Sing|VerbClass=2	0	root	_	AlignBegin=142009|AlignEnd=142404|GE=be_happy[PFV].[1SG]|MGloss=be_happy[PFV].[1SG]|MSeg=libaːb-an|RX=[V2][TAM].[PNG]|TokenType=Root
+3	i=	_	DET	DET	Definite=Def|Gender=Masc	4	det	_	AlignBegin=142404|AlignEnd=142536|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+4	ɖa~ɖib	_	NOUN	N	Gender=Masc	2	dislocated	_	AlignBegin=142536|AlignEnd=142668|GE=job|RX=[N].[M]|TokenType=Root
+5	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	4	nmod:poss	_	AlignBegin=142668|AlignEnd=142799|GE=[POSS].[1SG].[ACC]|RX=[PRO]|TokenType=Clit
+6	i=	_	DET	DET	Definite=Def|Gender=Masc	7	det	_	AlignBegin=142799|AlignEnd=142931|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+7	raw	_	NOUN	N	_	8	dep:comp	_	AlignBegin=142931|AlignEnd=143063|GE=other|RX=[N]|TokenType=Root
+8	=eːb	_	ADP	POSTP	Case=Loc|Number=Plur	4	dep	_	AlignBegin=143063|AlignEnd=143194|GE=[LOC].[PL]|RX=[POSTP]|TokenType=Clit
+9	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=143194|AlignEnd=143591|GE=[/]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_177-187
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 143823, 150892
+# phonetic_text = ʃaːwi uːn uː= tak =wa // oːn i= gaw =hi =wa // ahaː / oː= mhiːn w= hoːj hiː -n =eːb =wa // lawwaːw -aː =b ka= a- ki // i- ni //
+# text = ʃaːwi uːn uː= tak =wa // oːn i= gaw =hi =wa // ahaː / oː= mhiːn w= hoːj hiːn =eːb =wa // lawwaːwaː =b ka= aki // ini //
+# text_en = Then, I did not prowl around the place where the house and the man were", he said.
+1	ʃaːwi	_	PART	PTCL	_	4	discourse	_	AlignBegin=143823|AlignEnd=144111|GE=then|RX=[PTCL]|TokenType=Root
+2	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	AlignBegin=144111|AlignEnd=144399|GE=[PROX].[SG].[M].[NOM]|RX=[DEM]|TokenType=Root
+3	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	det	_	AlignBegin=144399|AlignEnd=144495|GE=[DEF].[SG].[M].[NOM]|RX=[DET]|TokenType=Clit
+4	tak	_	NOUN	N	Gender=Masc	19	dep:conj	_	AlignBegin=144495|AlignEnd=144591|GE=man|RX=[N].[M]|TokenType=Root
+5	=wa	_	CCONJ	CONJ	_	4	cc	_	AlignBegin=144591|AlignEnd=144687|GE=[COORD]|RX=[CONJ]|TokenType=Clit
+6	//	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=144687|AlignEnd=144973|GE=[//]|TokenType=Break
+7	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	AlignBegin=144973|AlignEnd=145325|GE=[PROX].[SG].[M].[ACC]|RX=[DEM]|TokenType=Root
+8	i=	_	DET	DET	Definite=Def|Gender=Masc	9	det	_	AlignBegin=145325|AlignEnd=145413|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+9	gaw	_	NOUN	N	Gender=Masc	19	dep:conj	_	AlignBegin=145413|AlignEnd=145501|GE=house|RX=[N].[M]|TokenType=Root
+10	=hi	_	PRON	PRO	Case=Gen|Poss=Yes	9	nmod:poss	_	AlignBegin=145501|AlignEnd=145589|GE=[POSS].[3ACC]|RX=[PRO]|TokenType=Clit
+11	=wa	_	CCONJ	CONJ	_	9	cc	_	AlignBegin=145589|AlignEnd=145677|GE=[COORD]|RX=[CONJ]|TokenType=Clit
+12	//	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=145677|AlignEnd=146028|GE=[//]|TokenType=Break
+13	ahaː	_	INTJ	_	_	16	discourse	_	AlignBegin=146516|AlignEnd=146710|GE=ahaː|RX=[FILL]|TokenType=Root
+14	/	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=146710|AlignEnd=146904|GE=[/]|TokenType=Break
+15	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	16	det	_	AlignBegin=147015|AlignEnd=147168|GE=[DEF].[SG].[M].[ACC]|RX=[DET]|TokenType=Clit
+16	mhiːn	_	NOUN	N	Gender=Masc	23	obj	_	AlignBegin=147168|AlignEnd=147321|GE=place|RX=[N].[M]|TokenType=Root
+17	w=	_	SCONJ	REL	Definite=Def|Gender=Masc|Number=Sing|PronType=Rel	19	mark	_	AlignBegin=147321|AlignEnd=147474|GE=[DEF].[SG].[M]|RX=[REL]|TokenType=Clit
+18	hoːj	_	ADP	PRO	_	19	obl:arg	_	AlignBegin=147474|AlignEnd=147627|GE=[LOC]|RX=[POSTP]|TokenType=Root
+19	hiːn	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	16	acl:relcl	_	AlignBegin=147627|AlignEnd=147779|GE=be_there\AOR[3PL]|MGloss=be_there\AOR[3PL]|MSeg=hiː-n|RX=[V1].[IRG][PNG]|TokenType=Root
+20	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	19	dep:comp	_	AlignBegin=147779|AlignEnd=147855|GE=[REL].[M]|RX=[CONJ]|TokenType=Clit
+21	=wa	_	CCONJ	CONJ	_	20	cc	_	AlignBegin=147855|AlignEnd=147933|GE=[COORD]|RX=[CONJ]|TokenType=Clit
+22	//	_	PUNCT	PUNCT	_	19	punct	_	AlignBegin=147933|AlignEnd=148241|GE=[//]|TokenType=Break
+23	lawwaːwaː	_	VERB	V2	VerbClass=2	28	parataxis	_	AlignBegin=148458|AlignEnd=148756|GE=prowl[CVB].[MNR]|MGloss=prowl[CVB].[MNR]|MSeg=lawwaːw-aː|RX=[V2][PRF]|TokenType=Root
+24	=b	_	DET	DET	Case=Acc|Gender=Masc	23	det	_	AlignBegin=148756|AlignEnd=148904|GE=[INDF].[M].[ACC]|RX=[DET]|TokenType=Clit
+25	ka=	_	PART	PTCL	Aspect=Imp|Polarity=Neg	23	advmod	_	AlignBegin=148904|AlignEnd=149053|GE=[NEG].[IPFV]|RX=[PTCL]|TokenType=Clit
+26	aki	_	AUX	AUX	Aspect=Perf|Number=Sing	23	aux	_	AlignBegin=149053|AlignEnd=149350|GE=[1SG]become\PFV|MGloss=[1SG]become\PFV|MSeg=a-ki|RX=[PNG][AUX].[NEG]|TokenType=Root
+27	//	_	PUNCT	PUNCT	_	23	punct	_	AlignBegin=149350|AlignEnd=149795|GE=[//]|TokenType=Break
+28	ini	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=149920|AlignEnd=150044|GE=[3SG].[M]say\PFV|MGloss=[3SG].[M]say\PFV|MSeg=i-ni|RX=[PNG][V1].[IRG]|TokenType=Root
+29	//	_	PUNCT	PUNCT	_	28	punct	_	AlignBegin=150044|AlignEnd=150167|GE=[//]|TokenType=Break
+
+# sent_id = BEJ_MV_NARR_04_djinn_188-189
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
+# sent_timecode = 150892, 153929
+# phonetic_text = ʔamaːr =oːn baː= kʷaːs -a / samaːr =oːn //
+# text = ʔamaːr =oːn baː= kʷaːsa / samaːr =oːn //
+# text_en =  Let it not be our possessions our offsprings!
+1	ʔamaːr	_	NOUN	N	Gender=Masc	4	obj	_	AlignBegin=150892|AlignEnd=151128|GE=possessions|RX=[N].[M]|TokenType=Root
+2	=oːn	_	PRON	PRO	Case=Acc|Number=Plur|Person=1|Poss=Yes	1	nmod:poss	_	AlignBegin=151128|AlignEnd=151364|GE=[POSS].[1PL].[ACC]|RX=[PRO]|TokenType=Clit
+3	baː=	_	PART	PTCL	Mood=Imp|Polarity=Neg	4	advmod	_	AlignBegin=151364|AlignEnd=151521|GE=[NEG].[PROH]|RX=[PTCL]|TokenType=Clit
+4	kʷaːsa	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=151521|AlignEnd=151836|GE=create[IMP].[SG].[M]|MGloss=create[IMP].[SG].[M]|MSeg=kʷaːs-a|RX=[V1].[IRG][TAM].[PNG]|TokenType=Root
+5	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=151836|AlignEnd=152308|GE=[/]|TokenType=Break
+6	samaːr	_	NOUN	N	Gender=Masc	4	dislocated	_	AlignBegin=152308|AlignEnd=152713|GE=offspring|RX=[N].[M]|TokenType=Root
+7	=oːn	_	PRON	PRO	Case=Acc|Number=Plur|Person=1|Poss=Yes	6	nmod:poss	_	AlignBegin=152713|AlignEnd=153118|GE=[POSS].[1PL].[ACC]|RX=[PRO]|TokenType=Clit
+8	//	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=153118|AlignEnd=153929|GE=[//]|TokenType=Break
+
