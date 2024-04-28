@@ -64,7 +64,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_11_COFFEE.WAV
 # sent_timecode = 7984, 16991
 # phonetic_text = i= mhaj -a i- niːw =hoːb ontʔa / oː= buːn lʔoː =b =u =it uːn /  giːg -i diːt /  oːn i= mhaj -a finʤaːn i- niːw =hoːb / sss / < gahwat muːna muːna > i- ndi //
-# text = i= mhaja iniːw =hoːb ontʔa / oː= buːn lʔoː =b =u =it uːn / giːgi diːt / oːn i= mhaja finʤaːn iniːw =hoːb / sss / < gahwat muːna > indi //
+# text = i= mhaja iniːw =hoːb ontʔa / oː= buːn lʔoː =b =u =it uːn / giːgi diːt / oːn i= mhaja finʤaːn iniːw =hoːb / sss / gahwat muːna indi //
 # text_en =  When he gives him the third one, then, because he has had enough coffee, this one wants to leave and when he gives him the third cup, he says: "Sip!, this is Mouna's coffee!"
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=7984|AlignEnd=8102|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
 2	mhaja	_	NUM	NUM	_	3	obj	_	AlignBegin=8102|AlignEnd=8337|GE=three[ORD]|MGloss=three[ORD]|MSeg=mhaj-a|RX=[NUM][NUM]|TokenType=Root
@@ -80,7 +80,7 @@
 12	=it	_	SCONJ	CONJ	_	9	mark	_	AlignBegin=9914|AlignEnd=9988|GE=[CSL]|RX=[CONJ]|TokenType=Clit
 13	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	15	dep	_	AlignBegin=9988|AlignEnd=10284|GE=[PROX].[SG].[M].[NOM]|RX=[SBJ].[DEM]|TokenType=Root
 14	/	_	PUNCT	_	_	13	punct	_	AlignBegin=10284|AlignEnd=10578|GE=[/]|TokenType=Break
-15	giːgi	_	VERB	V2	Number=Sing|VerbClass=2	31	dep:conj	_	AlignBegin=11315|AlignEnd=11622|GE=leave[FUT].[SG]|MGloss=leave[FUT].[SG]|MSeg=giːg-i|RX=[V2][TAM].[PNG]|TokenType=Root
+15	giːgi	_	VERB	V2	Number=Sing|VerbClass=2	29	dep:conj	_	AlignBegin=11315|AlignEnd=11622|GE=leave[FUT].[SG]|MGloss=leave[FUT].[SG]|MSeg=giːg-i|RX=[V2][TAM].[PNG]|TokenType=Root
 16	diːt	_	AUX	AUX.FUT	_	15	aux	_	AlignBegin=11622|AlignEnd=11929|GE=say\CVB.SEQ|RX=[AUX].[FUT]|TokenType=Root
 17	/	_	PUNCT	_	_	15	punct	_	AlignBegin=11929|AlignEnd=12236|GE=[/]|TokenType=Break
 18	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	20	det	_	AlignBegin=12419|AlignEnd=12709|GE=[PROX].[SG].[M].[ACC]|RX=[DEM]|TokenType=Root
@@ -88,16 +88,14 @@
 20	mhaja	_	NUM	NUM	_	21	nummod	_	AlignBegin=12806|AlignEnd=12999|GE=three[ORD]|MGloss=three[ORD]|MSeg=mhaj-a|RX=[NUM][NUM]|TokenType=Root
 21	finʤaːn	_	NOUN	N	Gender=Masc	22	obj	_	AlignBegin=12999|AlignEnd=13289|GE=cup|RX=[N].[M]|TokenType=Root
 22	iniːw	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	23	dep:comp	_	AlignBegin=13289|AlignEnd=13483|GE=[3SG].[M]give\IPFV|MGloss=[3SG].[M]give\IPFV|MSeg=i-niːw|RX=[PNG][V1].[IRG]|TokenType=Root
-23	=hoːb	_	SCONJ	CONJ	_	31	dep:conj	_	AlignBegin=13483|AlignEnd=13579|GE=when|RX=[CONJ]|TokenType=Clit
+23	=hoːb	_	SCONJ	CONJ	_	29	dep:conj	_	AlignBegin=13483|AlignEnd=13579|GE=when|RX=[CONJ]|TokenType=Clit
 24	/	_	PUNCT	_	_	23	punct	_	AlignBegin=13579|AlignEnd=13869|GE=[/]|TokenType=Break
-25	sss	_	INTJ	ONOM	_	31	discourse	_	AlignBegin=13869|AlignEnd=14411|GE=gulp|RX=[ONOM]|TokenType=Root
+25	sss	_	INTJ	ONOM	_	29	discourse	_	AlignBegin=13869|AlignEnd=14411|GE=gulp|RX=[ONOM]|TokenType=Root
 26	/	_	PUNCT	_	_	25	punct	_	AlignBegin=14411|AlignEnd=14954|GE=[/]|TokenType=Break
-27	<	_	PUNCT	_	_	28	punct	_	AlignBegin=14954|AlignEnd=15158|GE=[<]|TokenType=Root
-28	gahwat	_	NOUN	_	Foreign=Yes	31	parataxis	_	AlignBegin=15158|AlignEnd=15362|GE=coffee_of|Lang=ar|RX=[CSW].[ARA]|TokenType=Root
-29	muːna	_	PROPN	_	Foreign=Yes	28	flat:foreign	_	AlignBegin=15362|AlignEnd=15566|GE=Mouna|Gloss=Mouna|Lang=ar|RX=[CSW].[ARA]|TokenType=Root
-30	>	_	PUNCT	_	_	28	punct	_	AlignBegin=15566|AlignEnd=15770|GE=[>]|TokenType=Root
-31	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=15770|AlignEnd=15974|GE=[3SG].[M]say\IPFV|MGloss=[3SG].[M]say\IPFV|MSeg=i-ndi|RX=[PNG][V1].[IRG]|TokenType=Root
-32	//	_	PUNCT	_	_	31	punct	_	AlignBegin=15974|AlignEnd=16178|GE=[//]|TokenType=Break
+27	gahwat	_	NOUN	_	Foreign=Yes	29	parataxis	_	AlignBegin=15158|AlignEnd=15362|GE=coffee_of|Lang=ar|RX=[CSW].[ARA]|TokenType=Root
+28	muːna	_	PROPN	_	Foreign=Yes	27	nmod	_	AlignBegin=15362|AlignEnd=15566|GE=Mouna|Gloss=Mouna|Lang=ar|RX=[CSW].[ARA]|TokenType=Root
+29	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=15770|AlignEnd=15974|GE=[3SG].[M]say\IPFV|MGloss=[3SG].[M]say\IPFV|MSeg=i-ndi|RX=[PNG][V1].[IRG]|TokenType=Root
+30	//	_	PUNCT	_	_	29	punct	_	AlignBegin=15974|AlignEnd=16178|GE=[//]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_11_coffee_20-24
 # speaker_id = SP
@@ -132,27 +130,28 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_11_COFFEE.WAV
 # sent_timecode = 24022, 31461
 # phonetic_text = mali -a muːna -i geːb gʷʔa -a i- ndi eːn / oː= buːn oːn /  tʔa /  i= tʔa gʷʔa -taːn =eːb i- kati =jeːk //
-# text = malia muːnai geːb gʷʔaa indi eːn / oː= buːn oːn / tʔa / tʔa gʷʔataːn =eːb ikati =jeːk //
+# text = malia muːna =i geːb gʷʔaa indi eːn / oː= buːn oːn / tʔa / tʔa gʷʔataːn =eːb ikati =jeːk //
 # text_en =  "Next time, drink with Mouna!" he says, they said, if it is this coffee that you would drink!"
-1	malia	_	PART	PTCL	Number=Plur	4	obl:arg	_	AlignBegin=24022|AlignEnd=24335|GE=two[PL]|MGloss=two[PL]|MSeg=mali-a|RX=[PTCL][DET]|TokenType=Root
-2	muːnai	_	PROPN	N	_	3	dep:comp	_	AlignBegin=24335|AlignEnd=24648|GE=[Mouna][GEN]|MGloss=[Mouna][GEN]|MSeg=muːna-i|RX=[N].[PROP][CASE]|TokenType=Root
-3	geːb	_	ADP	POSTP	_	4	obl:arg	_	AlignBegin=24648|AlignEnd=24961|GE=beside|RX=[POSTP]|TokenType=Root
-4	gʷʔaa	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	5	parataxis	_	AlignBegin=24961|AlignEnd=25274|GE=drink[IMP].[SG].[M]|MGloss=drink[IMP].[SG].[M]|MSeg=gʷʔa-a|RX=[V2][TAM].[PNG]|TokenType=Root
-5	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=25274|AlignEnd=25587|GE=[3SG].[M]say\IPFV|MGloss=[3SG].[M]say\IPFV|MSeg=i-ndi|RX=[PNG][V1].[IRG]|TokenType=Root
-6	eːn	_	VERB	V1	Aspect=Perf|Number=Plur|Person=3|VerbClass=1	5	discourse	_	AlignBegin=25587|AlignEnd=25900|GE=say\PFV.3PL|RX=[V1].[IRG]|TokenType=Root
-7	/	_	PUNCT	_	_	18	punct	_	AlignBegin=25900|AlignEnd=26214|GE=[/]|TokenType=Break
-8	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	9	det	_	AlignBegin=26214|AlignEnd=26330|GE=[DEF].[SG].[M].[ACC]|RX=[DET]|TokenType=Clit
-9	buːn	_	NOUN	N	Gender=Masc	17	xcomp	_	AlignBegin=26330|AlignEnd=26445|GE=coffee|RX=[N].[M]|TokenType=Root
-10	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	AlignBegin=26445|AlignEnd=26676|GE=[PROX].[SG].[M].[ACC]|RX=[DEM]|TokenType=Root
-11	/	_	PUNCT	_	_	10	punct	_	AlignBegin=26676|AlignEnd=26908|GE=[/]|TokenType=Break
-12	tʔa	_	PART	PTCL	_	14	reparandum	_	AlignBegin=27430|AlignEnd=27596|GE=now|RX=[PTCL]|TokenType=Root
-13	/	_	PUNCT	_	_	12	punct	_	AlignBegin=27596|AlignEnd=27763|GE=[/]|TokenType=Break
-14	tʔa	_	PART	PTCL	_	15	advmod	_	AlignBegin=29688|AlignEnd=29872|GE=now|RX=[PTCL]|TokenType=Root
-15	gʷʔataːn	_	VERB	V2	Number=Plur|VerbClass=2	16	dep:comp	_	AlignBegin=29872|AlignEnd=30118|GE=drink[PFV].[2PL]|MGloss=drink[PFV].[2PL]|MSeg=gʷʔa-taːn|RX=[V2][TAM].[PNG]|TokenType=Root
-16	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	9	acl:relcl	_	AlignBegin=30118|AlignEnd=30240|GE=[REL].[SG].[M]|RX=[CONJ]|TokenType=Clit
-17	ikati	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	18	dep:comp	_	AlignBegin=30240|AlignEnd=30486|GE=[3SG].[M]become\IPFV|MGloss=[3SG].[M]become\IPFV|MSeg=i-kati|RX=[PNG][V1].[IRG]|TokenType=Root
-18	=jeːk	_	SCONJ	CONJ	_	5	dislocated:mod	_	AlignBegin=30486|AlignEnd=30608|GE=if|RX=[CONJ]|TokenType=Clit
-19	//	_	PUNCT	_	_	5	punct	_	AlignBegin=30608|AlignEnd=30978|GE=[//]|TokenType=Break
+1	malia	_	PART	PTCL	Number=Plur	5	obl:arg	_	AlignBegin=24022|AlignEnd=24335|GE=two[PL]|MGloss=two[PL]|MSeg=mali-a|RX=[PTCL][DET]|TokenType=Root
+2	muːna	_	PROPN	N	_	3	dep:comp	_	AlignBegin=24335|AlignEnd=24491|GE=[Mouna]|RX=[N].[PROP]|TokenType=Root
+3	=i	_	ADP	CASE	Case=Gen	4	dep:comp	_	AlignBegin=24491|AlignEnd=24648|GE=[GEN]|RX=[CASE]|TokenType=Clit|wordform=-i
+4	geːb	_	ADP	POSTP	_	5	obl:arg	_	AlignBegin=24648|AlignEnd=24961|GE=beside|RX=[POSTP]|TokenType=Root
+5	gʷʔaa	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	6	parataxis	_	AlignBegin=24961|AlignEnd=25274|GE=drink[IMP].[SG].[M]|MGloss=drink[IMP].[SG].[M]|MSeg=gʷʔa-a|RX=[V2][TAM].[PNG]|TokenType=Root
+6	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=25274|AlignEnd=25587|GE=[3SG].[M]say\IPFV|MGloss=[3SG].[M]say\IPFV|MSeg=i-ndi|RX=[PNG][V1].[IRG]|TokenType=Root
+7	eːn	_	VERB	V1	Aspect=Perf|Number=Plur|Person=3|VerbClass=1	6	discourse	_	AlignBegin=25587|AlignEnd=25900|GE=say\PFV.3PL|RX=[V1].[IRG]|TokenType=Root
+8	/	_	PUNCT	_	_	19	punct	_	AlignBegin=25900|AlignEnd=26214|GE=[/]|TokenType=Break
+9	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	10	det	_	AlignBegin=26214|AlignEnd=26330|GE=[DEF].[SG].[M].[ACC]|RX=[DET]|TokenType=Clit
+10	buːn	_	NOUN	N	Gender=Masc	18	xcomp	_	AlignBegin=26330|AlignEnd=26445|GE=coffee|RX=[N].[M]|TokenType=Root
+11	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	AlignBegin=26445|AlignEnd=26676|GE=[PROX].[SG].[M].[ACC]|RX=[DEM]|TokenType=Root
+12	/	_	PUNCT	_	_	11	punct	_	AlignBegin=26676|AlignEnd=26908|GE=[/]|TokenType=Break
+13	tʔa	_	PART	PTCL	_	15	reparandum	_	AlignBegin=27430|AlignEnd=27596|GE=now|RX=[PTCL]|TokenType=Root
+14	/	_	PUNCT	_	_	13	punct	_	AlignBegin=27596|AlignEnd=27763|GE=[/]|TokenType=Break
+15	tʔa	_	PART	PTCL	_	16	advmod	_	AlignBegin=29688|AlignEnd=29872|GE=now|RX=[PTCL]|TokenType=Root
+16	gʷʔataːn	_	VERB	V2	Number=Plur|VerbClass=2	17	dep:comp	_	AlignBegin=29872|AlignEnd=30118|GE=drink[PFV].[2PL]|MGloss=drink[PFV].[2PL]|MSeg=gʷʔa-taːn|RX=[V2][TAM].[PNG]|TokenType=Root
+17	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	10	acl:relcl	_	AlignBegin=30118|AlignEnd=30240|GE=[REL].[SG].[M]|RX=[CONJ]|TokenType=Clit
+18	ikati	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	19	dep:comp	_	AlignBegin=30240|AlignEnd=30486|GE=[3SG].[M]become\IPFV|MGloss=[3SG].[M]become\IPFV|MSeg=i-kati|RX=[PNG][V1].[IRG]|TokenType=Root
+19	=jeːk	_	SCONJ	CONJ	_	6	dislocated:mod	_	AlignBegin=30486|AlignEnd=30608|GE=if|RX=[CONJ]|TokenType=Clit
+20	//	_	PUNCT	_	_	6	punct	_	AlignBegin=30608|AlignEnd=30978|GE=[//]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_11_coffee_32-32
 # speaker_id = SP
