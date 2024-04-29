@@ -3,7 +3,7 @@
 # text = tak / kaːm =i / hoː kʷiɖja ini //
 # text_en = A man said: "My camel disappeared.
 # phonetic_text = tak / kaːmi / hoː kʷiɖja ini //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	tak	_	NOUN	N	Gender=Masc	8	nsubj	_	AlignBegin=0|AlignEnd=190|GE=man|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=190|AlignEnd=879|TokenType=Break
 3	kaːm	_	NOUN	N	_	7	nsubj	_	AlignBegin=879|AlignEnd=982|GE=camel|Gloss=camel|RX=[SBJ].[N]|TokenType=Root
@@ -18,7 +18,7 @@
 # text = beːn / i= ʃarg =iːb iːfi =ajt // i= kaːm =iji harawa / adif =hoːb // biri dh =i ijaːm //
 # text_en = I was over there at Sharg and when I left to look for my camel,  it rained over me.
 # phonetic_text = beːn / iʃargiːb iːfajt // ikaːmiji harawa / adifhoːb // biri dhi ijaːm //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	beːn	_	ADV	ADV	_	4	reparandum	_	AlignBegin=2926|AlignEnd=3046|GE=there|Gloss=there|RX=[ADV]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=3046|AlignEnd=3398|TokenType=Break
 3	i=	_	DET	DET	Definite=Def|Gender=Masc	4	det	_	AlignBegin=3398|AlignEnd=3530|GE=[DEF].[M]=|RX=[DET]=|TokenType=Clit
@@ -45,7 +45,7 @@
 # text = mhiːn / imuːki =eːb oː= bri hariweː / liːlaːw =i geːb // kirrajaː =b iːktiːn =i bʔaɖ isni =joː =hoːb / i= mbʔaɖ =i whiː / asʔa ini //
 # text_en = Looking for a place where to take refuge from the rain,  when I found the wrapped straw mats (a straw tent) next to a rock, I sat down under the tent", he said.
 # phonetic_text = mhiːn / imuːkjeːb oːbiri harweː / liːlaːwi geːb // kirrajaːb iːktiːna ibʔaɖ isinijoːhoːb / imbʔaɖi whiː / asʔa ini //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	mhiːn	_	NOUN	N	Gender=Masc	7	obj	_	AlignBegin=9063|AlignEnd=9336|GE=place|Gloss=place|RX=[N].[M]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=9336|AlignEnd=9609|TokenType=Break
 3	imuːki	_	VERB	V1	Aspect=Aor|Gender=Masc|Number=Sing|VerbClass=1	1	acl:relcl	_	AlignBegin=9609|AlignEnd=9880|GE=[3SG].[M]-take_shelter\[INT].[AOR]|Gloss=take_shelter|MGloss=3SG.M-take_shelter\INT.AOR|MSeg=i-muːki|RX=[PNG]-[V1].[DER]|TokenType=Root
@@ -80,7 +80,7 @@
 # text = uː= mbʔaɖ han / waʤʤa =i gaw iːkti =jeːt / toː= na / akan / hoːj amoːk ini //
 # text_en = Looking for a place where to take refuge from the rain,  when I found the wrapped straw mats ( a straw tent) next to a rock, I sat down under the tent", he said.
 # phonetic_text =  uːmbʔaɖ han / waʤʤaj gaw iːktijeːt / toːna / akan / hoːj amoːk ini //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=18153|AlignEnd=18282|GE=[DEF].[SG].[M].[NOM]=|RX=[DET]=|TokenType=Clit
 2	mbʔaɖ	_	NOUN	N	Gender=Masc	7	reparandum	_	AlignBegin=18282|AlignEnd=18411|GE=mat|Gloss=mat|RX=[N].[M]|TokenType=Root
 3	han	_	PART	PTCL	_	2	advmod	_	AlignBegin=18411|AlignEnd=18669|GE=also|Gloss=also|RX=[PTCL].[FOC]|TokenType=Root
@@ -105,7 +105,7 @@
 # text = moːkeː moːkeː moːkeː uːn uː= bri / diːseːt ʔitjan =hoːb // tak ʔeːja =heːb ini //
 # text_en = "I sheltered for a long time and  when thist rain decreased slowly, a man came towards me", he said.
 # phonetic_text = moːkeː moːkeː moːkeː uːn uːbiri / diːseːt ʔitjanhoːb // tak eːjaheːb ini //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	moːkeː	_	VERB	V1	VerbClass=1	2	dep:redup	_	AlignBegin=23859|AlignEnd=24177|GE=take_shelter\[INT]-[CVB].[SMLT]|Gloss=take_shelter|MGloss=take_shelter\INT-CVB.SMLT|MSeg=moːk-eː|RX=[V1].[DER]|TokenType=Root
 2	moːkeː	_	VERB	V1	VerbClass=1	3	dep:redup	_	AlignBegin=24177|AlignEnd=24495|GE=take_shelter\[INT]-[CVB].[SMLT]|Gloss=take_shelter|MGloss=take_shelter\INT-CVB.SMLT|MSeg=moːk-eː|RX=[V1].[DER]|TokenType=Root
 3	moːkeː	_	VERB	V1	VerbClass=1	9	advcl	_	AlignBegin=24495|AlignEnd=24813|GE=take_shelter\[INT]-[CVB].[SMLT]|Gloss=take_shelter|MGloss=take_shelter\INT-CVB.SMLT|MSeg=moːk-eː|RX=[V1].[DER]|TokenType=Root
@@ -127,7 +127,7 @@
 # text = hoː =b hoːs =oː ʃʔagaː =b =u uː= tak // ʔasalaː =b iːkti =jeːb /
 # text_en = "The man was carrying on his shoulder a lamb that he had grilled.
 # phonetic_text =  hoːb hoːsoː ʃʔagaːbu uːtak // ʔasalaːb iːktijeːb /
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	hoː	_	NOUN	N	_	5	obj	_	AlignBegin=30643|AlignEnd=30859|GE=lamb|Gloss=lamb|RX=[N]|TokenType=Root
 2	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	1	det	_	AlignBegin=30859|AlignEnd=31075|GE==[INDF].[M].[ACC]|RX==[DET]|TokenType=Clit
 3	hoːs	_	ADP	PRO	Case=Abl	5	obl:arg	_	AlignBegin=31075|AlignEnd=31507|GE=[ABL]|RX=[POSTP]|TokenType=Root
@@ -148,7 +148,7 @@
 # text = ontʔa // bak ʔabkin / w= hi ini =oː =hoːb // ajwa / adi =t
 # text_en = So, when he told me: "Take the lamb like that! " I said: "Yes", [and]
 # phonetic_text = ontʔa // bak ʔabk -i -n / w
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	ontʔa	_	ADV	PTCL	_	4	discourse	_	AlignBegin=35009|AlignEnd=35339|GE=now|Gloss=now|RX=[PTCL]|TokenType=Root
 2	//	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=35339|AlignEnd=35670|TokenType=Break
 3	bak	_	ADV	DEICT	_	4	advmod	_	AlignBegin=35670|AlignEnd=35939|GE=thus|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
@@ -169,7 +169,7 @@
 # text = w= his =i gajjaran =t / hoːj sallamaman ini //
 # text_en = I changed my voice, and I took it from him", he said.
 # phonetic_text = ajwa / adit whisi gajjarant / hoːj sallamaman ini //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=38507|AlignEnd=38641|GE=[DEF].[SG].[M]=|RX=[DET]=|TokenType=Clit
 2	his	_	NOUN	N	Gender=Masc	4	obj	_	AlignBegin=38641|AlignEnd=38775|GE=voice|Gloss=voice|RX=[N].[M]|TokenType=Root
 3	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	2	nmod:poss	_	AlignBegin=38775|AlignEnd=38910|GE==[POSS].[1SG].[ACC]|RX==[PRO]|TokenType=Clit
@@ -185,7 +185,7 @@
 # text = hawat =t iːjʔaː =t tibaː =b iːkti =jeːt sallamja =ajt =heːb // bak ʔabkin ini =oː =hoːb // hoːj sallamaman ini //
 # text_en = "He gave me a goatskin full of milk, and when he told me: "Take it!", I took it from him", he said.
 # phonetic_text =  hawatt iːjʔaːt tibaːb iːktijeːt sallamjaːjtheːb // bak ʔabkin ijoːhoːb // hoːj sallamaman ini //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	hawat	_	NOUN	N	Gender=Fem	9	obj	_	AlignBegin=42616|AlignEnd=42825|GE=goatskin_flask|Gloss=goatskin_flask|RX=[N].[F]|TokenType=Root
 2	=t	_	DET	DET	Definite=Ind|Gender=Fem	1	det	_	AlignBegin=42825|AlignEnd=43034|GE==[INDF].[F]|RX==[DET]|TokenType=Clit
 3	iːjʔaː	_	NOUN	N	Gender=Fem|Number=Plur	5	obj	_	AlignBegin=43034|AlignEnd=43243|GE=milk|Gloss=milk|RX=[N].[PL].[F]|TokenType=Root
@@ -213,7 +213,7 @@
 # text = areː / bʔaɖaɖ =wa i= koːlaj =wa sallamja =ajt =heːb // daːji =t ʔabkin ini =oː =hoːb // hoːj sallamaman ini //
 # text_en = "Then he gave me a sword and the stick, and when he told me: "So take them well!", I took them from him", he said.
 # phonetic_text = areː / bʔaɖaɖwa ikoːlejwa sallamjaːjtheːb // daːjit ʔabkin ijoːhoːb // hoːj sallamaman ini //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	areː	_	ADV	PTCL	_	8	discourse	_	AlignBegin=48704|AlignEnd=48951|GE=then|Gloss=then|RX=[PTCL]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=48951|AlignEnd=50650|TokenType=Break
 3	bʔaɖaɖ	_	NOUN	N	Gender=Masc	6	dep:conj	_	AlignBegin=50650|AlignEnd=50893|GE=sword|Gloss=sword|RX=[N].[M]|TokenType=Root
@@ -241,7 +241,7 @@
 # text = ontʔa / w= hanʤar // sallamja =ajt =heːb //
 # text_en = "So, he gave me the dagger and
 # phonetic_text = ontʔa / whanʤar // sallamjaːjtheːb //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	ontʔa	_	ADV	PTCL	_	6	discourse	_	AlignBegin=56172|AlignEnd=56424|GE=now|Gloss=now|RX=[PTCL]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=56424|AlignEnd=57047|TokenType=Break
 3	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	4	det	_	AlignBegin=57047|AlignEnd=57216|GE=[DEF].[SG].[M]=|RX=[DET]=|TokenType=Clit
@@ -256,7 +256,7 @@
 # text = bak ʔabkin ini =oː =hoːb / hoːj sallamaman =t // ontʔa / doːr =ka toː= ʃa kitʔa =t tama =t niki /
 # text_en = when he told me: "So take it like that!", I took it from him, and  then, we would cut and eat the meat in turn [and]
 # phonetic_text = bak ʔabkin ijoːhoːb / hoːj sallamamant // ontʔa / doːrka toːʃa kitʔat tamat niki /
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	bak	_	PART	DEICT	_	2	advmod	_	AlignBegin=58718|AlignEnd=58986|GE=thus|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
 2	ʔabkin	_	VERB	V1	Gender=Fem|Number=Sing|VerbClass=1	3	parataxis	_	AlignBegin=58986|AlignEnd=59254|GE=take-[IMP].[SG].[F]-[EMPH]|Gloss=take|MGloss=take-IMP.SG.F-EMPH|MSeg=ʔabk-i-n|ReportedSpeech=Yes|RX=[V1]-[TAM].[PNG]-[SUFX]|TokenType=Root
 3	ini	_	VERB	V1,IRG	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	5	dep:comp	_	AlignBegin=59254|AlignEnd=59388|GE=[3SG].[M]-say\[PFV]|Gloss=say|MGloss=3SG.M-say\PFV|MSeg=i-ni|RX=[PNG]-[V1].[IRG]|TokenType=Root
@@ -284,7 +284,7 @@
 # text = uːn uː= tak / doːr han kanaː =ji ki= iki / ti= takat hiːs =heːb =ajt //
 # text_en = this man had not even recognized me  because he thought I was the woman."
 # phonetic_text = uːn uːtak / doːr han kanaːji kiːki / titakat hiːsheːbaːjt //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=65384|AlignEnd=65579|GE=[PROX].[SG].[M].[NOM]|RX=[DEM]|TokenType=Root
 2	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=65579|AlignEnd=65676|GE=[DEF].[SG].[M].[NOM]=|RX=[DET]=|TokenType=Clit
 3	tak	_	NOUN	N	Gender=Masc	7	nsubj	_	AlignBegin=65676|AlignEnd=65774|GE=man|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
@@ -307,7 +307,7 @@
 # text = ontʔa / daːjeːb // j= halaka / inaːʃʔa bʔijan =hoːb // tak iːkti =jeːt toː= na ikan =heːb //
 # text_en = "So, when he had finished undressing properly,   he realized I was a man!"
 # phonetic_text = ontʔa / daːjeːb // jhalaka / inaːʃʔa bʔijanhoːb // tak iːktijeːt toːna ikanheːb //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	ontʔa	_	ADV	PTCL	_	8	discourse	_	AlignBegin=71270|AlignEnd=71449|GE=now|Gloss=now|RX=[PTCL]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=71449|AlignEnd=71629|TokenType=Break
 3	daːjeːb	_	ADV	ADV	_	8	advmod	_	AlignBegin=71629|AlignEnd=71958|GE=good|Gloss=good|RX=[ADV]|TokenType=Root
@@ -332,7 +332,7 @@
 # text = ikan =oː =hoːb / toːt toː= bri ifirʔa =t / ɖaːbjai iːha ini //
 # text_en = "When he recognized me, he jumped to the sky and, he was running away!", he said.
 # phonetic_text = ikanoːhoːb / toːt toːbiri ifirʔat / ɖaːbjaj iːha ini //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	ikan	_	VERB	V1,IRG	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1|Voice=Mid	3	dep:comp	_	AlignBegin=77958|AlignEnd=78022|GE=[3SG].[M]-know\[MID].[PFV]|Gloss=know|MGloss=3SG.M-know\MID.PFV|MSeg=i-kan|RX=[PNG]-[V1].[DER].[IRG]|TokenType=Root
 2	=oː	_	PRON	PRO	Number=Sing|Person=1	1	obj	_	AlignBegin=78022|AlignEnd=78054|GE==[OBJ].[1SG]|RX==[PRO]|TokenType=Clit
 3	=hoːb	_	SCONJ	CONJ	_	8	dep	_	AlignBegin=78054|AlignEnd=78086|GE==when|Gloss==when|RX==[CONJ]|TokenType=Clit
@@ -352,7 +352,7 @@
 # text = askʷi ini //
 # text_en = "I chased him", he said.
 # phonetic_text = askʷi ini //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	askʷi	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	2	parataxis	_	AlignBegin=80803|AlignEnd=81006|GE=[1SG]-pursue\[PFV]|Gloss=pursue|MGloss=1SG-pursue\PFV|MSeg=a-skʷi|ReportedSpeech=Yes|RX=[PNG]-[V1]|TokenType=Root
 2	ini	_	VERB	V1,IRG	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=81006|AlignEnd=81210|GE=[3SG].[M]-say\[PFV]|Gloss=say|MGloss=3SG.M-say\PFV|MSeg=i-ni|RX=[PNG]-[V1].[IRG]|TokenType=Root
 3	//	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=81210|AlignEnd=81414|TokenType=Break
@@ -361,7 +361,7 @@
 # text = askʷii agʷoːj =t // hoːj ɖaːbjai iːha //
 # text_en = "I chased him, and I could not (catch up with him), and  he run away from there.
 # phonetic_text = askʷiː agʷoːjt // hoːj ɖaːbjaj iːha //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	askʷii	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	6	dep:conj	_	AlignBegin=81414|AlignEnd=81778|GE=[1SG]-pursue\[PFV]-[L]|Gloss=pursue|MGloss=1SG-pursue\PFV-L|MSeg=a-skʷi-i|RX=[PNG]-[V1]|TokenType=Root
 2	agʷoːj	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	6	dep:conj	_	AlignBegin=81778|AlignEnd=82021|GE=[1SG]-be_unable\[INT].[PFV]|Gloss=be_unable|MGloss=1SG-be_unable\INT.PFV|MSeg=a-gʷoːj|RX=[PNG]-[V1].[DER]|TokenType=Root
 3	=t	_	CCONJ	CCONJ	_	2	cc	_	AlignBegin=82021|AlignEnd=82143|GE==[COORD]|RX==[CONJ]|TokenType=Clit
@@ -375,7 +375,7 @@
 # text = agar jʔan =t i= gaw =i /
 # text_en = I went back, in my house.
 # phonetic_text = agar jʔant igawi /
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	agar	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1|Voice=Mid	2	compound:svc	_	AlignBegin=84523|AlignEnd=84765|GE=[1SG]-come_back\[MID].[PFV]|Gloss=come_back|MGloss=1SG-come_back\MID.PFV|MSeg=a-gar|RX=[PNG]-[V1].[DER]|TokenType=Root
 2	jʔan	_	VERB	V2,IRG	Number=Sing|VerbClass=2	0	root	_	AlignBegin=84765|AlignEnd=84926|GE=come-[PFV].[1SG]|Gloss=come|MGloss=come-PFV.1SG|MSeg=jʔ-an|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
 3	=t	_	CCONJ	CCONJ	_	2	cc	_	AlignBegin=84926|AlignEnd=85007|GE==[COORD]|RX==[CONJ]|TokenType=Clit
@@ -388,7 +388,7 @@
 # text = ameːsa~sʔeː ameːsa~sʔeː ameːsa~sʔeː / uː= bri ʈa~ʈakʷi /
 # text_en = I remained seated for a long time (against my will, leisurely), the rain was dripping, and
 # phonetic_text = ameːsasʔeː ameːsasʔeː ameːsasʔeː / uːbiri ʈaʈakʷi / ijameːb // jiʔoːbiri naːjiːb // kaɖawi mijʔat amaːsiwhoːb // anʔa atirt aʃibibhoːb // ʔoːt / suːrisi / suːfat hoːj theːjeːt harʔiːsi / hamoːt hoːj hiːneːt / baːjiheːb hiːreːreː rhanhoːb / ahagit ini //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	ameːsa~sʔeː	_	VERB	V1	VerbClass=1|Voice=Mid	2	dep:redup	_	AlignBegin=85492|AlignEnd=86058|GE=[PASS].[INT]-[PLAC]~sit\[MID]-[CVB].[SMLT]|Gloss=sit|MGloss=PASS.INT-PLAC~sit\MID-CVB.SMLT|MSeg=ameː-sa~sʔ-eː|RX=[V1].[DER]-[V1].[DER]|TokenType=Root
 2	ameːsa~sʔeː	_	VERB	V1	VerbClass=1|Voice=Mid	3	dep:redup	_	AlignBegin=86058|AlignEnd=86625|GE=[PASS].[INT]-[PLAC]~sit\[MID]-[CVB].[SMLT]|Gloss=sit|MGloss=PASS.INT-PLAC~sit\MID-CVB.SMLT|MSeg=ameː-sa~sʔ-eː|RX=[V1].[DER]-[V1].[DER]|TokenType=Root
 3	ameːsa~sʔeː	_	VERB	V1	VerbClass=1|Voice=Mid	7	advcl	_	AlignBegin=86625|AlignEnd=87192|GE=[PASS].[INT]-[PLAC]~sit\[MID]-[CVB].[SMLT]|Gloss=sit|MGloss=PASS.INT-PLAC~sit\MID-CVB.SMLT|MSeg=ameː-sa~sʔ-eː|RX=[V1].[DER]-[V1].[DER]|TokenType=Root
@@ -402,7 +402,7 @@
 # text = i= jam =eːb // ji= oː= bri =naː =iːb // kaɖawi mijʔat amaːsiw =hoːb // anʔa atir =t aʃibib =hoːb // ʔoːt / suːr =iːsiː / suːfa =t hoːj thi =jeːt harʔiː =iːsiː / hamoː =t hoːj hiːn =eːt / abaːj =heːb hiːreːreː rhan =hoːb / ahagit ini //
 # text_en = when I heard footsteps which were making noise in the rain water, when I leaned down and looked,  when I saw a girl who has a fringe in front of her and hair behind her walking towards me,  I waited for her", he said.
 # phonetic_text = ameːsasʔeː ameːsasʔeː ameːsasʔeː / uːbiri ʈaʈakʷi / ijameːb // jiʔoːbiri naːjiːb // kaɖawi mijʔat amaːsiwhoːb // anʔa atirt aʃibibhoːb // ʔoːt / suːrisi / suːfat hoːj theːjeːt harʔiːsi / hamoːt hoːj hiːneːt / baːjiheːb hiːreːreː rhanhoːb / ahagit ini //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=89838|AlignEnd=89922|GE=[DEF].[M]=|RX=[DET]=|TokenType=Clit
 2	jam	_	NOUN	N	Gender=Masc|Number=Plur	11	obl:arg	_	AlignBegin=89922|AlignEnd=90007|GE=water|Gloss=water|RX=[N].[PL].[M]|TokenType=Root
 3	=eːb	_	ADP	POSTP	Case=Loc|Number=Plur	2	case	_	AlignBegin=90007|AlignEnd=90092|GE==[LOC].[PL]|RX==[POSTP]|TokenType=Clit
@@ -457,7 +457,7 @@
 # text = i= mhiːn =i sʔeː // koːba =t =iːb iːfi =t / ʔaːmanaːj =t tam =i =t / sallamta =heːb ini //
 # text_en = "While I was seated in my place, he (sic) [she] gave me a mouthful of gruel that was in a wooden container", he said.
 # phonetic_text = imhiːni sʔeː // koːbaːtiːb iːfit / aːmanaːjt tamit / sallamtheːb ini //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=105512|AlignEnd=105605|GE=[DEF].[M]=|RX=[DET]=|TokenType=Clit
 2	mhiːn	_	NOUN	N	Gender=Masc	4	obj	_	AlignBegin=105605|AlignEnd=105698|GE=place|Gloss=place|RX=[N].[M]|TokenType=Root
 3	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	2	nmod:poss	_	AlignBegin=105698|AlignEnd=105791|GE==[POSS].[1SG].[ACC]|RX==[PRO]|TokenType=Clit
@@ -484,7 +484,7 @@
 # text = bak ʔabikan tini =oː =hoːb // hoːj sallamaman ini //
 # text_en = "When she told me: "So take it like that!", I took it from her", he said.
 # phonetic_text = bak ʔabkan tijoːhoːb // hoːj sallamaman ini //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	bak	_	PART	DEICT	_	8	advmod	_	AlignBegin=111791|AlignEnd=112025|GE=thus|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
 2	ʔabikan	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	3	parataxis	_	AlignBegin=112025|AlignEnd=112259|GE=take-[IMP].[SG].[M]-[EMPH]|Gloss=take|MGloss=take-IMP.SG.M-EMPH|MSeg=ʔabik-a-n|ReportedSpeech=Yes|RX=[V1]-[TAM].[PNG]-[SUFX]|TokenType=Root
 3	tini	_	VERB	V1,IRG	Aspect=Perf|Gender=Fem|Number=Sing|VerbClass=1	5	dep:comp	_	AlignBegin=112259|AlignEnd=112376|GE=[3SG].[F]-say\[PFV]|Gloss=say|MGloss=3SG.F-say\PFV|MSeg=ti-ni|RX=[PNG]-[V1].[IRG]|TokenType=Root
@@ -500,7 +500,7 @@
 # text = ʔamuːl =iːb iːfin =t iːjʔaː =t sallamta =ajt =heːb ʔabikan tini =oː =hoːb // hoːj sallamaman /
 # text_en = "Since she had given me a milk bowl, when she told me: "So take it!", I took it from her.
 # phonetic_text = amuːliːb iːfiːnt iːjʔaːt sallamtaːjtheːb ʔabkan tijoːhoːb // hoːj sallamaman /
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	ʔamuːl	_	NOUN	N	Gender=Masc	3	obl:arg	_	AlignBegin=114562|AlignEnd=114755|GE=milk_bowl|Gloss=milk_bowl|RX=[N].[M]|TokenType=Root
 2	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	1	case	_	AlignBegin=114755|AlignEnd=114948|GE==[LOC].[SG]|RX==[POSTP]|TokenType=Clit
 3	iːfin	_	VERB	V1,IRG	Aspect=Aor|Number=Plur|VerbClass=1	5	acl:relcl	_	AlignBegin=114948|AlignEnd=115237|GE=[3]-be_there\[AOR]-[PL]|Gloss=be_there|MGloss=3-be_there\AOR-PL|MSeg=iː-fi-n|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Root
@@ -523,7 +523,7 @@
 # text = hoːj sallamaman =eːt toː= na nuːn / w= ʔaraːw =oː ba= aakaj =eːt / toː= na / tikan =heːb //
 # text_en = Only when I had taken it all from her did she realize that I was not her friend."
 # phonetic_text = hoːj sallamamaneːt toːna nuːn / wʔaraːwoː baːkajeːt / toːna / tikanheːb //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	hoːj	_	ADP	PRO	Case=Abl	2	obl:arg	_	AlignBegin=118871|AlignEnd=119193|GE=[LOC]|RX=[POSTP]|TokenType=Root
 2	sallamaman	_	VERB	V2	Number=Sing|VerbClass=2	12	advcl	_	AlignBegin=119193|AlignEnd=119435|GE=give-[MID]-[PFV].[1SG]|Gloss=give|MGloss=give-MID-PFV.1SG|MSeg=sallam-am-an|RX=[V2]-[V2].[DER]-[TAM].[PNG]|TokenType=Root
 3	=eːt	_	SCONJ	CONJ	ExtPos=SCONJ|Gender=Fem	2	mark	_	AlignBegin=119435|AlignEnd=119516|GE==[REL].[F]|Idiom=Yes|RX==[CONJ]|TokenType=Clit
@@ -549,7 +549,7 @@
 # text = iki saroːj =ka / w= hanʤar sallaman /
 # text_en = "Anyway, I gave her the dagger,
 # phonetic_text = iki saroːjka / whanʤar sallaman /
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	iki	_	VERB	V1,IRG	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	7	advcl	_	AlignBegin=124427|AlignEnd=124771|GE=[3SG].[M]-become\[PFV]|Gloss=become|MGloss=3SG.M-become\PFV|MSeg=i-ki|RX=[PNG]-[V1].[IRG]|TokenType=Root
 2	saroːj	_	NOUN	V1	_	1	nsubj	_	AlignBegin=124771|AlignEnd=125000|GE=be_awake\[MID]-[N].[AC]|Gloss=be_awake|MGloss=be_awake\MID-N.AC|MSeg=sar-oːj|RX=[V1].[DER]-[N].[V]|TokenType=Root
 3	=ka	_	ADP	POSTP	_	2	case	_	AlignBegin=125000|AlignEnd=125115|GE==[DISTR]|RX==[POSTP]|TokenType=Clit
@@ -563,7 +563,7 @@
 # text = oːn ti= ʃaː =t =oːn tamna ti= i̠ːjʔaː gʷʔana /
 # text_en = we ate our meat and we drunk the milk [and]
 # phonetic_text = oːn tiʃaːtoːn tamna tiːjʔa gʷʔana /
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=128062|AlignEnd=128465|GE=[PROX].[SG].[M].[ACC]|RX=[DEM]|TokenType=Root
 2	ti=	_	DET	DET	Definite=Def|Gender=Fem	3	det	_	AlignBegin=128465|AlignEnd=128566|GE=[DEF].[F]=|RX=[DET]=|TokenType=Clit
 3	ʃaː	_	NOUN	N	Gender=Fem	6	obj	_	AlignBegin=128566|AlignEnd=128667|GE=meat|Gloss=meat|RX=[N].[F]|TokenType=Root
@@ -579,7 +579,7 @@
 # text = ontʔa / kak jʔaː =b =wa ?
 # text_en = so, "How have you come?
 # phonetic_text = ontʔa / kak jʔaːbwa /
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	ontʔa	_	ADV	PTCL	_	4	discourse	_	AlignBegin=131136|AlignEnd=131391|GE=now|Gloss=now|RX=[PTCL]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=131391|AlignEnd=131979|TokenType=Break
 3	kak	_	ADV	ADV	_	4	advmod	_	AlignBegin=131979|AlignEnd=132265|GE=how|Gloss=how|RX=[ADV].[Q]|TokenType=Root
@@ -592,7 +592,7 @@
 # text = naːn haːj jʔaː =t =oːk =t =u ?
 # text_en = What has brought you there?"
 # phonetic_text = naːn haːj jʔaːtoːktu /
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	naːn	_	PRON	PRO	_	3	nsubj	_	AlignBegin=132837|AlignEnd=133174|GE=what|Gloss=what|RX=[PRO].[Q]|TokenType=Root
 2	haːj	_	ADP	POSTP	Case=Com	3	dep	_	AlignBegin=133174|AlignEnd=133511|GE=[COM]|RX=[POSTP]|TokenType=Root
 3	jʔaː	_	VERB	V2,IRG	VerbClass=2	0	root	_	AlignBegin=133511|AlignEnd=133623|GE=come-[CVB].[MNR]|Gloss=come|MGloss=come-CVB.MNR|MSeg=jʔ-aː|RX=[V2].[IRG]-[PRF]|TokenType=Root
@@ -606,7 +606,7 @@
 # text = tak rhita tini =oː =hoːb ? oː= tak rhan ani /
 # text_en = When she told me: "Did you see a man? " I said: "I saw the man."
 # phonetic_text = tak rhita tijoːhoːb / oːtak rhan ani /
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	tak	_	NOUN	N	Gender=Masc	2	obj	_	AlignBegin=134339|AlignEnd=134576|GE=man|Gloss=man|RX=[N].[M]|TokenType=Root
 2	rhita	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	3	parataxis	_	AlignBegin=134576|AlignEnd=134813|GE=see-[PFV].[2SG].[M]|Gloss=see|MGloss=see-PFV.2SG.M|MSeg=rhi-ta|ReportedSpeech=Yes|RX=[V2]-[TAM].[PNG]|TokenType=Root
 3	tini	_	VERB	V1,IRG	Aspect=Perf|Gender=Fem|Number=Sing|VerbClass=1	5	dep:comp	_	AlignBegin=134813|AlignEnd=134931|GE=[3SG].[F]-say\[PFV]|Gloss=say|MGloss=3SG.F-say\PFV|MSeg=ti-ni|RX=[PNG]-[V1].[IRG]|TokenType=Root
@@ -623,7 +623,7 @@
 # text = afraj / tiweːr =heːb iraːnaj uː= tak ʔaraːw =i akajeː hoːj giːgista =ja / tidi =t =heːb //
 # text_en = She told me: "You did me wrong, gosh! you made the man who is my friend leave for good!"
 # phonetic_text = afirej / tiweːrheːb iraːnaj uːtak ʔaraːwi akajeː hoːj giːgistaja / tidiːtheːb //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	afraj	_	ADJ	ADJ	_	3	obj	_	AlignBegin=136765|AlignEnd=137020|GE=bad|Gloss=bad|RX=[ADJ]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=137020|AlignEnd=137275|TokenType=Break
 3	tiweːr	_	VERB	V1,IRG	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	12	dep:conj	_	AlignBegin=137275|AlignEnd=137562|GE=[2SG].[M]-do\[PFV]|Gloss=do|MGloss=2SG.M-do\PFV|MSeg=ti-weːr|ReportedSpeech=Yes|RX=[PNG]-[V1].[IRG]|TokenType=Root
@@ -647,7 +647,7 @@
 # text = ʃamatti =heːb ini //
 # text_en = "She blamed me", he said.
 # phonetic_text = ʃamattiheːb ini //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	ʃamatti	_	VERB	V2	Gender=Fem|Number=Sing|VerbClass=2	3	parataxis	_	AlignBegin=142509|AlignEnd=142731|GE=blame-[PFV].[3SG].[F]|Gloss=blame|MGloss=blame-PFV.3SG.F|MSeg=ʃamat-ti|ReportedSpeech=Yes|RX=[V2]-[TAM].[PNG]|TokenType=Root
 2	=heːb	_	PRON	PRO	Number=Sing|Person=1	1	obj	_	AlignBegin=142731|AlignEnd=142843|GE==[OBJ].[1SG]|RX==[PRO]|TokenType=Clit
 3	ini	_	VERB	V1,IRG	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=142843|AlignEnd=143178|GE=[3SG].[M]-say\[PFV]|Gloss=say|MGloss=3SG.M-say\PFV|MSeg=i-ni|RX=[PNG]-[V1].[IRG]|TokenType=Root
@@ -657,7 +657,7 @@
 # text = ʃamattan =i =ji ʃamat =eː =ka ani i= mhiːn =i naːjeː mhan /
 # text_en = "Whatever blames she did to me, I slept there until morning."
 # phonetic_text = ʃamattaniji ʃamateːka ani imhiːni naːjeː mhan /
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	ʃamattan	_	VERB	V2	Gender=Fem|Number=Sing|VerbClass=2	4	acl:relcl	_	AlignBegin=144041|AlignEnd=144279|GE=blame-[PFV].[3SG].[F]-[L]|Gloss=blame|MGloss=blame-PFV.3SG.F-L|MSeg=ʃamat-ta-n|RX=[V2]-[TAM].[PNG]|TokenType=Root
 2	=i	_	PRON	PRO	Case=Nom|Number=Sing|Person=1|Poss=Yes	1	obj	_	AlignBegin=144279|AlignEnd=144359|GE==[POSS].[1SG].[NOM]|RX==[PRO]|TokenType=Clit
 3	=ji	_	SCONJ	CONJ	_	1	mark	_	AlignBegin=144359|AlignEnd=144439|GE==[REL]|RX==[CONJ]|TokenType=Clit
@@ -676,7 +676,7 @@
 # text = j= halaka =b =wa / ji= i= tak =iːb areː eːn i= gaɖʔa eːn / ani ti= kna =t =i / ti= sitoːboːj ti= astoːbi =jeːt akteːn =aj // sallama =heːb tini =t =heːb /
 # text_en = "As I know myself how to bring the man's clothes and his weapons back to him, give them to me!", she told me, [and]
 # phonetic_text = jhalakabwa / jiʔitakiːb areː eːn eːgaɖʔajeː na / ani tiknaːti / tistoːboːj tiʔastoːbjeːt akteːnaj // sallamaheːb tinitheːb /
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	j=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=147206|AlignEnd=147301|GE=[DEF].[M]=|RX=[DET]=|TokenType=Clit
 2	halaka	_	NOUN	N	Gender=Masc|Number=Plur	13	dep:conj	_	AlignBegin=147301|AlignEnd=147492|GE=cloth-[PL]|Gloss=cloth|MGloss=cloth-PL|MSeg=halak-a|RX=[N].[M]|TokenType=Root
 3	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	2	det	_	AlignBegin=147492|AlignEnd=147587|GE==[INDF].[M].[ACC]|RX==[DET]|TokenType=Clit
@@ -717,7 +717,7 @@
 # text = hoː sallamamta /
 # text_en = she took them from me, [and]
 # phonetic_text = hoː sallamamta /
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	hoː	_	PRON	PRO	Case=Dat|Number=Sing|Person=1	2	iobj	_	AlignBegin=154887|AlignEnd=155285|GE=[1SG].[DAT]|RX=[PRO]|TokenType=Root
 2	sallamamta	_	VERB	V2	Gender=Fem|Number=Sing|VerbClass=2	0	root	_	AlignBegin=155285|AlignEnd=155684|GE=give-[MID]-[PFV].[3SG].[F]|Gloss=give|MGloss=give-MID-PFV.3SG.F|MSeg=sallam-am-ta|RX=[V2]-[V2].[DER]-[TAM].[PNG]|TokenType=Root
 3	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=155684|AlignEnd=156541|TokenType=Break
@@ -726,7 +726,7 @@
 # text = bak tʔiit =eːt ʔiːbaːb / dh =i tiki idi eːn //
 # text_en = a story like that happened to me", he said, they said.
 # phonetic_text = ˈbak tʔiːˈteːd ʔiːˈbaːb / ˈdheːtek ideːn //
-# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	bak	_	ADV	DEICT	_	4	advmod	_	AlignBegin=156541|AlignEnd=156863|GE=thus|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
 2	tʔiit	_	NOUN	V1,IRG	_	4	acl:relcl	_	AlignBegin=156863|AlignEnd=157078|GE=resemble-[VN]|Gloss=resemble|MGloss=resemble-VN|MSeg=tʔi-it|RX=[V1].[IRG]-[N].[V]|TokenType=Root
 3	=eːt	_	SCONJ	CONJ	Gender=Fem	2	case	_	AlignBegin=157078|AlignEnd=157186|GE==[REL].[F]|RX==[CONJ]|TokenType=Clit
