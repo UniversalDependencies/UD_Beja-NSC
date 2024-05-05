@@ -5,118 +5,122 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>78</sentences><tokens>1205</tokens><words>1206</words><fused>1</fused></total>
+    <total><sentences>380</sentences><tokens>5888</tokens><words>5888</words><fused>0</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>78</sentences><tokens>1205</tokens><words>1206</words><fused>1</fused></test>
+    <test><sentences>380</sentences><tokens>5888</tokens><words>5888</words><fused>0</fused></test>
   </size>
   <lemmas unique="0" /><!--  -->
-  <forms unique="387" /><!-- /, //, =t, ini, =b, i=, =hoːb, =heːb, oː=, hoːj, =i, =u, uː=, kaːm, tak -->
-  <fusions unique="1" /><!-- hoːb=uːn-ej -->
+  <forms unique="1126" /><!-- /, //, =t, i=, =i, oː=, =hoːb, =b, eːn, uː=, =heːb, w=, ini, tak, ti= -->
+  <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">17</tag><!-- _ -->
-    <tag name="ADP">39</tag><!-- _ -->
-    <tag name="ADV">18</tag><!-- _ -->
-    <tag name="AUX">38</tag><!-- _ -->
-    <tag name="CCONJ">34</tag><!-- _ -->
-    <tag name="DET">176</tag><!-- _ -->
-    <tag name="INTJ">8</tag><!-- _ -->
-    <tag name="NOUN">168</tag><!-- _ -->
-    <tag name="NUM">12</tag><!-- _ -->
-    <tag name="PART">28</tag><!-- _ -->
-    <tag name="PRON">106</tag><!-- _ -->
-    <tag name="PROPN">4</tag><!-- _ -->
-    <tag name="PUNCT">241</tag><!-- _ -->
-    <tag name="SCONJ">68</tag><!-- _ -->
-    <tag name="VERB">242</tag><!-- _ -->
-    <tag name="X">7</tag><!-- _ -->
+    <tag name="ADJ">77</tag><!-- _ -->
+    <tag name="ADP">408</tag><!-- _ -->
+    <tag name="ADV">104</tag><!-- _ -->
+    <tag name="AUX">125</tag><!-- _ -->
+    <tag name="CCONJ">160</tag><!-- _ -->
+    <tag name="DET">933</tag><!-- _ -->
+    <tag name="INTJ">28</tag><!-- _ -->
+    <tag name="NOUN">894</tag><!-- _ -->
+    <tag name="NUM">26</tag><!-- _ -->
+    <tag name="PART">167</tag><!-- _ -->
+    <tag name="PRON">395</tag><!-- _ -->
+    <tag name="PROPN">32</tag><!-- _ -->
+    <tag name="PUNCT">1126</tag><!-- _ -->
+    <tag name="SCONJ">298</tag><!-- _ -->
+    <tag name="VERB">1097</tag><!-- _ -->
+    <tag name="X">18</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="38">
-    <feat name="Aspect" value="Aor" upos="AUX,VERB">12</feat><!-- iːfi, iːha, iːkti, hiːn, imuːki, iːbirin, iːfin, tiːfi -->
-    <feat name="Aspect" value="Imp" upos="PART,VERB">9</feat><!-- ka=, akati, akteːn, astoːbi, ibari, iktiːnn, ki=, theː -->
-    <feat name="Aspect" value="Perf" upos="AUX,VERB">58</feat><!-- ini, tini, iːkti, ikan, iki, adi, adif, agar, agʷoːj, ahagit -->
-    <feat name="Aspect" value="Pfv" upos="VERB">26</feat><!-- ini, eːjaːn, eːn, idi, aba, adi, ani, asganif, eːja, idiːn -->
-    <feat name="Case" value="Abl" upos="ADP,PRON">18</feat><!-- hoːj, =isi, =iː, hoːsoː -->
-    <feat name="Case" value="Acc" upos="DET,PRON">103</feat><!-- =b, oː=, oːn, =i, toː=, =eː, =heːb, =oːn, =hoːk, =oː -->
-    <feat name="Case" value="Com" upos="ADP">2</feat><!-- haːj -->
+  <feats unique="44">
+    <feat name="Aspect" value="Aor" upos="AUX,VERB">73</feat><!-- iːfi, iːbri, iːfiina, iːkti, iːd, tiːfi, iːbrin, hiːn, iːha, hi -->
+    <feat name="Aspect" value="Imp" upos="AUX,PART,VERB">183</feat><!-- indi, ki=, ka=, manri, andi, fanrʔi, aniːw, dannʔi, iniːn, iniːw -->
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">339</feat><!-- ini, eːn, ani, id, akajeː, ʔeːja, adi, adif, aki, iki -->
+    <feat name="Case" value="Abl" upos="ADP,PRON">41</feat><!-- =iː, hoːj, hoːs, =iːsi, =iːsiː, =siːsi, =eː, =iːsoː, =jeː, =saj -->
+    <feat name="Case" value="Acc" upos="DET,PRON">486</feat><!-- oː=, =b, oːn, =oː, =i, =eː, toː=, =hoːk, =oːk, eː= -->
+    <feat name="Case" value="Com" upos="ADP">21</feat><!-- haːj -->
     <feat name="Case" value="Dat" upos="PRON">2</feat><!-- hoː -->
-    <feat name="Case" value="Dis" upos="ADP">3</feat><!-- =ka -->
-    <feat name="Case" value="Gen" upos="PRON">1</feat><!-- =iji -->
-    <feat name="Case" value="Loc" upos="ADP">11</feat><!-- =iːb, =eːb -->
-    <feat name="Case" value="Nom" upos="DET,PRON">45</feat><!-- uː=, ani, uːn, =i, =uːn, aːn, beːn, hinin, umbaruːk, =aː -->
-    <feat name="Definite" value="Def" upos="DET,SCONJ">101</feat><!-- i=, oː=, uː=, ti=, t=, w=, toː=, eː=, j=, aː= -->
-    <feat name="Definite" value="Ind" upos="DET,SCONJ">43</feat><!-- =b, =t -->
-    <feat name="Deixis" value="Prox" upos="DET,PRON">22</feat><!-- oːn, uːn, aːn, eːn, eːt, toːt -->
-    <feat name="Deixis" value="Remt" upos="DET,PRON">2</feat><!-- beːn -->
+    <feat name="Case" value="Gen" upos="ADP,DET,PRON">105</feat><!-- =i, =eː, =ji, =iji, =ihi, oːnaːj, =iheː, =ijoː, =jeː, =hi -->
+    <feat name="Case" value="Loc" upos="ADP">66</feat><!-- =iːb, =eːb, =jeːb -->
+    <feat name="Case" value="Nom" upos="DET,PRON">221</feat><!-- uː=, uːn, ani, =i, tuː=, =uːn, aːn, beːn, aː=, umbaruːk -->
+    <feat name="Case" value="Voc" upos="ADP,PRON">3</feat><!-- jhaː, =aj -->
+    <feat name="Definite" value="Def" upos="DET,PRON,SCONJ">566</feat><!-- i=, oː=, uː=, w=, ti=, t=, j=, toː=, eː=, tuː= -->
+    <feat name="Definite" value="Ind" upos="DET,SCONJ">51</feat><!-- =t, =b -->
+    <feat name="Degree" value="Cmp" upos="ADP">6</feat><!-- =ka -->
+    <feat name="Degree" value="Dim" upos="DET">2</feat><!-- =t -->
+    <feat name="Degree" value="Equ" upos="ADP">1</feat><!-- =eːt -->
+    <feat name="Deixis" value="Prox" upos="DET,PRON">119</feat><!-- oːn, uːn, eːn, aːn, oːt, toːt, tuːt, oːnaːj, uːt, eːt -->
+    <feat name="Deixis" value="Remt" upos="DET,PRON">9</feat><!-- beːn, beːt -->
     <feat name="ExtPos" value="ADV" upos="NOUN">2</feat><!-- doːr -->
     <feat name="ExtPos" value="SCONJ" upos="SCONJ">5</feat><!-- =eːt, =jeːt, =eːb -->
-    <feat name="Foreign" value="Yes" upos="NOUN">3</feat><!-- maːl, xawaːʤa, ʔarabijaːj -->
-    <feat name="Gender" value="Fem" upos="ADP,DET,NOUN,SCONJ,VERB">118</feat><!-- =t, ti=, t=, =eːt, toː=, =jeːt, tini, ʃartijaː, ʔabkin, iːjʔaː -->
-    <feat name="Gender" value="Masc" upos="AUX,DET,NOUN,PRON,SCONJ,VERB">335</feat><!-- ini, =b, i=, oː=, uː=, tak, oːn, w=, uːn, jhaːm -->
-    <feat name="Mood" value="Opt" upos="AUX,VERB">6</feat><!-- aakaj, ba=, bi=, tʔam -->
-    <feat name="Number" value="Plur" upos="ADP,AUX,DET,NOUN,PRON,SCONJ,VERB">66</feat><!-- =oːn, eːn, =eː, eː=, eːjaːn, =jeː, =uːn, aːn, halaka, hinin -->
-    <feat name="Number" value="Sing" upos="ADP,AUX,DET,PRON,SCONJ,VERB">358</feat><!-- ini, =heːb, oː=, uː=, =i, =u, =oː, =iːb, ani, oːn -->
-    <feat name="NumType" value="Ord" upos="NUM">1</feat><!-- -a -->
-    <feat name="Person" value="1" upos="AUX,PRON">72</feat><!-- =heːb, =i, =oː, ani, =oːn, =u, =eː, =uːn, hinin, hoː -->
-    <feat name="Person" value="2" upos="AUX,PRON">9</feat><!-- =hoːk, =wa, umbaruːk, =oːk, barijoːk -->
-    <feat name="Person" value="3" upos="AUX,PRON,VERB">24</feat><!-- =u, =eː, =oː, =isi, =jeː, eːja, eːn, =aː -->
-    <feat name="Polarity" value="Neg" upos="PART,VERB">6</feat><!-- aakaj, baː=, ki=, tʔam -->
-    <feat name="Polite" value="Form" upos="PRON">1</feat><!-- =uːn -->
-    <feat name="Poss" value="Yes" upos="PRON">33</feat><!-- =i, =eː, =oːn, =oː, =isi, =jeː, =uːn, =aː, =iji, =ji -->
-    <feat name="PronType" value="Dem" upos="DET,PRON">24</feat><!-- oːn, uːn, aːn, beːn, eːn, eːt, toːt -->
-    <feat name="PronType" value="Rel" upos="SCONJ">7</feat><!-- =jeːb, w=, =eːb, =eːt -->
-    <feat name="Reflex" value="Yes" upos="PRON">4</feat><!-- kina, nafs -->
-    <feat name="VerbClass" value="1" upos="VERB">167</feat><!-- ini, tini, eːn, indi, iniːw, iːfi, ʔabkin, adi, ameːsa~sʔeː, ani -->
-    <feat name="VerbClass" value="2" upos="VERB">73</feat><!-- sallamaman, eːjaːn, sallamja, eːja, jʔa, jʔan, jʔaː, rhan, sallamta, ɖaːbjai -->
-    <feat name="VerbType" value="Cop" upos="AUX">18</feat><!-- =u, =i, =wa, =a -->
-    <feat name="Voice" value="Mid" upos="VERB">16</feat><!-- ameːsa~sʔeː, ikan, agar, akan, akteːn, asʔa, iktiːnn, kanaː, sʔeː, tikan -->
+    <feat name="Foreign" value="Yes" upos="NOUN,PROPN">4</feat><!-- bani, gahwat, muːna, ʔaːdam -->
+    <feat name="Gender" value="Fem" upos="AUX,DET,NOUN,PRON,SCONJ,VERB">573</feat><!-- =t, ti=, t=, naː, toː=, =eːt, =jeːt, na, tuː=, ʔabaː -->
+    <feat name="Gender" value="Masc" upos="AUX,DET,INTJ,NOUN,PRON,SCONJ,VERB">1632</feat><!-- i=, oː=, =b, uː=, w=, ini, tak, oːn, mhiːn, doːr -->
+    <feat name="Mood" value="Imp" upos="PART">5</feat><!-- baː= -->
+    <feat name="Mood" value="Opt" upos="AUX,PART,VERB">16</feat><!-- ba=, bi=, aakaj, akaːj, ibarin, tkatiːm, tʔam -->
+    <feat name="Number" value="Coll" upos="NOUN">18</feat><!-- dhaj, waːw -->
+    <feat name="Number" value="Plur" upos="ADJ,ADP,AUX,DET,NOUN,PART,PRON,SCONJ,VERB">380</feat><!-- eːn, =eː, jam, =eːb, eː=, =a, =oːn, =uːn, aːn, =jeː -->
+    <feat name="Number" value="Sing" upos="ADP,AUX,DET,INTJ,PRON,SCONJ,VERB">1564</feat><!-- oː=, uː=, =heːb, w=, ini, =i, =iːb, =oː, oːn, ani -->
+    <feat name="PartType" value="Int" upos="ADV,CCONJ,PRON">10</feat><!-- naːn, han, kak, naː, ʔaːw -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">243</feat><!-- =heːb, =i, ani, =oː, =ji, =oːn, =uːn, =eː, =u, =iji -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">53</feat><!-- =hoːk, =oːk, umbaruːk, =wa, baruːk, =eːk, =aːk, =joːk, =juːk, =oːkna -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">235</feat><!-- eːn, =oː, =u, =eː, =a, =i, manri, =joː, ʔeːja, =ihi -->
+    <feat name="Polarity" value="Neg" upos="AUX,PART,VERB">41</feat><!-- ka=, ki=, baː=, aakaj, arib, irib, akaːj, aki, ibarin, tirib -->
+    <feat name="Polite" value="Form" upos="PRON">9</feat><!-- =uːn, =hoːn, =oːn -->
+    <feat name="Poss" value="Yes" upos="PRON">193</feat><!-- =i, =oː, =eː, =oːk, =uːn, =ji, =joː, =oːn, =iji, =jeː -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">131</feat><!-- oːn, uːn, eːn, aːn, beːn, oːt, toːt, tuːt, oːnaːj, uːt -->
+    <feat name="PronType" value="Rel" upos="PRON,SCONJ">115</feat><!-- =eːb, =jeːb, =jeː, =eː, wi=, =i, =eːt, =jeːt, i=, ti= -->
+    <feat name="Reflex" value="Yes" upos="PRON">19</feat><!-- kna, kina, nafs -->
+    <feat name="VerbClass" value="1" upos="AUX,VERB">711</feat><!-- ini, eːn, indi, iːfi, ani, iːbri, manri, id, iːfiina, tifirʔa -->
+    <feat name="VerbClass" value="2" upos="VERB">369</feat><!-- jʔi, rhan, jʔeːtiːt, sallamaman, jʔan, ʔeːja, hiːreːreː, afirha, diwi, gʷʔeː -->
+    <feat name="VerbType" value="Cop" upos="AUX">62</feat><!-- =u, =a, =i, =wa, =ju, =jaː, =ji -->
+    <feat name="VerbType" value="Light" upos="AUX,VERB">5</feat><!-- ani, diːtiːt, ikatina, indi, ini -->
+    <feat name="Voice" value="Mid" upos="VERB">36</feat><!-- tifirʔa, ameːsa~sʔeː, asʔa, ikan, ʔagar, agam, akan, agar, akteːn, aktiːn -->
+    <feat name="Voice" value="Pass" upos="VERB">1</feat><!-- agam -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="43">
-    <dep name="acl">2</dep>
-    <dep name="acl:relcl">21</dep>
-    <dep name="advcl">31</dep>
-    <dep name="advmod">26</dep>
-    <dep name="amod">5</dep>
-    <dep name="appos">3</dep>
-    <dep name="aux">13</dep>
-    <dep name="case">22</dep>
-    <dep name="cc">34</dep>
-    <dep name="ccomp">12</dep>
-    <dep name="compound">2</dep>
-    <dep name="compound:svc">3</dep>
-    <dep name="cop">20</dep>
-    <dep name="dep">13</dep>
-    <dep name="dep:comp">34</dep>
-    <dep name="dep:conj">26</dep>
-    <dep name="dep:redup">4</dep>
-    <dep name="det">167</dep>
-    <dep name="discourse">29</dep>
-    <dep name="dislocated">10</dep>
-    <dep name="dislocated:det">1</dep>
-    <dep name="dislocated:subj">2</dep>
+  <deps unique="41">
+    <dep name="acl">8</dep>
+    <dep name="acl:relcl">114</dep>
+    <dep name="advcl">127</dep>
+    <dep name="advmod">169</dep>
+    <dep name="amod">38</dep>
+    <dep name="appos">9</dep>
+    <dep name="aux">52</dep>
+    <dep name="case">24</dep>
+    <dep name="cc">164</dep>
+    <dep name="ccomp">11</dep>
+    <dep name="compound:svc">11</dep>
+    <dep name="cop">66</dep>
+    <dep name="csubj">2</dep>
+    <dep name="dep">211</dep>
+    <dep name="dep:comp">512</dep>
+    <dep name="dep:conj">169</dep>
+    <dep name="dep:redup">10</dep>
+    <dep name="det">907</dep>
+    <dep name="discourse">183</dep>
+    <dep name="dislocated">18</dep>
+    <dep name="dislocated:mod">18</dep>
+    <dep name="dislocated:obj">29</dep>
+    <dep name="dislocated:subj">30</dep>
     <dep name="fixed">14</dep>
-    <dep name="flat:foreign">1</dep>
-    <dep name="iobj">17</dep>
-    <dep name="mark">48</dep>
-    <dep name="nmod">25</dep>
-    <dep name="nmod:poss">23</dep>
-    <dep name="nsubj">52</dep>
-    <dep name="nummod">2</dep>
-    <dep name="nummod:det">1</dep>
-    <dep name="obj">101</dep>
-    <dep name="obl:arg">32</dep>
-    <dep name="obl:mod">9</dep>
-    <dep name="parataxis">58</dep>
-    <dep name="parataxis:conj">4</dep>
+    <dep name="iobj">7</dep>
+    <dep name="mark">63</dep>
+    <dep name="nmod">86</dep>
+    <dep name="nmod:poss">142</dep>
+    <dep name="nsubj">233</dep>
+    <dep name="nummod">9</dep>
+    <dep name="obj">417</dep>
+    <dep name="obl:arg">250</dep>
+    <dep name="obl:mod">74</dep>
+    <dep name="parataxis">136</dep>
     <dep name="parataxis:insert">1</dep>
-    <dep name="parataxis:mod">1</dep>
-    <dep name="punct">241</dep>
-    <dep name="reparandum">14</dep>
-    <dep name="root">78</dep>
-    <dep name="vocative">2</dep>
-    <dep name="xcomp">2</dep>
+    <dep name="parataxis:parenth">1</dep>
+    <dep name="punct">1126</dep>
+    <dep name="reparandum">39</dep>
+    <dep name="root">380</dep>
+    <dep name="vocative">14</dep>
+    <dep name="xcomp">14</dep>
   </deps>
 </treebank>
